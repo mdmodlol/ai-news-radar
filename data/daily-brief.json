@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:20:00.223864Z",
+  "generated_at": "2026-11-24T06:45:38.755987Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,20 +17,15 @@
           "title_zh": null,
           "title_en": "OpenAI and Cisco introduce Shirudo",
           "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nNovember 23, 2026\nAn open-source runtime that helps operators protect running Linux sy",
-          "recommend_reason_zh": "OpenAI and Cisco推出开源运行时Shirudo，帮助团队在打补丁期间保护运行中的Linux系统；受控测试中，Codex生成的shield无需重启便挡住了针对Elasticsearch的Java4Shell攻击。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-shirudo",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T21:20:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI and Cisco's open-source Shirudo runtime lets teams keep running Linux systems protected while patches roll out, and in controlled tests a Codex-generated shield blocked a Java4Shell attack on Elasticsearch without a reboot."
-          }
+          "recency_basis": null
         },
         {
           "id": "99028839716403f809f4ac0f46cec51f90006bdf",
@@ -46,12 +41,7 @@
           "site_id": "iris",
           "published_at": "2026-11-23T21:30:41Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -66,20 +56,15 @@
           "title_zh": null,
           "title_en": "OpenAI and Cisco introduce Shirudo",
           "title_original": "OpenAI and Cisco introduce Shirudo",
-          "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nNovember 23, 2026\nAn open-source runtime that helps operators protect running Linux sy",
-          "recommend_reason_zh": "OpenAI and Cisco推出开源运行时Shirudo，帮助团队在打补丁期间保护运行中的Linux系统；受控测试中，Codex生成的shield无需重启便挡住了针对Elasticsearch的Java4Shell攻击。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-shirudo",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T21:20:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI and Cisco's open-source Shirudo runtime lets teams keep running Linux systems protected while patches roll out, and in controlled tests a Codex-generated shield blocked a Java4Shell attack on Elasticsearch without a reboot."
-          }
+          "recency_basis": null
         },
         {
           "id": "99028839716403f809f4ac0f46cec51f90006bdf",
@@ -95,25 +80,20 @@
           "site_id": "iris",
           "published_at": "2026-11-23T21:30:41Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.917,
+        "recency": 0.8727,
         "story_heat": 0.25
       },
       "category": "official",
@@ -131,24 +111,17 @@
         "title_zh": null,
         "title_en": "OpenAI and Cisco introduce Shirudo",
         "title_original": "OpenAI and Cisco introduce Shirudo",
-        "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nOpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.\nNovember 23, 2026\nAn open-source runtime that helps operators protect running Linux sy",
-        "recommend_reason_zh": "OpenAI and Cisco推出开源运行时Shirudo，帮助团队在打补丁期间保护运行中的Linux系统；受控测试中，Codex生成的shield无需重启便挡住了针对Elasticsearch的Java4Shell攻击。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/introducing-shirudo",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "OpenAI and Cisco's open-source Shirudo runtime lets teams keep running Linux systems protected while patches roll out, and in controlled tests a Codex-generated shield blocked a Java4Shell attack on Elasticsearch without a reboot."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "OpenAI 和思科联合做的企业安全产品，短期落不到你代码里，等它公开 API 和定价再看。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -165,20 +138,15 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.172.0",
           "title_original": "Codex CLI 0.172.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.171.0...rust-v0.172.0\nFull release on Github\nFull Changelog: rust-v0.170.0...rust-v0.171.0",
-          "recommend_reason_zh": "Codex CLI 发布 0.172.0 版本，附 rust-v0.171.0...rust-v0.172.0 完整变更日志与 Github 发布页，并列出 0.170.0 到 0.171.0 的更新记录，方便跟踪 ChatGPT 与 Codex 的最新改动。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-24T00:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex CLI 0.172.0 is out with a full rust-v0.171.0...rust-v0.172.0 changelog and GitHub release page, plus the 0.170.0-to-0.171.0 update record for tracking ChatGPT and Codex changes."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -192,33 +160,28 @@
           "title_zh": null,
           "title_en": "Codex CLI 0.172.0",
           "title_original": "Codex CLI 0.172.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.171.0...rust-v0.172.0\nFull release on Github\nFull Changelog: rust-v0.170.0...rust-v0.171.0",
-          "recommend_reason_zh": "Codex CLI 发布 0.172.0 版本，附 rust-v0.171.0...rust-v0.172.0 完整变更日志与 Github 发布页，并列出 0.170.0 到 0.171.0 的更新记录，方便跟踪 ChatGPT 与 Codex 的最新改动。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-24T00:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex CLI 0.172.0 is out with a full rust-v0.171.0...rust-v0.172.0 changelog and GitHub release page, plus the 0.170.0-to-0.171.0 update record for tracking ChatGPT and Codex changes."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8575,
-      "importance": 0.8575,
-      "importance_score": 0.8575,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.953,
+        "recency": 0.907,
         "story_heat": 0.0
       },
       "category": "official",
@@ -235,24 +198,17 @@
         "title_zh": null,
         "title_en": "Codex CLI 0.172.0",
         "title_original": "Codex CLI 0.172.0",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.171.0...rust-v0.172.0\nFull release on Github\nFull Changelog: rust-v0.170.0...rust-v0.171.0",
-        "recommend_reason_zh": "Codex CLI 发布 0.172.0 版本，附 rust-v0.171.0...rust-v0.172.0 完整变更日志与 Github 发布页，并列出 0.170.0 到 0.171.0 的更新记录，方便跟踪 ChatGPT 与 Codex 的最新改动。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Codex CLI 0.172.0 is out with a full rust-v0.171.0...rust-v0.172.0 changelog and GitHub release page, plus the 0.170.0-to-0.171.0 update record for tracking ChatGPT and Codex changes."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "小版本迭代，用 Codex CLI 的扫一眼 changelog 再升，别被默认行为改动坑到。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -270,19 +226,14 @@
           "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
           "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
           "summary": null,
-          "recommend_reason_zh": "Ai2发布RoboTrack基准与数据套件，含307个来自DROID等的人工标注视频，显示领先tracker在真实操作场景得分远低于既有基准，并推出在5项评测中4项达SOTA的RoboTracker-Warp。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/allenai/robotrack",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T17:20:37Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Ai2's RoboTrack benchmark and data suite includes 307 human-annotated videos from DROID and shows leading point trackers score far below existing benchmarks on real robotic manipulation, while its RoboTracker-Warp reaches state-of-the-art on four of five evaluations."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -297,32 +248,27 @@
           "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
           "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
           "summary": null,
-          "recommend_reason_zh": "Ai2发布RoboTrack基准与数据套件，含307个来自DROID等的人工标注视频，显示领先tracker在真实操作场景得分远低于既有基准，并推出在5项评测中4项达SOTA的RoboTracker-Warp。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/allenai/robotrack",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T17:20:37Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Ai2's RoboTrack benchmark and data suite includes 307 human-annotated videos from DROID and shows leading point trackers score far below existing benchmarks on real robotic manipulation, while its RoboTracker-Warp reaches state-of-the-art on four of five evaluations."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8657,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,23 +286,16 @@
         "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
         "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
         "summary": null,
-        "recommend_reason_zh": "Ai2发布RoboTrack基准与数据套件，含307个来自DROID等的人工标注视频，显示领先tracker在真实操作场景得分远低于既有基准，并推出在5项评测中4项达SOTA的RoboTracker-Warp。",
+        "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/allenai/robotrack",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Ai2's RoboTrack benchmark and data suite includes 307 human-annotated videos from DROID and shows leading point trackers score far below existing benchmarks on real robotic manipulation, while its RoboTracker-Warp reaches state-of-the-art on four of five evaluations."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "做具身智能和机器人视觉的可以去看权重和用法；普通开发者暂时用不上。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -374,19 +313,14 @@
           "title_en": "Issue statuses and repository boards are in public preview",
           "title_original": "Issue statuses and repository boards are in public preview",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在公开预览中让 issue 不再只分 open/closed，而可用更细状态并在 repository boards 按 status: 筛选进度，还支持 GraphQL、REST API 和 MCP server 读写状态及 Copilot 自动化触发状态变更。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T20:37:11Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub issues now get finer statuses beyond open/closed in public preview, repository boards with status: filtering, and GraphQL, REST API and MCP server read/write access, with Copilot automation triggering status changes."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -401,32 +335,27 @@
           "title_en": "Issue statuses and repository boards are in public preview",
           "title_original": "Issue statuses and repository boards are in public preview",
           "summary": null,
-          "recommend_reason_zh": "GitHub 在公开预览中让 issue 不再只分 open/closed，而可用更细状态并在 repository boards 按 status: 筛选进度，还支持 GraphQL、REST API 和 MCP server 读写状态及 Copilot 自动化触发状态变更。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T20:37:11Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub issues now get finer statuses beyond open/closed in public preview, repository boards with status: filtering, and GraphQL, REST API and MCP server read/write access, with Copilot automation triggering status changes."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9076,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -444,23 +373,16 @@
         "title_en": "Issue statuses and repository boards are in public preview",
         "title_original": "Issue statuses and repository boards are in public preview",
         "summary": null,
-        "recommend_reason_zh": "GitHub 在公开预览中让 issue 不再只分 open/closed，而可用更细状态并在 repository boards 按 status: 筛选进度，还支持 GraphQL、REST API 和 MCP server 读写状态及 Copilot 自动化触发状态变更。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "GitHub issues now get finer statuses beyond open/closed in public preview, repository boards with status: filtering, and GraphQL, REST API and MCP server read/write access, with Copilot automation triggering status changes."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "管理项目时能省一步；现在就能在预览里试用。迁移前先用小仓库验证，别急着全量切换。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -478,19 +400,14 @@
           "title_en": "A more tailored Google Search that’s uniquely yours",
           "title_original": "A more tailored Google Search that’s uniquely yours",
           "summary": null,
-          "recommend_reason_zh": "Google Search 的 Personal Intelligence 允许用户自愿连接 Google Wallet、Drive 和 Gemini app，用支出、文档和聊天记录定制 AI Mode 回答；Wallet 今日起推送，Drive 和 Gemini 未来几周跟进，并可在设置中随时调整或关闭。",
+          "recommend_reason_zh": null,
           "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T17:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google Search's Personal Intelligence lets users opt in to connect Google Wallet, Drive, and Gemini so AI Mode answers draw on spending, documents, and chats, with Wallet rolling out today and Drive/Gemini in coming weeks, adjustable in settings."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -505,32 +422,27 @@
           "title_en": "A more tailored Google Search that’s uniquely yours",
           "title_original": "A more tailored Google Search that’s uniquely yours",
           "summary": null,
-          "recommend_reason_zh": "Google Search 的 Personal Intelligence 允许用户自愿连接 Google Wallet、Drive 和 Gemini app，用支出、文档和聊天记录定制 AI Mode 回答；Wallet 今日起推送，Drive 和 Gemini 未来几周跟进，并可在设置中随时调整或关闭。",
+          "recommend_reason_zh": null,
           "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T17:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google Search's Personal Intelligence lets users opt in to connect Google Wallet, Drive, and Gemini so AI Mode answers draw on spending, documents, and chats, with Wallet rolling out today and Drive/Gemini in coming weeks, adjustable in settings."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8116,
+      "importance": 0.8116,
+      "importance_score": 0.8116,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8614,
+        "recency": 0.8198,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,23 +460,16 @@
         "title_en": "A more tailored Google Search that’s uniquely yours",
         "title_original": "A more tailored Google Search that’s uniquely yours",
         "summary": null,
-        "recommend_reason_zh": "Google Search 的 Personal Intelligence 允许用户自愿连接 Google Wallet、Drive 和 Gemini app，用支出、文档和聊天记录定制 AI Mode 回答；Wallet 今日起推送，Drive 和 Gemini 未来几周跟进，并可在设置中随时调整或关闭。",
+        "recommend_reason_zh": null,
         "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
         "source": "Google AI Blog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Google Search's Personal Intelligence lets users opt in to connect Google Wallet, Drive, and Gemini so AI Mode answers draw on spending, documents, and chats, with Wallet rolling out today and Drive/Gemini in coming weeks, adjustable in settings."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 42,
-      "persona_review": "面向消费者的搜索个性化灰度，没 API 没参数可调，开发者只能等它自己铺开。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -582,19 +487,14 @@
           "title_en": "Finding faster quantum algorithms with agents and formal verification",
           "title_original": "Finding faster quantum algorithms with agents and formal verification",
           "summary": null,
-          "recommend_reason_zh": "Google DeepMind与Google Quantum AI用Gemini 4 agent改进量子算法，经Lean形式化验证生成聚变能源、化学和酶模拟的高效量子电路并开源。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T16:59:40Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google DeepMind and Google Quantum AI used Gemini 4 agent teams plus Lean formal verification to generate more efficient quantum circuits for fusion energy, chemistry and enzyme simulations, then open-sourced the results."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -609,32 +509,27 @@
           "title_en": "Finding faster quantum algorithms with agents and formal verification",
           "title_original": "Finding faster quantum algorithms with agents and formal verification",
           "summary": null,
-          "recommend_reason_zh": "Google DeepMind与Google Quantum AI用Gemini 4 agent改进量子算法，经Lean形式化验证生成聚变能源、化学和酶模拟的高效量子电路并开源。",
+          "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T16:59:40Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Google DeepMind and Google Quantum AI used Gemini 4 agent teams plus Lean formal verification to generate more efficient quantum circuits for fusion energy, chemistry and enzyme simulations, then open-sourced the results."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8613,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -652,23 +547,16 @@
         "title_en": "Finding faster quantum algorithms with agents and formal verification",
         "title_original": "Finding faster quantum algorithms with agents and formal verification",
         "summary": null,
-        "recommend_reason_zh": "Google DeepMind与Google Quantum AI用Gemini 4 agent改进量子算法，经Lean形式化验证生成聚变能源、化学和酶模拟的高效量子电路并开源。",
+        "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
         "source": "Google DeepMind",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Google DeepMind and Google Quantum AI used Gemini 4 agent teams plus Lean formal verification to generate more efficient quantum circuits for fusion energy, chemistry and enzyme simulations, then open-sourced the results."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "智能体+形式化验证的思路可借鉴，但没开源代码，量子算法离日常交付还远。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -686,19 +574,14 @@
           "title_en": "Secret scanning reduces false positives for Slack",
           "title_original": "Secret scanning reduces false positives for Slack",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 secret scanning 现已针对 Slack 密钥降低误报检测，其中 slack_incoming_webhook_url 检测器通过排除特定 URL 来减少误匹配，帮助开发者减少无效告警干扰。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T18:32:59Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub’s secret scanning now cuts false-positive detections for Slack secrets, with its slack_incoming_webhook_url detector excluding certain URLs to reduce mismatches and spare developers unnecessary invalid alerts."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -713,32 +596,27 @@
           "title_en": "Secret scanning reduces false positives for Slack",
           "title_original": "Secret scanning reduces false positives for Slack",
           "summary": null,
-          "recommend_reason_zh": "GitHub 的 secret scanning 现已针对 Slack 密钥降低误报检测，其中 slack_incoming_webhook_url 检测器通过排除特定 URL 来减少误匹配，帮助开发者减少无效告警干扰。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T18:32:59Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub’s secret scanning now cuts false-positive detections for Slack secrets, with its slack_incoming_webhook_url detector excluding certain URLs to reduce mismatches and spare developers unnecessary invalid alerts."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8149,
+      "importance": 0.8149,
+      "importance_score": 0.8149,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8809,
+        "recency": 0.8383,
         "story_heat": 0.0
       },
       "category": "official",
@@ -756,23 +634,16 @@
         "title_en": "Secret scanning reduces false positives for Slack",
         "title_original": "Secret scanning reduces false positives for Slack",
         "summary": null,
-        "recommend_reason_zh": "GitHub 的 secret scanning 现已针对 Slack 密钥降低误报检测，其中 slack_incoming_webhook_url 检测器通过排除特定 URL 来减少误匹配，帮助开发者减少无效告警干扰。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "GitHub’s secret scanning now cuts false-positive detections for Slack secrets, with its slack_incoming_webhook_url detector excluding certain URLs to reduce mismatches and spare developers unnecessary invalid alerts."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "用 GHAS 又接了 Slack 的团队能少几条误报告警，其他人可以跳过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -790,19 +661,14 @@
           "title_en": "Richpanel helps companies automate 50% of support in 30 days",
           "title_original": "Richpanel helps companies automate 50% of support in 30 days",
           "summary": null,
-          "recommend_reason_zh": "文章讲Richpanel用GPT-6 Astra搭建Boss AI，让智能代理自动写流程并调用工具，6个月完成约300个部署，还承诺30天内自动化50%或退款。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T08:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Richpanel's Boss AI uses GPT-6 Astra and GPT-6.1 Sol to write procedures and call tools for support agents, with GPT-6 Luna handling conversations; after about 300 deployments in six months, it promises 50% support automation in 30 days or refund."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -817,32 +683,27 @@
           "title_en": "Richpanel helps companies automate 50% of support in 30 days",
           "title_original": "Richpanel helps companies automate 50% of support in 30 days",
           "summary": null,
-          "recommend_reason_zh": "文章讲Richpanel用GPT-6 Astra搭建Boss AI，让智能代理自动写流程并调用工具，6个月完成约300个部署，还承诺30天内自动化50%或退款。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T08:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Richpanel's Boss AI uses GPT-6 Astra and GPT-6.1 Sol to write procedures and call tools for support agents, with GPT-6 Luna handling conversations; after about 300 deployments in six months, it promises 50% support automation in 30 days or refund."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7564,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -860,53 +721,41 @@
         "title_en": "Richpanel helps companies automate 50% of support in 30 days",
         "title_original": "Richpanel helps companies automate 50% of support in 30 days",
         "summary": null,
-        "recommend_reason_zh": "文章讲Richpanel用GPT-6 Astra搭建Boss AI，让智能代理自动写流程并调用工具，6个月完成约300个部署，还承诺30天内自动化50%或退款。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Richpanel's Boss AI uses GPT-6 Astra and GPT-6.1 Sol to write procedures and call tools for support agents, with GPT-6 Luna handling conversations; after about 300 deployments in six months, it promises 50% support automation in 30 days or refund."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "厂商案例软文，没有架构和实现细节，只能当个参考数字，抄不了。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_94fa4d629e2e",
-      "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-      "url": "https://www.aibase.com/news/32485",
-      "primary_url": "https://www.aibase.com/news/32485",
+      "story_id": "story_efef0c41283c",
+      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+      "url": "https://www.aibase.com/news/32491",
+      "primary_url": "https://www.aibase.com/news/32491",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "summary": "Code teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nExplore AI Fronti",
-          "recommend_reason_zh": "11月23日据TechCrunch，Anthropic上线Claude Ship beta，用AI agents接管代码评审、修复与审批：Code Review已正式可用，PR Steward处理失败CI与合并冲突并说明撤销方式，Claude Approvals按自然语言策略审批，建议先观察并设月度支出上限。",
-          "url": "https://www.aibase.com/news/32485",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "AI now takes over code merges too: Anthropic launches Claude Ship",
-            "summary": null,
-            "reason": "Anthropic's Claude Ship beta, reported November 23 by TechCrunch, gives AI agents code review—now generally available—plus a PR Steward that fixes failed CI and merge conflicts and Claude Approvals that enforces natural-language policies."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -915,25 +764,20 @@
       ],
       "items": [
         {
-          "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-          "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-          "summary": "Code teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nExplore AI Fronti",
-          "recommend_reason_zh": "11月23日据TechCrunch，Anthropic上线Claude Ship beta，用AI agents接管代码评审、修复与审批：Code Review已正式可用，PR Steward处理失败CI与合并冲突并说明撤销方式，Claude Approvals按自然语言策略审批，建议先观察并设月度支出上限。",
-          "url": "https://www.aibase.com/news/32485",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "AI now takes over code merges too: Anthropic launches Claude Ship",
-            "summary": null,
-            "reason": "Anthropic's Claude Ship beta, reported November 23 by TechCrunch, gives AI agents code review—now generally available—plus a PR Steward that fixes failed CI and merge conflicts and Claude Approvals that enforces natural-language policies."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -954,32 +798,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "f2a654957d263a3d367e3b6a7b11eb63616913d0",
-        "title": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-        "title_zh": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
+        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
         "title_en": null,
-        "title_original": "AI 连代码合入权都接走了：Anthropic 上线 Claude Ship",
-        "summary": "Code teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nCode teams know that agony: change lists pile up, CI checks are all red, and reviewers drag their feet opening the page. On November 23, according to TechCrunch\nExplore AI Fronti",
-        "recommend_reason_zh": "11月23日据TechCrunch，Anthropic上线Claude Ship beta，用AI agents接管代码评审、修复与审批：Code Review已正式可用，PR Steward处理失败CI与合并冲突并说明撤销方式，Claude Approvals按自然语言策略审批，建议先观察并设月度支出上限。",
-        "url": "https://www.aibase.com/news/32485",
+        "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32491",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "AI now takes over code merges too: Anthropic launches Claude Ship",
-          "summary": null,
-          "reason": "Anthropic's Claude Ship beta, reported November 23 by TechCrunch, gives AI agents code review—now generally available—plus a PR Steward that fixes failed CI and merge conflicts and Claude Approvals that enforces natural-language policies."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "合入权限交给AI前，先把保护分支和回滚机制定好；适合先在非核心仓库试。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -997,19 +834,14 @@
           "title_en": "Code coverage uploads now flag invalid report formats",
           "title_original": "Code coverage uploads now flag invalid report formats",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 upload-code-coverage action 现在校验报告须为 Cobertura XML，格式不符会让上传失败并在 Actions 日志报错，此前却看似成功但 PR 无覆盖率。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T15:28:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub Code Quality’s upload-code-coverage action now rejects non-Cobertura XML reports, failing the upload with “This file is not a Cobertura XML report” in the Actions log instead of appearing successful while leaving pull requests without coverage."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1024,32 +856,27 @@
           "title_en": "Code coverage uploads now flag invalid report formats",
           "title_original": "Code coverage uploads now flag invalid report formats",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 upload-code-coverage action 现在校验报告须为 Cobertura XML，格式不符会让上传失败并在 Actions 日志报错，此前却看似成功但 PR 无覆盖率。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T15:28:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "GitHub Code Quality’s upload-code-coverage action now rejects non-Cobertura XML reports, failing the upload with “This file is not a Cobertura XML report” in the Actions log instead of appearing successful while leaving pull requests without coverage."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8426,
+        "recency": 0.8019,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1067,23 +894,16 @@
         "title_en": "Code coverage uploads now flag invalid report formats",
         "title_original": "Code coverage uploads now flag invalid report formats",
         "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality 的 upload-code-coverage action 现在校验报告须为 Cobertura XML，格式不符会让上传失败并在 Actions 日志报错，此前却看似成功但 PR 无覆盖率。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "GitHub Code Quality’s upload-code-coverage action now rejects non-Cobertura XML reports, failing the upload with “This file is not a Cobertura XML report” in the Actions log instead of appearing successful while leaving pull requests without coverage."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "覆盖率格式错会直接报错，不再静默通过，CI 排查省事；现有流程不用改。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -1101,19 +921,14 @@
           "title_en": "Connected intelligence for in-house legal",
           "title_original": "Connected intelligence for in-house legal",
           "summary": null,
-          "recommend_reason_zh": "OpenAI的Stacey Wang与LECG、Cooley专家探讨AI如何帮in-house法务连接业务背景、搭建可复用工作流，并更充分利用外部律师。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T08:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI’s Stacey Wang and Craig Bruney join LECG’s Mary O’Carroll and Cooley’s Richard Segal to discuss how AI helps in-house legal teams connect business context, build reusable workflows, and get more from outside counsel."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1128,32 +943,27 @@
           "title_en": "Connected intelligence for in-house legal",
           "title_original": "Connected intelligence for in-house legal",
           "summary": null,
-          "recommend_reason_zh": "OpenAI的Stacey Wang与LECG、Cooley专家探讨AI如何帮in-house法务连接业务背景、搭建可复用工作流，并更充分利用外部律师。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T08:00:00Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI’s Stacey Wang and Craig Bruney join LECG’s Mary O’Carroll and Cooley’s Richard Segal to discuss how AI helps in-house legal teams connect business context, build reusable workflows, and get more from outside counsel."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7564,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1171,53 +981,41 @@
         "title_en": "Connected intelligence for in-house legal",
         "title_original": "Connected intelligence for in-house legal",
         "summary": null,
-        "recommend_reason_zh": "OpenAI的Stacey Wang与LECG、Cooley专家探讨AI如何帮in-house法务连接业务背景、搭建可复用工作流，并更充分利用外部律师。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "OpenAI’s Stacey Wang and Craig Bruney join LECG’s Mary O’Carroll and Cooley’s Richard Segal to discuss how AI helps in-house legal teams connect business context, build reusable workflows, and get more from outside counsel."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "面向法务部门的行业软文，无新产品无API，开发者扫一眼就翻页。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_b8395a7f507b",
-      "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-      "url": "https://www.aibase.com/news/32483",
-      "primary_url": "https://www.aibase.com/news/32483",
+      "story_id": "story_dab527c02acf",
+      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+      "url": "https://www.aibase.com/news/32493",
+      "primary_url": "https://www.aibase.com/news/32493",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "summary": "The most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 推出 Claude Ship Beta，三个 agent 分工：Code Review 已 GA 负责审查，PR Steward 清理 CI 失败与合并冲突并逐次说明改动和撤销方式，Claude Approvals 按仓库内自然语言策略审批，后两者仍 beta。",
-          "url": "https://www.aibase.com/news/32483",
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Anthropic launches Claude Ship beta: code review, fixes, and approvals — AI handles the whole pipeline",
-            "summary": null,
-            "reason": "Anthropic's Claude Ship beta splits merge work across three agents: Code Review, already generally available, handles review, PR Steward clears CI failures and merge conflicts with per-change undo notes, and Claude Approvals enforces repo-specific natural-language policies."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1226,25 +1024,20 @@
       ],
       "items": [
         {
-          "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-          "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
           "title_en": null,
-          "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-          "summary": "The most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic 推出 Claude Ship Beta，三个 agent 分工：Code Review 已 GA 负责审查，PR Steward 清理 CI 失败与合并冲突并逐次说明改动和撤销方式，Claude Approvals 按仓库内自然语言策略审批，后两者仍 beta。",
-          "url": "https://www.aibase.com/news/32483",
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32493",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Anthropic launches Claude Ship beta: code review, fixes, and approvals — AI handles the whole pipeline",
-            "summary": null,
-            "reason": "Anthropic's Claude Ship beta splits merge work across three agents: Code Review, already generally available, handles review, PR Steward clears CI failures and merge conflicts with per-change undo notes, and Claude Approvals enforces repo-specific natural-language policies."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -1265,32 +1058,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "3b316e653b3276f62cf0c470cdb13939e997800f",
-        "title": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-        "title_zh": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
+        "id": "31c1600aea349009f25d06633d704b728d86e842",
+        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
         "title_en": null,
-        "title_original": "Anthropic 推出 Claude Ship 测试版：代码审查、修复、批准，AI 一条龙全包了",
-        "summary": "The most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nThe most painful parts of the code merge process—back-and-forth review feedback, mysterious CI check failures, and recurring merge conflicts—are being handed ov\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic 推出 Claude Ship Beta，三个 agent 分工：Code Review 已 GA 负责审查，PR Steward 清理 CI 失败与合并冲突并逐次说明改动和撤销方式，Claude Approvals 按仓库内自然语言策略审批，后两者仍 beta。",
-        "url": "https://www.aibase.com/news/32483",
+        "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32493",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Anthropic launches Claude Ship beta: code review, fixes, and approvals — AI handles the whole pipeline",
-          "summary": null,
-          "reason": "Anthropic's Claude Ship beta splits merge work across three agents: Code Review, already generally available, handles review, PR Steward clears CI failures and merge conflicts with per-change undo notes, and Claude Approvals enforces repo-specific natural-language policies."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "beta 能申请就去试，但自动批准合并那步先关掉，出事没人背锅。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -1307,20 +1093,15 @@
           "title_zh": "从12月1日起，使用报告将新增用户ID列",
           "title_en": "Usage reports will include a user ID column starting December 1",
           "title_original": "Usage reports will include a user ID column starting December 1",
-          "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the…\nStarting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the right.\nThis change applies to the detailed usage report, the AI usage report, and the premium request usage report, including exports you create ",
-          "recommend_reason_zh": "2026年12月1日起，GitHub的详细、AI和高级请求三类用量报告将在username旁新增user_id列，按列位置读取报告的脚本需改为按表头读取。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T10:29:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Starting December 1, 2026, GitHub's detailed, AI and premium request usage reports add a user_id column beside username, shifting later columns right and requiring position-based scripts to switch to header-based parsing."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1334,33 +1115,28 @@
           "title_zh": "从12月1日起，使用报告将新增用户ID列",
           "title_en": "Usage reports will include a user ID column starting December 1",
           "title_original": "Usage reports will include a user ID column starting December 1",
-          "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the…\nStarting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the right.\nThis change applies to the detailed usage report, the AI usage report, and the premium request usage report, including exports you create ",
-          "recommend_reason_zh": "2026年12月1日起，GitHub的详细、AI和高级请求三类用量报告将在username旁新增user_id列，按列位置读取报告的脚本需改为按表头读取。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-11-23T10:29:36Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Starting December 1, 2026, GitHub's detailed, AI and premium request usage reports add a user_id column beside username, shifting later columns right and requiring position-based scripts to switch to header-based parsing."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7841,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1377,54 +1153,42 @@
         "title_zh": "从12月1日起，使用报告将新增用户ID列",
         "title_en": "Usage reports will include a user ID column starting December 1",
         "title_original": "Usage reports will include a user ID column starting December 1",
-        "summary": "Starting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the…\nStarting December 1, 2026, usage reports that include a username column will also include a user_id column next to it. Every column after username will move one position to the right.\nThis change applies to the detailed usage report, the AI usage report, and the premium request usage report, including exports you create ",
-        "recommend_reason_zh": "2026年12月1日起，GitHub的详细、AI和高级请求三类用量报告将在username旁新增user_id列，按列位置读取报告的脚本需改为按表头读取。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Starting December 1, 2026, GitHub's detailed, AI and premium request usage reports add a user_id column beside username, shifting later columns right and requiring position-based scripts to switch to header-based parsing."
-        }
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "如果你在解析用量报表入库，12月1日前得改字段映射，否则解析会挂；不碰这接口的可以跳过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_bc6aadb50411",
-      "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-      "url": "https://www.aibase.com/news/32482",
-      "primary_url": "https://www.aibase.com/news/32482",
+      "story_id": "story_85ecf8e274ca",
+      "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+      "url": "https://www.aibase.com/news/32494",
+      "primary_url": "https://www.aibase.com/news/32494",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "title_en": null,
-          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "summary": "OpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nExplore AI Fronti",
-          "recommend_reason_zh": "GPT-6.2 Sol于11月24日登陆ChatGPT，能看清停车标志细小符号并主动提醒商品降价，GPT-5.6系列部分模型12月23日下线。",
-          "url": "https://www.aibase.com/news/32482",
+          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "GPT-6.2 Sol rolls out across all of ChatGPT: it can read stop signs clearly — and will proactively remind you it's time to cut prices",
-            "summary": null,
-            "reason": "GPT-6.2 Sol landed on ChatGPT on November 24, able to read the tiny symbols on parking signs and proactively flag when a product's price drops, while some GPT-5.6 models retire December 23."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1433,25 +1197,20 @@
       ],
       "items": [
         {
-          "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-          "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
           "title_en": null,
-          "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-          "summary": "OpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nExplore AI Fronti",
-          "recommend_reason_zh": "GPT-6.2 Sol于11月24日登陆ChatGPT，能看清停车标志细小符号并主动提醒商品降价，GPT-5.6系列部分模型12月23日下线。",
-          "url": "https://www.aibase.com/news/32482",
+          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32494",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "GPT-6.2 Sol rolls out across all of ChatGPT: it can read stop signs clearly — and will proactively remind you it's time to cut prices",
-            "summary": null,
-            "reason": "GPT-6.2 Sol landed on ChatGPT on November 24, able to read the tiny symbols on parking signs and proactively flag when a product's price drops, while some GPT-5.6 models retire December 23."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -1472,62 +1231,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "859b25e77f61497cea86cd3642089506835cd7cf",
-        "title": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-        "title_zh": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
+        "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
+        "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
         "title_en": null,
-        "title_original": "GPT-6.2 Sol 全量登陆 ChatGPT：看得清停车标志，还会主动提醒你“该降价了”",
-        "summary": "OpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nOpenAI is iterating its models so fast this time that it feels almost ruthless. Less than a week after GPT-6.2Sol made its debut on the Work and Codex platforms\nExplore AI Fronti",
-        "recommend_reason_zh": "GPT-6.2 Sol于11月24日登陆ChatGPT，能看清停车标志细小符号并主动提醒商品降价，GPT-5.6系列部分模型12月23日下线。",
-        "url": "https://www.aibase.com/news/32482",
+        "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32494",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "GPT-6.2 Sol rolls out across all of ChatGPT: it can read stop signs clearly — and will proactively remind you it's time to cut prices",
-          "summary": null,
-          "reason": "GPT-6.2 Sol landed on ChatGPT on November 24, able to read the tiny symbols on parking signs and proactively flag when a product's price drops, while some GPT-5.6 models retire December 23."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "全量上线听着大，可只有单一来源，无价格无跑分，等官方文档再动手。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_a69a6b9189fb",
-      "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-      "url": "https://www.aibase.com/news/32489",
-      "primary_url": "https://www.aibase.com/news/32489",
+      "story_id": "story_3f7c2306d892",
+      "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+      "url": "https://www.aibase.com/news/32497",
+      "primary_url": "https://www.aibase.com/news/32497",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-          "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "title_en": null,
-          "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "summary": "The gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI于November 24与Cisco开源Shirudo，这个Linux运行时环境让AI agents编写动态eBPF规则，在不改内核、不重启系统的情况下为漏洞攻击提供即时防护，为安全团队争取测试和部署补丁的窗口。",
-          "url": "https://www.aibase.com/news/32489",
+          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "OpenAI teams up with Cisco to open-source Shirudo, giving AI agent systems a \"round-the-clock bulletproof vest",
-            "summary": null,
-            "reason": "OpenAI and Cisco open-sourced Shirudo on November 24, a Linux runtime environment where AI agents write dynamic eBPF rules to shield vulnerable systems without kernel changes or restarts, buying security teams time to test and deploy patches."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1536,25 +1283,20 @@
       ],
       "items": [
         {
-          "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-          "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
           "title_en": null,
-          "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-          "summary": "The gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI于November 24与Cisco开源Shirudo，这个Linux运行时环境让AI agents编写动态eBPF规则，在不改内核、不重启系统的情况下为漏洞攻击提供即时防护，为安全团队争取测试和部署补丁的窗口。",
-          "url": "https://www.aibase.com/news/32489",
+          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32497",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "OpenAI teams up with Cisco to open-source Shirudo, giving AI agent systems a \"round-the-clock bulletproof vest",
-            "summary": null,
-            "reason": "OpenAI and Cisco open-sourced Shirudo on November 24, a Linux runtime environment where AI agents write dynamic eBPF rules to shield vulnerable systems without kernel changes or restarts, buying security teams time to test and deploy patches."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -1575,32 +1317,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "305e1a93b7996daea83a3e9677fcb1a37cb3c761",
-        "title": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-        "title_zh": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
+        "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
+        "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
         "title_en": null,
-        "title_original": "OpenAI 携手思科开源 Shirudo：给 AI 智能体系统装上“不打烊的防弹衣”",
-        "summary": "The gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nThe gap between when a vulnerability is exposed and when a patch lands has always been the most painful time in the security world—systems either grit their tee\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI于November 24与Cisco开源Shirudo，这个Linux运行时环境让AI agents编写动态eBPF规则，在不改内核、不重启系统的情况下为漏洞攻击提供即时防护，为安全团队争取测试和部署补丁的窗口。",
-        "url": "https://www.aibase.com/news/32489",
+        "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32497",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "OpenAI teams up with Cisco to open-source Shirudo, giving AI agent systems a \"round-the-clock bulletproof vest",
-          "summary": null,
-          "reason": "OpenAI and Cisco open-sourced Shirudo on November 24, a Linux runtime environment where AI agents write dynamic eBPF rules to shield vulnerable systems without kernel changes or restarts, buying security teams time to test and deploy patches."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 68,
-      "persona_review": "开源的安全组件可以 clone 试，但单一来源、细节含糊，先看仓库是否真有代码和文档。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -1617,20 +1352,15 @@
           "title_zh": "Anthropic推出Claude Ship，让AI Agent审查、修复并批准代码变更",
           "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
           "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nAs AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicr",
-          "recommend_reason_zh": "Anthropic 推出 Claude Ship，让 AI agents 对代码变更进行审核、修复和批准，接手例行审批，以缓解 AI 生成代码不断堆积带来的瓶颈。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-11-23T22:05:50Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's Claude Ship lets AI agents review, fix and approve code changes, taking over routine approvals to clear the bottleneck created as AI-generated code piles up."
-          }
+          "recency_basis": null
         },
         {
           "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
@@ -1646,12 +1376,7 @@
           "site_id": "hackernews",
           "published_at": "2026-11-23T23:39:44Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1666,20 +1391,15 @@
           "title_zh": "Anthropic推出Claude Ship，让AI Agent审查、修复并批准代码变更",
           "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
           "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-          "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nAs AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicr",
-          "recommend_reason_zh": "Anthropic 推出 Claude Ship，让 AI agents 对代码变更进行审核、修复和批准，接手例行审批，以缓解 AI 生成代码不断堆积带来的瓶颈。",
+          "summary": null,
+          "recommend_reason_zh": null,
           "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
           "source": "TechCrunch AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
           "published_at": "2026-11-23T22:05:50Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Anthropic's Claude Ship lets AI agents review, fix and approve code changes, taking over routine approvals to clear the bottleneck created as AI-generated code piles up."
-          }
+          "recency_basis": null
         },
         {
           "id": "ec0831bcb408209f71a6e7cba02ccd9e6cb3ee2a",
@@ -1695,25 +1415,20 @@
           "site_id": "hackernews",
           "published_at": "2026-11-23T23:39:44Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6606,
-      "importance": 0.6606,
-      "importance_score": 0.6606,
+      "score": 0.6526,
+      "importance": 0.6526,
+      "importance_score": 0.6526,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9272,
+        "recency": 0.8824,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1729,54 +1444,42 @@
         "title_zh": "Anthropic推出Claude Ship，让AI Agent审查、修复并批准代码变更",
         "title_en": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
         "title_original": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
-        "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nAs AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicr",
-        "recommend_reason_zh": "Anthropic 推出 Claude Ship，让 AI agents 对代码变更进行审核、修复和批准，接手例行审批，以缓解 AI 生成代码不断堆积带来的瓶颈。",
+        "summary": null,
+        "recommend_reason_zh": null,
         "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
         "source": "TechCrunch AI",
-        "source_name": "Curated Media",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Anthropic's Claude Ship lets AI agents review, fix and approve code changes, taking over routine approvals to clear the bottleneck created as AI-generated code piles up."
-        }
+        "source_name": "Curated Media"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "能直接接进 PR 流程试用，但别一上来就放开自动批准，先在非核心仓库看它改得对不对。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_342bfa7b286a",
-      "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-      "url": "https://www.aibase.com/news/32484",
-      "primary_url": "https://www.aibase.com/news/32484",
+      "story_id": "story_9f5aa52251ff",
+      "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+      "url": "https://www.aibase.com/news/32496",
+      "primary_url": "https://www.aibase.com/news/32496",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "title_en": null,
-          "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "summary": "Creating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nExplore AI Fronti",
-          "recommend_reason_zh": "11月24日公安部网安局公布10起AI造谣典型案，3起被采取刑事强制措施、7起受行政处罚，含马某用AI生成张家界大峡谷玻璃桥突然坍塌视频、吴某编造广州花都夜市暴雨被淹等。",
-          "url": "https://www.aibase.com/news/32484",
+          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "One Prompt, One \"Disaster\": Ministry of Public Security Cybersecurity Bureau Names 10 Typical AI Disinformation Cases",
-            "summary": null,
-            "reason": "China's Ministry of Public Security cyber-security bureau published 10 typical AI rumor cases on November 24, including Ma's AI-generated video of the Zhangjiajie Grand Canyon glass bridge collapsing and Wu's fabricated Guangzhou Huadu night market flood, with 3 cases leading to criminal coercive measures and 7 to administrative penalties."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1785,25 +1488,20 @@
       ],
       "items": [
         {
-          "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-          "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
           "title_en": null,
-          "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-          "summary": "Creating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nExplore AI Fronti",
-          "recommend_reason_zh": "11月24日公安部网安局公布10起AI造谣典型案，3起被采取刑事强制措施、7起受行政处罚，含马某用AI生成张家界大峡谷玻璃桥突然坍塌视频、吴某编造广州花都夜市暴雨被淹等。",
-          "url": "https://www.aibase.com/news/32484",
+          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32496",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "One Prompt, One \"Disaster\": Ministry of Public Security Cybersecurity Bureau Names 10 Typical AI Disinformation Cases",
-            "summary": null,
-            "reason": "China's Ministry of Public Security cyber-security bureau published 10 typical AI rumor cases on November 24, including Ma's AI-generated video of the Zhangjiajie Grand Canyon glass bridge collapsing and Wu's fabricated Guangzhou Huadu night market flood, with 3 cases leading to criminal coercive measures and 7 to administrative penalties."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -1824,62 +1522,50 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "99151631d278e7c2f783d6c0584352d6f714dbbd",
-        "title": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-        "title_zh": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
+        "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
+        "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+        "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
         "title_en": null,
-        "title_original": "一句提示词造一个“灾情”：公安部网安局公布 10 起 AI 造谣典型案",
-        "summary": "Creating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nCreating rumors with AI is no longer an isolated phenomenon; it has become a categorized offense publicly reported in batches. On November 24, the cybersecurity\nExplore AI Fronti",
-        "recommend_reason_zh": "11月24日公安部网安局公布10起AI造谣典型案，3起被采取刑事强制措施、7起受行政处罚，含马某用AI生成张家界大峡谷玻璃桥突然坍塌视频、吴某编造广州花都夜市暴雨被淹等。",
-        "url": "https://www.aibase.com/news/32484",
+        "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32496",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "One Prompt, One \"Disaster\": Ministry of Public Security Cybersecurity Bureau Names 10 Typical AI Disinformation Cases",
-          "summary": null,
-          "reason": "China's Ministry of Public Security cyber-security bureau published 10 typical AI rumor cases on November 24, including Ma's AI-generated video of the Zhangjiajie Grand Canyon glass bridge collapsing and Wu's fabricated Guangzhou Huadu night market flood, with 3 cases leading to criminal coercive measures and 7 to administrative penalties."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "做面向大众的生成式内容产品，得把造谣审核和留痕提上日程，其余人扫一眼即可。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_852b9844d4de",
-      "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-      "url": "https://www.aibase.com/news/32486",
-      "primary_url": "https://www.aibase.com/news/32486",
+      "story_id": "story_ee602172a084",
+      "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+      "url": "https://www.aibase.com/news/32492",
+      "primary_url": "https://www.aibase.com/news/32492",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
+          "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+          "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
           "title_en": null,
-          "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "summary": "The bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic CEO Dario Amodei 在IPO当天按$83发行价卖出3,378,378股，套现约$280.4 million，未等股价上涨。",
-          "url": "https://www.aibase.com/news/32486",
+          "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32492",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Cashed Out Before the Stock Took Off: Anthropic CEO Sells $280 Million on IPO Day",
-            "summary": null,
-            "reason": "Anthropic CEO Dario Amodei sold 3,378,378 shares at the $83 IPO price on listing day, cashing out roughly $280.4 million before any post-debut rally, according to a Form 4 filed with the SEC."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -1888,25 +1574,20 @@
       ],
       "items": [
         {
-          "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-          "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+          "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
+          "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+          "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
           "title_en": null,
-          "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-          "summary": "The bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic CEO Dario Amodei 在IPO当天按$83发行价卖出3,378,378股，套现约$280.4 million，未等股价上涨。",
-          "url": "https://www.aibase.com/news/32486",
+          "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32492",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Cashed Out Before the Stock Took Off: Anthropic CEO Sells $280 Million on IPO Day",
-            "summary": null,
-            "reason": "Anthropic CEO Dario Amodei sold 3,378,378 shares at the $83 IPO price on listing day, cashing out roughly $280.4 million before any post-debut rally, according to a Form 4 filed with the SEC."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -1927,32 +1608,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "f055cfbca4507f37b88fae876663f44f60adfacd",
-        "title": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-        "title_zh": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
+        "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
+        "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+        "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
         "title_en": null,
-        "title_original": "没等股价起飞就落袋：Anthropic CEO 上市当天套现 2.8 亿美元",
-        "summary": "The bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nThe bell's echo has not yet faded, but he took profits first. On November 24, news emerged that a Form 4 filed by the U.S. Securities and Exchange Commission (S\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic CEO Dario Amodei 在IPO当天按$83发行价卖出3,378,378股，套现约$280.4 million，未等股价上涨。",
-        "url": "https://www.aibase.com/news/32486",
+        "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32492",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Cashed Out Before the Stock Took Off: Anthropic CEO Sells $280 Million on IPO Day",
-          "summary": null,
-          "reason": "Anthropic CEO Dario Amodei sold 3,378,378 shares at the $83 IPO price on listing day, cashing out roughly $280.4 million before any post-debut rally, according to a Form 4 filed with the SEC."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 18,
-      "persona_review": "高管套现跟你的代码没关系，别被标题带节奏。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
@@ -1970,19 +1644,14 @@
           "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
           "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
           "summary": "Your Head of Intelligence. Know what your numbers are hiding",
-          "recommend_reason_zh": "这篇文章正文被 CAPTCHA 安全验证页拦截，提示需确认访问者不是机器人，实质内容并未加载，仅能看到 Othor AI 的标题和一句宣传语。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/othor-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T02:41:01Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A CAPTCHA \"confirm you are not a robot\" check blocks the body of Othor AI's page, leaving readers only the title and tagline \"Your Head of Intelligence. Know what your numbers are hiding."
-          }
+          "updated_at": "2026-11-24T06:45:36Z",
+          "recency_basis": "updated_at"
         },
         {
           "id": "691a819db831f485601a27df10da436fabc4a9d1",
@@ -1998,12 +1667,7 @@
           "site_id": "newsnow",
           "published_at": "2026-11-23T15:59:29.227000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -2019,19 +1683,14 @@
           "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
           "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
           "summary": "Your Head of Intelligence. Know what your numbers are hiding",
-          "recommend_reason_zh": "这篇文章正文被 CAPTCHA 安全验证页拦截，提示需确认访问者不是机器人，实质内容并未加载，仅能看到 Othor AI 的标题和一句宣传语。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/othor-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T02:41:01Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A CAPTCHA \"confirm you are not a robot\" check blocks the body of Othor AI's page, leaving readers only the title and tagline \"Your Head of Intelligence. Know what your numbers are hiding."
-          }
+          "updated_at": "2026-11-24T06:45:36Z",
+          "recency_basis": "updated_at"
         },
         {
           "id": "691a819db831f485601a27df10da436fabc4a9d1",
@@ -2047,25 +1706,20 @@
           "site_id": "newsnow",
           "published_at": "2026-11-23T15:59:29.227000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": null
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5925,
-      "importance": 0.5925,
-      "importance_score": 0.5925,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9907,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2073,7 +1727,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-23T15:59:29.227000Z",
-      "latest_at": "2026-11-24T02:41:01Z",
+      "latest_at": "2026-11-24T06:45:36Z",
       "primary_item": {
         "id": "5b185c328137e1a33ceb636df5742f293a40d559",
         "title": "Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
@@ -2081,53 +1735,41 @@
         "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
         "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
         "summary": "Your Head of Intelligence. Know what your numbers are hiding",
-        "recommend_reason_zh": "这篇文章正文被 CAPTCHA 安全验证页拦截，提示需确认访问者不是机器人，实质内容并未加载，仅能看到 Othor AI 的标题和一句宣传语。",
+        "recommend_reason_zh": null,
         "url": "https://www.producthunt.com/products/othor-ai",
         "source": "Product Hunt",
-        "source_name": "Product Hunt",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "A CAPTCHA \"confirm you are not a robot\" check blocks the body of Othor AI's page, leaving readers only the title and tagline \"Your Head of Intelligence. Know what your numbers are hiding."
-        }
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "只有营销口号，没价格没接口，等能试用再花时间。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     },
     {
-      "story_id": "story_90df56f7b235",
-      "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-      "url": "https://www.aibase.com/news/32487",
-      "primary_url": "https://www.aibase.com/news/32487",
+      "story_id": "story_c1b25f33d161",
+      "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+      "url": "https://www.aibase.com/news/32495",
+      "primary_url": "https://www.aibase.com/news/32495",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-          "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
           "title_en": null,
-          "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "summary": "When enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nExplore AI Frontiers",
-          "recommend_reason_zh": "11月23日OpenAI携手Cisco开源基于Linux eBPF的Shirudo，无需重启即可给运行系统加临时防护盾，测试中Codex生成的防护层拦下针对Elasticsearch的Java4Shell攻击。",
-          "url": "https://www.aibase.com/news/32487",
+          "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32495",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Patches take weeks; protection can go live tonight: OpenAI and Cisco open-source Shirudo",
-            "summary": null,
-            "reason": "OpenAI and Cisco open-sourced Shirudo on November 23, a Linux eBPF-based shield that adds temporary protection without rebooting and, in testing, a Codex-generated layer blocked a Java4Shell attack on Elasticsearch."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
@@ -2136,25 +1778,20 @@
       ],
       "items": [
         {
-          "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-          "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
           "title_en": null,
-          "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-          "summary": "When enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nExplore AI Frontiers",
-          "recommend_reason_zh": "11月23日OpenAI携手Cisco开源基于Linux eBPF的Shirudo，无需重启即可给运行系统加临时防护盾，测试中Codex生成的防护层拦下针对Elasticsearch的Java4Shell攻击。",
-          "url": "https://www.aibase.com/news/32487",
+          "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32495",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T03:20:00.223864Z",
+          "published_at": "2026-11-24T06:45:38.755987Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Patches take weeks; protection can go live tonight: OpenAI and Cisco open-source Shirudo",
-            "summary": null,
-            "reason": "OpenAI and Cisco open-sourced Shirudo on November 23, a Linux eBPF-based shield that adds temporary protection without rebooting and, in testing, a Codex-generated layer blocked a Java4Shell attack on Elasticsearch."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
@@ -2175,32 +1812,25 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T03:20:00.223864Z",
-      "latest_at": "2026-11-24T03:20:00.223864Z",
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "f8653cd6ecd92d0a5691caa42c4df2dbabb1b078",
-        "title": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-        "title_zh": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
+        "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
+        "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+        "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
         "title_en": null,
-        "title_original": "补丁要等数周，防护今晚就能上线：OpenAI 携手思科开源 Shirudo",
-        "summary": "When enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nWhen enterprises discover a Linux vulnerability, patching, testing, canary rollout, and full deployment often take days or even weeks—but attackers won’t wait.\nExplore AI Frontiers",
-        "recommend_reason_zh": "11月23日OpenAI携手Cisco开源基于Linux eBPF的Shirudo，无需重启即可给运行系统加临时防护盾，测试中Codex生成的防护层拦下针对Elasticsearch的Java4Shell攻击。",
-        "url": "https://www.aibase.com/news/32487",
+        "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32495",
         "source": "AIbase",
-        "source_name": "AIbase",
-        "en": {
-          "title": "Patches take weeks; protection can go live tonight: OpenAI and Cisco open-source Shirudo",
-          "summary": null,
-          "reason": "OpenAI and Cisco open-sourced Shirudo on November 23, a Linux eBPF-based shield that adds temporary protection without rebooting and, in testing, a Codex-generated layer blocked a Java4Shell attack on Elasticsearch."
-        }
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 84,
-      "persona_review": "开源防护今晚就能部署，跑AI服务的先clone起来堵住暴露面。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-11-24T03:33:33.929944Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T06:47:00.486753Z"
       }
     }
   ]

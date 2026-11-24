@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:21:23.697284Z",
+  "generated_at": "2026-11-24T06:46:41.004715Z",
   "date": "2026-11-24",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T03:20:00.223864Z"
+      "observed_at": "2026-11-24T06:45:38.755987Z"
     },
     {
       "id": "project_b363e07e137e",
@@ -27,9 +27,9 @@
       "recommend_reason_zh": "Replit Missions 让你设定预算并协调多支 AI 智能体团队协作，想体验多智能体分工与成本控制的话值得打开试试。",
       "recommend_reason_en": "Replit Missions lets you set a budget and coordinate teams of AI agents, making it worth opening to explore budgeted multi-agent coordination.",
       "published_at": "2026-11-22T17:13:25Z",
-      "updated_at": "2026-11-24T03:18:32Z",
+      "updated_at": "2026-11-24T06:45:40Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T03:20:48.228276Z"
+      "observed_at": "2026-11-24T06:46:28.857861Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-24T03:20:00.223864Z"
+      "observed_at": "2026-11-24T06:45:38.755987Z"
     },
     {
-      "id": "project_c5fbaf1d8a56",
-      "project_name": "Ashwa",
-      "url": "https://www.producthunt.com/products/ashwa",
-      "summary": "Your AI companion that never forgets what you say",
+      "id": "project_378c0f982d30",
+      "project_name": "Plango",
+      "url": "https://www.producthunt.com/products/plango",
+      "summary": "Plango lets your AI agents work all night - safely",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "Ashwa 是一个会记住你说过的话的 AI 伙伴，适合想体验长期记忆式陪伴对话的人打开感受。",
-      "recommend_reason_en": "Ashwa is an AI companion designed to remember what you tell it, making it worth opening if you want a conversational assistant that keeps context over time.",
-      "published_at": "2026-11-22T20:25:10Z",
-      "updated_at": "2026-11-24T02:39:51Z",
+      "recommend_reason_zh": "Plango能让AI代理安全地整夜工作，适合想体验夜间持续任务的人打开。",
+      "recommend_reason_en": "Plango lets AI agents work all night safely, making it worth opening for anyone interested in overnight agent workflows.",
+      "published_at": "2026-11-22T17:08:26Z",
+      "updated_at": "2026-11-24T06:45:34Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-24T03:20:48.228276Z"
+      "observed_at": "2026-11-24T06:46:28.857861Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 224,
+      "duration_ms": 1646,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 100,
+      "duration_ms": 113,
       "error": null
     }
   ]

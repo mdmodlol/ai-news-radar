@@ -5,13 +5,13 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 03:20:00 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 06:45:38 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
 <link>https://openai.com/index/introducing-shirudo</link>
 <guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
-<description>OpenAI and Cisco's open-source Shirudo runtime lets teams keep running Linux systems protected while patches roll out, and in controlled tests a Codex-generated shield blocked a Java4Shell attack on Elasticsearch without a reboot. (OpenAI News)</description>
+<description>OpenAI and Cisco introduce Shirudo (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
 </item>
@@ -19,7 +19,7 @@
 <title>Codex CLI 0.172.0</title>
 <link>https://developers.openai.com/codex/changelog</link>
 <guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>Codex CLI 0.172.0 is out with a full rust-v0.171.0...rust-v0.172.0 changelog and GitHub release page, plus the 0.170.0-to-0.171.0 update record for tracking ChatGPT and Codex changes. (OpenAI Codex Changelog)</description>
+<description>Codex CLI 0.172.0 (OpenAI Codex Changelog)</description>
 <category>Official update</category>
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -27,7 +27,7 @@
 <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
 <link>https://huggingface.co/blog/allenai/robotrack</link>
 <guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
-<description>Ai2's RoboTrack benchmark and data suite includes 307 human-annotated videos from DROID and shows leading point trackers score far below existing benchmarks on real robotic manipulation, while its RoboTracker-Warp reaches state-of-the-art on four of five evaluations. (Hugging Face Blog)</description>
+<description>RoboTrack: Point tracking for real-world robotic manipulation (Hugging Face Blog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
 </item>
@@ -35,7 +35,7 @@
 <title>Issue statuses and repository boards are in public preview</title>
 <link>https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</guid>
-<description>GitHub issues now get finer statuses beyond open/closed in public preview, repository boards with status: filtering, and GraphQL, REST API and MCP server read/write access, with Copilot automation triggering status changes. (GitHub Changelog)</description>
+<description>Issue statuses and repository boards are in public preview (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
 </item>
@@ -43,7 +43,7 @@
 <title>A more tailored Google Search that’s uniquely yours</title>
 <link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
 <guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
-<description>Google Search's Personal Intelligence lets users opt in to connect Google Wallet, Drive, and Gemini so AI Mode answers draw on spending, documents, and chats, with Wallet rolling out today and Drive/Gemini in coming weeks, adjustable in settings. (Google AI Blog)</description>
+<description>A more tailored Google Search that’s uniquely yours (Google AI Blog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
 </item>
@@ -51,7 +51,7 @@
 <title>Finding faster quantum algorithms with agents and formal verification</title>
 <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
 <guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
-<description>Google DeepMind and Google Quantum AI used Gemini 4 agent teams plus Lean formal verification to generate more efficient quantum circuits for fusion energy, chemistry and enzyme simulations, then open-sourced the results. (Google DeepMind)</description>
+<description>Finding faster quantum algorithms with agents and formal verification (Google DeepMind)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
 </item>
@@ -59,7 +59,7 @@
 <title>Secret scanning reduces false positives for Slack</title>
 <link>https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</guid>
-<description>GitHub’s secret scanning now cuts false-positive detections for Slack secrets, with its slack_incoming_webhook_url detector excluding certain URLs to reduce mismatches and spare developers unnecessary invalid alerts. (GitHub Changelog)</description>
+<description>Secret scanning reduces false positives for Slack (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
 </item>
@@ -67,23 +67,23 @@
 <title>Richpanel helps companies automate 50% of support in 30 days</title>
 <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
 <guid isPermaLink="true">https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
-<description>Richpanel's Boss AI uses GPT-6 Astra and GPT-6.1 Sol to write procedures and call tools for support agents, with GPT-6 Luna handling conversations; after about 300 deployments in six months, it promises 50% support automation in 30 days or refund. (OpenAI News)</description>
+<description>Richpanel helps companies automate 50% of support in 30 days (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>AI now takes over code merges too: Anthropic launches Claude Ship</title>
-<link>https://www.aibase.com/news/32485</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32485</guid>
-<description>Anthropic's Claude Ship beta, reported November 23 by TechCrunch, gives AI agents code review—now generally available—plus a PR Steward that fixes failed CI and merge conflicts and Claude Approvals that enforces natural-language policies. (AIbase)</description>
+<title>Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局</title>
+<link>https://www.aibase.com/news/32491</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32491</guid>
+<description>Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
 <title>Code coverage uploads now flag invalid report formats</title>
 <link>https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</guid>
-<description>GitHub Code Quality’s upload-code-coverage action now rejects non-Cobertura XML reports, failing the upload with “This file is not a Cobertura XML report” in the Actions log instead of appearing successful while leaving pull requests without coverage. (GitHub Changelog)</description>
+<description>Code coverage uploads now flag invalid report formats (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 15:28:36 +0000</pubDate>
 </item>
@@ -91,81 +91,81 @@
 <title>Connected intelligence for in-house legal</title>
 <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
 <guid isPermaLink="true">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
-<description>OpenAI’s Stacey Wang and Craig Bruney join LECG’s Mary O’Carroll and Cooley’s Richard Segal to discuss how AI helps in-house legal teams connect business context, build reusable workflows, and get more from outside counsel. (OpenAI News)</description>
+<description>Connected intelligence for in-house legal (OpenAI News)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic launches Claude Ship beta: code review, fixes, and approvals — AI handles the whole pipeline</title>
-<link>https://www.aibase.com/news/32483</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32483</guid>
-<description>Anthropic's Claude Ship beta splits merge work across three agents: Code Review, already generally available, handles review, PR Steward clears CI failures and merge conflicts with per-change undo notes, and Claude Approvals enforces repo-specific natural-language policies. (AIbase)</description>
+<title>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次</title>
+<link>https://www.aibase.com/news/32493</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32493</guid>
+<description>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
 <title>Usage reports will include a user ID column starting December 1</title>
 <link>https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1</guid>
-<description>Starting December 1, 2026, GitHub's detailed, AI and premium request usage reports add a user_id column beside username, shifting later columns right and requiring position-based scripts to switch to header-based parsing. (GitHub Changelog)</description>
+<description>Usage reports will include a user ID column starting December 1 (GitHub Changelog)</description>
 <category>Official update</category>
 <pubDate>Mon, 23 Nov 2026 10:29:36 +0000</pubDate>
 </item>
 <item>
-<title>GPT-6.2 Sol rolls out across all of ChatGPT: it can read stop signs clearly — and will proactively remind you it's time to cut prices</title>
-<link>https://www.aibase.com/news/32482</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32482</guid>
-<description>GPT-6.2 Sol landed on ChatGPT on November 24, able to read the tiny symbols on parking signs and proactively flag when a product's price drops, while some GPT-5.6 models retire December 23. (AIbase)</description>
+<title>从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑</title>
+<link>https://www.aibase.com/news/32494</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32494</guid>
+<description>从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI teams up with Cisco to open-source Shirudo, giving AI agent systems a "round-the-clock bulletproof vest</title>
-<link>https://www.aibase.com/news/32489</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32489</guid>
-<description>OpenAI and Cisco open-sourced Shirudo on November 24, a Linux runtime environment where AI agents write dynamic eBPF rules to shield vulnerable systems without kernel changes or restarts, buying security teams time to test and deploy patches. (AIbase)</description>
+<title>修补提速也是一种风险：微软总裁警告“完美风暴”还会再来</title>
+<link>https://www.aibase.com/news/32497</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32497</guid>
+<description>修补提速也是一种风险：微软总裁警告“完美风暴”还会再来 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
 <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</guid>
-<description>Anthropic's Claude Ship lets AI agents review, fix and approve code changes, taking over routine approvals to clear the bottleneck created as AI-generated code piles up. (TechCrunch AI)</description>
+<description>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes (TechCrunch AI)</description>
 <category>Worth watching</category>
 <pubDate>Mon, 23 Nov 2026 23:39:44 +0000</pubDate>
 </item>
 <item>
-<title>One Prompt, One "Disaster": Ministry of Public Security Cybersecurity Bureau Names 10 Typical AI Disinformation Cases</title>
-<link>https://www.aibase.com/news/32484</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32484</guid>
-<description>China's Ministry of Public Security cyber-security bureau published 10 typical AI rumor cases on November 24, including Ma's AI-generated video of the Zhangjiajie Grand Canyon glass bridge collapsing and Wu's fabricated Guangzhou Huadu night market flood, with 3 cases leading to criminal coercive measures and 7 to administrative penalties. (AIbase)</description>
+<title>告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力</title>
+<link>https://www.aibase.com/news/32496</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32496</guid>
+<description>告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
-<title>Cashed Out Before the Stock Took Off: Anthropic CEO Sells $280 Million on IPO Day</title>
-<link>https://www.aibase.com/news/32486</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32486</guid>
-<description>Anthropic CEO Dario Amodei sold 3,378,378 shares at the $83 IPO price on listing day, cashing out roughly $280.4 million before any post-debut rally, according to a Form 4 filed with the SEC. (AIbase)</description>
+<title>蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文</title>
+<link>https://www.aibase.com/news/32492</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32492</guid>
+<description>蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
 <title>Othor AI — Your Head of Intelligence. Know what your numbers are hiding</title>
 <link>https://www.producthunt.com/products/othor-ai</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/othor-ai</guid>
-<description>A CAPTCHA "confirm you are not a robot" check blocks the body of Othor AI's page, leaving readers only the title and tagline "Your Head of Intelligence. Know what your numbers are hiding. (Product Hunt)</description>
+<description>Your Head of Intelligence. Know what your numbers are hiding (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Tue, 24 Nov 2026 02:41:01 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:36 +0000</pubDate>
 </item>
 <item>
-<title>Patches take weeks; protection can go live tonight: OpenAI and Cisco open-source Shirudo</title>
-<link>https://www.aibase.com/news/32487</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32487</guid>
-<description>OpenAI and Cisco open-sourced Shirudo on November 23, a Linux eBPF-based shield that adds temporary protection without rebooting and, in testing, a Codex-generated layer blocked a Java4Shell attack on Elasticsearch. (AIbase)</description>
+<title>蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%</title>
+<link>https://www.aibase.com/news/32495</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32495</guid>
+<description>蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100% (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 03:20:00 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
