@@ -5,8 +5,32 @@
 <link>https://news.learnprompt.pro</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 06:45:38 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 18:53:25 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/data/feed.xml"/>
+<item>
+<title>Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+<link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+<guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+</item>
+<item>
+<title>Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.</title>
+<link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
+<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</guid>
+<description>Google AI Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com</title>
+<link>https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
+</item>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
 <link>https://openai.com/index/introducing-shirudo</link>
@@ -24,12 +48,20 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>RoboTrack：面向真实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation</title>
-<link>https://huggingface.co/blog/allenai/robotrack</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/robotrack</guid>
-<description>Hugging Face Blog</description>
+<title>iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories</title>
+<link>https://openai.com/index/ifood</link>
+<guid isPermaLink="true">https://openai.com/index/ifood</guid>
+<description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>腾讯混元发布并开源Hy MT3</title>
+<link>https://www.aibase.com/news/32503</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32503</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 18:03:25 +0000</pubDate>
 </item>
 <item>
 <title>Issue 状态与仓库看板现已进入公开预览 / Issue statuses and repository boards are in public preview</title>
@@ -40,92 +72,44 @@
 <pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
 </item>
 <item>
-<title>更贴合你的 Google Search，独一无二只属于你 / A more tailored Google Search that’s uniquely yours</title>
-<link>https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps</guid>
-<description>Google AI Blog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 17:00:00 +0000</pubDate>
-</item>
-<item>
-<title>用 Agent 和形式化验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification</title>
-<link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</link>
-<guid isPermaLink="true">https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification</guid>
-<description>Google DeepMind</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
-</item>
-<item>
-<title>密钥扫描减少 Slack 的误报 / Secret scanning reduces false positives for Slack</title>
-<link>https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 18:32:59 +0000</pubDate>
-</item>
-<item>
-<title>Richpanel 助企业在30天内将50%的客服工作自动化 / Richpanel helps companies automate 50% of support in 30 days</title>
-<link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
-<guid isPermaLink="true">https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局</title>
-<link>https://www.aibase.com/news/32491</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32491</guid>
+<title>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆</title>
+<link>https://www.aibase.com/news/32502</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32502</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 17:53:25 +0000</pubDate>
 </item>
 <item>
-<title>代码覆盖率上传现在会标记无效的报告格式 / Code coverage uploads now flag invalid report formats</title>
-<link>https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 15:28:36 +0000</pubDate>
-</item>
-<item>
-<title>面向企业内部法务的连接式智能 / Connected intelligence for in-house legal</title>
-<link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
-<guid isPermaLink="true">https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次</title>
-<link>https://www.aibase.com/news/32493</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32493</guid>
+<title>AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”</title>
+<link>https://www.aibase.com/news/32500</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32500</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 15:53:25 +0000</pubDate>
 </item>
 <item>
-<title>从12月1日起，使用报告将新增用户ID列 / Usage reports will include a user ID column starting December 1</title>
-<link>https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 10:29:36 +0000</pubDate>
-</item>
-<item>
-<title>从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑</title>
-<link>https://www.aibase.com/news/32494</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32494</guid>
+<title>“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台</title>
+<link>https://www.aibase.com/news/32498</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32498</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 15:53:25 +0000</pubDate>
 </item>
 <item>
-<title>修补提速也是一种风险：微软总裁警告“完美风暴”还会再来</title>
-<link>https://www.aibase.com/news/32497</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32497</guid>
+<title>亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
+<link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race</guid>
+<description>TechCrunch AI</description>
+<category>值得关注</category>
+<pubDate>Tue, 24 Nov 2026 15:51:07 +0000</pubDate>
+</item>
+<item>
+<title>探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同</title>
+<link>https://www.aibase.com/news/32499</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32499</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 15:53:25 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic推出Claude Ship，让AI Agent审查、修复并批准代码变更 / Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
@@ -136,36 +120,52 @@
 <pubDate>Mon, 23 Nov 2026 23:39:44 +0000</pubDate>
 </item>
 <item>
-<title>告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力</title>
-<link>https://www.aibase.com/news/32496</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32496</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文</title>
-<link>https://www.aibase.com/news/32492</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32492</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
-</item>
-<item>
-<title>Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding</title>
-<link>https://www.producthunt.com/products/othor-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/othor-ai</guid>
-<description>Your Head of Intelligence. Know what your numbers are hiding（Product Hunt）</description>
+<title>Clam AI — 您的收件箱，与 AI 代理安全共享 / Clam AI — Your inbox, safely shared with AI agents</title>
+<link>https://www.producthunt.com/products/clam-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/clam-ai</guid>
+<description>Your inbox, safely shared with AI agents（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 06:45:36 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 18:50:15 +0000</pubDate>
 </item>
 <item>
-<title>蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%</title>
-<link>https://www.aibase.com/news/32495</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32495</guid>
+<title>Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局</title>
+<link>https://www.aibase.com/news/32491</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32491</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+</item>
+<item>
+<title>Tidal 禁止 AI 生成的音乐</title>
+<link>https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</link>
+<guid isPermaLink="true">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</guid>
+<description>variety.com</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 17:08:49 +0000</pubDate>
+</item>
+<item>
+<title>Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it</title>
+<link>https://www.producthunt.com/products/claude-code</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude-code</guid>
+<description>Ship code as fast as you can write it（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Tue, 24 Nov 2026 18:48:11 +0000</pubDate>
+</item>
+<item>
+<title>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次</title>
+<link>https://www.aibase.com/news/32493</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32493</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
+</item>
+<item>
+<title>LLM 代理是为其母公司工作的，而不是为你工作的</title>
+<link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</link>
+<guid isPermaLink="true">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</guid>
+<description>michaelharley.net</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 13:40:57 +0000</pubDate>
 </item>
 </channel>
 </rss>

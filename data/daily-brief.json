@@ -1,8 +1,269 @@
 {
-  "generated_at": "2026-11-24T06:45:38.755987Z",
+  "generated_at": "2026-11-24T18:53:25.899846Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_c2e19fb7f5b4",
+      "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "primary_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f38e9dd8e843c459a13862777d8e559648285636",
+          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:34:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f38e9dd8e843c459a13862777d8e559648285636",
+          "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+          "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:34:13Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8541,
+      "importance": 0.8541,
+      "importance_score": 0.8541,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.967,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:34:13Z",
+      "latest_at": "2026-11-24T16:34:13Z",
+      "primary_item": {
+        "id": "f38e9dd8e843c459a13862777d8e559648285636",
+        "title": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程 / Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "title_zh": "Microduck 避障：Isaac Lab 和 Newton 的 Sim2Real 工作流程",
+        "title_en": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "title_original": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_8c2aab0e28f2",
+      "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "primary_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+          "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+          "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+          "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+          "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8446,
+      "importance": 0.8446,
+      "importance_score": 0.8446,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9591,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:00:00Z",
+      "latest_at": "2026-11-24T16:00:00Z",
+      "primary_item": {
+        "id": "810c54d7dd86246b9fce421358d1832829c1e34f",
+        "title": "Gemini如何为金州勇士队的组织和球迷改变比赛。 / How Gemini is changing the game for Golden State's organization and fans.",
+        "title_zh": "Gemini如何为金州勇士队的组织和球迷改变比赛。",
+        "title_en": "How Gemini is changing the game for Golden State's organization and fans.",
+        "title_original": "How Gemini is changing the game for Golden State's organization and fans.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_4cba4be76f8f",
+      "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+      "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "primary_url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "title_zh": "GitHub.com 上的通知更可预测",
+          "title_en": "More predictable notifications on GitHub.com",
+          "title_original": "More predictable notifications on GitHub.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:40:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+          "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+          "title_zh": "GitHub.com 上的通知更可预测",
+          "title_en": "More predictable notifications on GitHub.com",
+          "title_original": "More predictable notifications on GitHub.com",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-24T16:40:59Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8384,
+      "importance": 0.8384,
+      "importance_score": 0.8384,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9686,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T16:40:59Z",
+      "latest_at": "2026-11-24T16:40:59Z",
+      "primary_item": {
+        "id": "c4f740cb2a4db423f2d61779bde5801181638687",
+        "title": "GitHub.com 上的通知更可预测 / More predictable notifications on GitHub.com",
+        "title_zh": "GitHub.com 上的通知更可预测",
+        "title_en": "More predictable notifications on GitHub.com",
+        "title_original": "More predictable notifications on GitHub.com",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
     {
       "story_id": "story_50849ba4d70a",
       "title": "OpenAI and Cisco introduce Shirudo",
@@ -85,15 +346,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8541,
-      "importance": 0.8541,
-      "importance_score": 0.8541,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8727,
+        "recency": 0.7325,
         "story_heat": 0.25
       },
       "category": "official",
@@ -121,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
@@ -173,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.907,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,67 +469,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_b483870af4d7",
-      "title": "RoboTrack：面向真实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "primary_url": "https://huggingface.co/blog/allenai/robotrack",
-      "source": "Hugging Face Blog",
+      "story_id": "story_a79795d0bbb6",
+      "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/index/ifood",
+      "primary_url": "https://openai.com/index/ifood",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-          "title": "RoboTrack：面向真实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_zh": "RoboTrack：面向真实世界机器人操作的点跟踪",
-          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+          "title_en": "How iFood scales coding agents across 15,000 repositories",
+          "title_original": "How iFood scales coding agents across 15,000 repositories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/ifood",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T17:20:37Z",
+          "published_at": "2026-11-24T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-          "title": "RoboTrack：面向真实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_zh": "RoboTrack：面向真实世界机器人操作的点跟踪",
-          "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-          "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+          "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+          "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+          "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+          "title_en": "How iFood scales coding agents across 15,000 repositories",
+          "title_original": "How iFood scales coding agents across 15,000 repositories",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/robotrack",
-          "source": "Hugging Face Blog",
+          "url": "https://openai.com/index/ifood",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-23T17:20:37Z",
+          "published_at": "2026-11-24T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8239,
+        "ai_relevance": 0.91,
+        "recency": 0.7613,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,25 +538,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-23T17:20:37Z",
-      "latest_at": "2026-11-23T17:20:37Z",
+      "earliest_at": "2026-11-24T00:00:00Z",
+      "latest_at": "2026-11-24T00:00:00Z",
       "primary_item": {
-        "id": "9bbf862d8bcc848b90a535fcb021bb92af25747f",
-        "title": "RoboTrack：面向真实世界机器人操作的点跟踪 / RoboTrack: Point tracking for real-world robotic manipulation",
-        "title_zh": "RoboTrack：面向真实世界机器人操作的点跟踪",
-        "title_en": "RoboTrack: Point tracking for real-world robotic manipulation",
-        "title_original": "RoboTrack: Point tracking for real-world robotic manipulation",
+        "id": "0bb0c467202d7dd2c470c60ec0004253715ed985",
+        "title": "iFood 如何在 15,000 个代码仓库中扩展编码代理 / How iFood scales coding agents across 15,000 repositories",
+        "title_zh": "iFood 如何在 15,000 个代码仓库中扩展编码代理",
+        "title_en": "How iFood scales coding agents across 15,000 repositories",
+        "title_original": "How iFood scales coding agents across 15,000 repositories",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/robotrack",
-        "source": "Hugging Face Blog",
+        "url": "https://openai.com/index/ifood",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_95be8f3370d2",
+      "title": "腾讯混元发布并开源Hy MT3",
+      "url": "https://www.aibase.com/news/32503",
+      "primary_url": "https://www.aibase.com/news/32503",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "title_en": null,
+          "title_original": "腾讯混元发布并开源Hy MT3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T18:03:25.899846Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+          "title": "腾讯混元发布并开源Hy MT3",
+          "title_zh": "腾讯混元发布并开源Hy MT3",
+          "title_en": null,
+          "title_original": "腾讯混元发布并开源Hy MT3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32503",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T18:03:25.899846Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.988,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-24T18:03:25.899846Z",
+      "latest_at": "2026-11-24T18:03:25.899846Z",
+      "primary_item": {
+        "id": "d6920df5f14a9302a98b5be40c3ca4ce86826efb",
+        "title": "腾讯混元发布并开源Hy MT3",
+        "title_zh": "腾讯混元发布并开源Hy MT3",
+        "title_en": null,
+        "title_original": "腾讯混元发布并开源Hy MT3",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32503",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
@@ -347,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8638,
+        "recency": 0.725,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,378 +729,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_f0c49f3f943b",
-      "title": "更贴合你的 Google Search，独一无二只属于你 / A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-          "title": "更贴合你的 Google Search，独一无二只属于你 / A more tailored Google Search that’s uniquely yours",
-          "title_zh": "更贴合你的 Google Search，独一无二只属于你",
-          "title_en": "A more tailored Google Search that’s uniquely yours",
-          "title_original": "A more tailored Google Search that’s uniquely yours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-          "title": "更贴合你的 Google Search，独一无二只属于你 / A more tailored Google Search that’s uniquely yours",
-          "title_zh": "更贴合你的 Google Search，独一无二只属于你",
-          "title_en": "A more tailored Google Search that’s uniquely yours",
-          "title_original": "A more tailored Google Search that’s uniquely yours",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8116,
-      "importance": 0.8116,
-      "importance_score": 0.8116,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8198,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T17:00:00Z",
-      "latest_at": "2026-11-23T17:00:00Z",
-      "primary_item": {
-        "id": "026c998e9d4d1b615c28dc0897e56ccbd2663a5f",
-        "title": "更贴合你的 Google Search，独一无二只属于你 / A more tailored Google Search that’s uniquely yours",
-        "title_zh": "更贴合你的 Google Search，独一无二只属于你",
-        "title_en": "A more tailored Google Search that’s uniquely yours",
-        "title_original": "A more tailored Google Search that’s uniquely yours",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_68ff84661e7c",
-      "title": "用 Agent 和形式化验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification",
-      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "primary_url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-          "title": "用 Agent 和形式化验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification",
-          "title_zh": "用 Agent 和形式化验证寻找更快的量子算法",
-          "title_en": "Finding faster quantum algorithms with agents and formal verification",
-          "title_original": "Finding faster quantum algorithms with agents and formal verification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T16:59:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-          "title": "用 Agent 和形式化验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification",
-          "title_zh": "用 Agent 和形式化验证寻找更快的量子算法",
-          "title_en": "Finding faster quantum algorithms with agents and formal verification",
-          "title_original": "Finding faster quantum algorithms with agents and formal verification",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T16:59:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8197,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T16:59:40Z",
-      "latest_at": "2026-11-23T16:59:40Z",
-      "primary_item": {
-        "id": "2b1171e1da8ace1f0b51f3e2228067eef81757f6",
-        "title": "用 Agent 和形式化验证寻找更快的量子算法 / Finding faster quantum algorithms with agents and formal verification",
-        "title_zh": "用 Agent 和形式化验证寻找更快的量子算法",
-        "title_en": "Finding faster quantum algorithms with agents and formal verification",
-        "title_original": "Finding faster quantum algorithms with agents and formal verification",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_be17d06c51ba",
-      "title": "密钥扫描减少 Slack 的误报 / Secret scanning reduces false positives for Slack",
-      "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "primary_url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "密钥扫描减少 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "title_zh": "密钥扫描减少 Slack 的误报",
-          "title_en": "Secret scanning reduces false positives for Slack",
-          "title_original": "Secret scanning reduces false positives for Slack",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-          "title": "密钥扫描减少 Slack 的误报 / Secret scanning reduces false positives for Slack",
-          "title_zh": "密钥扫描减少 Slack 的误报",
-          "title_en": "Secret scanning reduces false positives for Slack",
-          "title_original": "Secret scanning reduces false positives for Slack",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T18:32:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8383,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T18:32:59Z",
-      "latest_at": "2026-11-23T18:32:59Z",
-      "primary_item": {
-        "id": "75d1d6e4a5034193847eea858e77575e3ae2594d",
-        "title": "密钥扫描减少 Slack 的误报 / Secret scanning reduces false positives for Slack",
-        "title_zh": "密钥扫描减少 Slack 的误报",
-        "title_en": "Secret scanning reduces false positives for Slack",
-        "title_original": "Secret scanning reduces false positives for Slack",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-secret-scanning-reduces-false-positives-for-slack",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_43302055074e",
-      "title": "Richpanel 助企业在30天内将50%的客服工作自动化 / Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "primary_url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-          "title": "Richpanel 助企业在30天内将50%的客服工作自动化 / Richpanel helps companies automate 50% of support in 30 days",
-          "title_zh": "Richpanel 助企业在30天内将50%的客服工作自动化",
-          "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-          "title_original": "Richpanel helps companies automate 50% of support in 30 days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-          "title": "Richpanel 助企业在30天内将50%的客服工作自动化 / Richpanel helps companies automate 50% of support in 30 days",
-          "title_zh": "Richpanel 助企业在30天内将50%的客服工作自动化",
-          "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-          "title_original": "Richpanel helps companies automate 50% of support in 30 days",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7199,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T08:00:00Z",
-      "latest_at": "2026-11-23T08:00:00Z",
-      "primary_item": {
-        "id": "aecacf3a7cb379389b85a5e1e8a110775f030a34",
-        "title": "Richpanel 助企业在30天内将50%的客服工作自动化 / Richpanel helps companies automate 50% of support in 30 days",
-        "title_zh": "Richpanel 助企业在30天内将50%的客服工作自动化",
-        "title_en": "Richpanel helps companies automate 50% of support in 30 days",
-        "title_original": "Richpanel helps companies automate 50% of support in 30 days",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_efef0c41283c",
-      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-      "url": "https://www.aibase.com/news/32491",
-      "primary_url": "https://www.aibase.com/news/32491",
+      "story_id": "story_f7ed224224d2",
+      "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+      "url": "https://www.aibase.com/news/32502",
+      "primary_url": "https://www.aibase.com/news/32502",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
           "title_en": null,
-          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32491",
+          "url": "https://www.aibase.com/news/32502",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T17:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -764,33 +763,33 @@
       ],
       "items": [
         {
-          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+          "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+          "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
           "title_en": null,
-          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32491",
+          "url": "https://www.aibase.com/news/32502",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T17:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -798,17 +797,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
+      "earliest_at": "2026-11-24T17:53:25.899846Z",
+      "latest_at": "2026-11-24T17:53:25.899846Z",
       "primary_item": {
-        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
-        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
-        "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "id": "4263428678abdc5e8e3021f4ab3d10da72cbeac0",
+        "title": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
+        "title_zh": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
         "title_en": null,
-        "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "title_original": "百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32491",
+        "url": "https://www.aibase.com/news/32502",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -816,204 +815,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_24d13cab64b2",
-      "title": "代码覆盖率上传现在会标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-      "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-      "primary_url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在会标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "title_zh": "代码覆盖率上传现在会标记无效的报告格式",
-          "title_en": "Code coverage uploads now flag invalid report formats",
-          "title_original": "Code coverage uploads now flag invalid report formats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-          "title": "代码覆盖率上传现在会标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-          "title_zh": "代码覆盖率上传现在会标记无效的报告格式",
-          "title_en": "Code coverage uploads now flag invalid report formats",
-          "title_original": "Code coverage uploads now flag invalid report formats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T15:28:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8019,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T15:28:36Z",
-      "latest_at": "2026-11-23T15:28:36Z",
-      "primary_item": {
-        "id": "ca75ffb7174862783c75d0de59920d7122035dd0",
-        "title": "代码覆盖率上传现在会标记无效的报告格式 / Code coverage uploads now flag invalid report formats",
-        "title_zh": "代码覆盖率上传现在会标记无效的报告格式",
-        "title_en": "Code coverage uploads now flag invalid report formats",
-        "title_original": "Code coverage uploads now flag invalid report formats",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_a8a3c187bbb6",
-      "title": "面向企业内部法务的连接式智能 / Connected intelligence for in-house legal",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "primary_url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-          "title": "面向企业内部法务的连接式智能 / Connected intelligence for in-house legal",
-          "title_zh": "面向企业内部法务的连接式智能",
-          "title_en": "Connected intelligence for in-house legal",
-          "title_original": "Connected intelligence for in-house legal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-          "title": "面向企业内部法务的连接式智能 / Connected intelligence for in-house legal",
-          "title_zh": "面向企业内部法务的连接式智能",
-          "title_en": "Connected intelligence for in-house legal",
-          "title_original": "Connected intelligence for in-house legal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T08:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7199,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T08:00:00Z",
-      "latest_at": "2026-11-23T08:00:00Z",
-      "primary_item": {
-        "id": "c413ce8ef0bcf08fb82e98532c487388e7218ebd",
-        "title": "面向企业内部法务的连接式智能 / Connected intelligence for in-house legal",
-        "title_zh": "面向企业内部法务的连接式智能",
-        "title_en": "Connected intelligence for in-house legal",
-        "title_original": "Connected intelligence for in-house legal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_dab527c02acf",
-      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-      "url": "https://www.aibase.com/news/32493",
-      "primary_url": "https://www.aibase.com/news/32493",
+      "story_id": "story_0bb8d1c5a29e",
+      "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+      "url": "https://www.aibase.com/news/32500",
+      "primary_url": "https://www.aibase.com/news/32500",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "31c1600aea349009f25d06633d704b728d86e842",
-          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "title_en": null,
-          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32493",
+          "url": "https://www.aibase.com/news/32500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1024,33 +849,33 @@
       ],
       "items": [
         {
-          "id": "31c1600aea349009f25d06633d704b728d86e842",
-          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+          "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+          "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "title_en": null,
-          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32493",
+          "url": "https://www.aibase.com/news/32500",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,17 +883,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
+      "earliest_at": "2026-11-24T15:53:25.899846Z",
+      "latest_at": "2026-11-24T15:53:25.899846Z",
       "primary_item": {
-        "id": "31c1600aea349009f25d06633d704b728d86e842",
-        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
-        "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "id": "0777b16ef8a83cf0a816d8739ec609de73c58d9f",
+        "title": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
+        "title_zh": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
         "title_en": null,
-        "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "title_original": "AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32493",
+        "url": "https://www.aibase.com/news/32500",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1076,117 +901,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_ba4750968541",
-      "title": "从12月1日起，使用报告将新增用户ID列 / Usage reports will include a user ID column starting December 1",
-      "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-      "primary_url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-          "title": "从12月1日起，使用报告将新增用户ID列 / Usage reports will include a user ID column starting December 1",
-          "title_zh": "从12月1日起，使用报告将新增用户ID列",
-          "title_en": "Usage reports will include a user ID column starting December 1",
-          "title_original": "Usage reports will include a user ID column starting December 1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T10:29:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-          "title": "从12月1日起，使用报告将新增用户ID列 / Usage reports will include a user ID column starting December 1",
-          "title_zh": "从12月1日起，使用报告将新增用户ID列",
-          "title_en": "Usage reports will include a user ID column starting December 1",
-          "title_original": "Usage reports will include a user ID column starting December 1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-23T10:29:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7463,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T10:29:36Z",
-      "latest_at": "2026-11-23T10:29:36Z",
-      "primary_item": {
-        "id": "506b940c695586dbdce4440d3cd52f4980b58671",
-        "title": "从12月1日起，使用报告将新增用户ID列 / Usage reports will include a user ID column starting December 1",
-        "title_zh": "从12月1日起，使用报告将新增用户ID列",
-        "title_en": "Usage reports will include a user ID column starting December 1",
-        "title_original": "Usage reports will include a user ID column starting December 1",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-23-usage-reports-will-include-a-user-id-column-starting-december-1",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_85ecf8e274ca",
-      "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-      "url": "https://www.aibase.com/news/32494",
-      "primary_url": "https://www.aibase.com/news/32494",
+      "story_id": "story_0639fc04d65f",
+      "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+      "url": "https://www.aibase.com/news/32498",
+      "primary_url": "https://www.aibase.com/news/32498",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "title_en": null,
-          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32494",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1197,33 +935,33 @@
       ],
       "items": [
         {
-          "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-          "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-          "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+          "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+          "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "title_en": null,
-          "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+          "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32494",
+          "url": "https://www.aibase.com/news/32498",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1231,17 +969,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
+      "earliest_at": "2026-11-24T15:53:25.899846Z",
+      "latest_at": "2026-11-24T15:53:25.899846Z",
       "primary_item": {
-        "id": "4be391a939460f17e30b60f0468d6e9b1503e7d2",
-        "title": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
-        "title_zh": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "id": "6928b217a172943345aa47855e8cfd6f8d3433bb",
+        "title": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
+        "title_zh": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
         "title_en": null,
-        "title_original": "从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑",
+        "title_original": "“25 万页”是玩笑：Claude 黎曼猜想证明争议，被数学家自己拆了台",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32494",
+        "url": "https://www.aibase.com/news/32498",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1249,30 +987,148 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_3f7c2306d892",
-      "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-      "url": "https://www.aibase.com/news/32497",
-      "primary_url": "https://www.aibase.com/news/32497",
+      "story_id": "story_14cf209942e1",
+      "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+      "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "primary_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
+          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
+          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T15:51:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d8eee871e290e2d5a78dc8a6fdbb5358a5e9a428",
+          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距 / Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距",
+          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T15:51:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
+          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
+          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-24T15:51:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d8eee871e290e2d5a78dc8a6fdbb5358a5e9a428",
+          "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距 / Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 在 AI 芯片竞赛中的差距",
+          "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the gap with Nvidia in the AI chip race",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-24T15:51:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.641,
+      "importance": 0.641,
+      "importance_score": 0.641,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.9571,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T15:51:07Z",
+      "latest_at": "2026-11-24T15:51:07Z",
+      "primary_item": {
+        "id": "f2faa91c775016217055a7bcd2f93977c71e0f08",
+        "title": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距 / Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "title_zh": "亚马逊收购 Decart 是为了利用软件来缩小与 Nvidia 的芯片差距",
+        "title_en": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "title_original": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_5145bfd9d408",
+      "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+      "url": "https://www.aibase.com/news/32499",
+      "primary_url": "https://www.aibase.com/news/32499",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "title_en": null,
-          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32497",
+          "url": "https://www.aibase.com/news/32499",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1283,33 +1139,33 @@
       ],
       "items": [
         {
-          "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-          "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-          "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+          "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+          "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "title_en": null,
-          "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+          "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32497",
+          "url": "https://www.aibase.com/news/32499",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
+          "published_at": "2026-11-24T15:53:25.899846Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1317,17 +1173,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
+      "earliest_at": "2026-11-24T15:53:25.899846Z",
+      "latest_at": "2026-11-24T15:53:25.899846Z",
       "primary_item": {
-        "id": "bb0484b469db26a7774030905a1acd57dd9683f5",
-        "title": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
-        "title_zh": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "id": "19602b17dc337cbaf2329bd59915b8a279a78603",
+        "title": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
+        "title_zh": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
         "title_en": null,
-        "title_original": "修补提速也是一种风险：微软总裁警告“完美风暴”还会再来",
+        "title_original": "探索“原创IP+AI漫剧”新业态：书旗中文网2027年再投3亿元强化生态协同",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32497",
+        "url": "https://www.aibase.com/news/32499",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1335,7 +1191,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
@@ -1420,15 +1276,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6526,
-      "importance": 0.6526,
-      "importance_score": 0.6526,
+      "score": 0.627,
+      "importance": 0.627,
+      "importance_score": 0.627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8824,
+        "recency": 0.7406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1454,218 +1310,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_9f5aa52251ff",
-      "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-      "url": "https://www.aibase.com/news/32496",
-      "primary_url": "https://www.aibase.com/news/32496",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "title_en": null,
-          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-          "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "title_en": null,
-          "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32496",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
-      "primary_item": {
-        "id": "6982391f613a612fdf6d58b07f999ce00cff42fc",
-        "title": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-        "title_zh": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-        "title_en": null,
-        "title_original": "告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32496",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_ee602172a084",
-      "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-      "url": "https://www.aibase.com/news/32492",
-      "primary_url": "https://www.aibase.com/news/32492",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
-          "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "title_en": null,
-          "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
-          "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "title_en": null,
-          "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32492",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-24T06:45:38.755987Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T06:45:38.755987Z",
-      "latest_at": "2026-11-24T06:45:38.755987Z",
-      "primary_item": {
-        "id": "f3bafb4c50aee575d7893a2a12ca5fb6dac8cfd0",
-        "title": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-        "title_zh": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-        "title_en": null,
-        "title_original": "蚂蚁OceanBase发布AI数据平台:统一管理多模态数据，为Agent提供业务上下文",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32492",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
-      }
-    },
-    {
-      "story_id": "story_0363c62bc98a",
-      "title": "Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-      "url": "https://www.producthunt.com/products/othor-ai",
-      "primary_url": "https://www.producthunt.com/products/othor-ai",
+      "story_id": "story_53458e856196",
+      "title": "Clam AI — 您的收件箱，与 AI 代理安全共享 / Clam AI — Your inbox, safely shared with AI agents",
+      "url": "https://www.producthunt.com/products/clam-ai",
+      "primary_url": "https://www.producthunt.com/products/clam-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "5b185c328137e1a33ceb636df5742f293a40d559",
-          "title": "Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "title_zh": "Othor AI — 你的情报主管。看清数字背后隐藏的东西",
-          "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "summary": "Your Head of Intelligence. Know what your numbers are hiding",
+          "id": "413ed3d4eca2a437970ebfd8cbdf2531b49dc89f",
+          "title": "Clam AI — 您的收件箱，与 AI 代理安全共享 / Clam AI — Your inbox, safely shared with AI agents",
+          "title_zh": "Clam AI — 您的收件箱，与 AI 代理安全共享",
+          "title_en": "Clam AI — Your inbox, safely shared with AI agents",
+          "title_original": "Clam AI — Your inbox, safely shared with AI agents",
+          "summary": "Your inbox, safely shared with AI agents",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/othor-ai",
+          "url": "https://www.producthunt.com/products/clam-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T06:45:36Z",
+          "published_at": "2026-11-23T08:44:25Z",
+          "updated_at": "2026-11-24T18:50:15Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "691a819db831f485601a27df10da436fabc4a9d1",
-          "title": "Othor AI",
+          "id": "0d72e75283af45c6efea579e723e21082458ad49",
+          "title": "Clam AI",
           "title_zh": null,
-          "title_en": "Othor AI",
-          "title_original": "Othor AI",
+          "title_en": "Clam AI",
+          "title_original": "Clam AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/othor-ai",
+          "url": "https://www.producthunt.com/products/clam-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-23T15:59:29.227000Z",
+          "published_at": "2026-11-24T18:43:04.491000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1677,66 +1361,66 @@
       ],
       "items": [
         {
-          "id": "5b185c328137e1a33ceb636df5742f293a40d559",
-          "title": "Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "title_zh": "Othor AI — 你的情报主管。看清数字背后隐藏的东西",
-          "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-          "summary": "Your Head of Intelligence. Know what your numbers are hiding",
+          "id": "413ed3d4eca2a437970ebfd8cbdf2531b49dc89f",
+          "title": "Clam AI — 您的收件箱，与 AI 代理安全共享 / Clam AI — Your inbox, safely shared with AI agents",
+          "title_zh": "Clam AI — 您的收件箱，与 AI 代理安全共享",
+          "title_en": "Clam AI — Your inbox, safely shared with AI agents",
+          "title_original": "Clam AI — Your inbox, safely shared with AI agents",
+          "summary": "Your inbox, safely shared with AI agents",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/othor-ai",
+          "url": "https://www.producthunt.com/products/clam-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-21T11:57:04Z",
-          "updated_at": "2026-11-24T06:45:36Z",
+          "published_at": "2026-11-23T08:44:25Z",
+          "updated_at": "2026-11-24T18:50:15Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "691a819db831f485601a27df10da436fabc4a9d1",
-          "title": "Othor AI",
+          "id": "0d72e75283af45c6efea579e723e21082458ad49",
+          "title": "Clam AI",
           "title_zh": null,
-          "title_en": "Othor AI",
-          "title_original": "Othor AI",
+          "title_en": "Clam AI",
+          "title_original": "Clam AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/othor-ai",
+          "url": "https://www.producthunt.com/products/clam-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-23T15:59:29.227000Z",
+          "published_at": "2026-11-24T18:43:04.491000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9992,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-23T15:59:29.227000Z",
-      "latest_at": "2026-11-24T06:45:36Z",
+      "earliest_at": "2026-11-24T18:43:04.491000Z",
+      "latest_at": "2026-11-24T18:50:15Z",
       "primary_item": {
-        "id": "5b185c328137e1a33ceb636df5742f293a40d559",
-        "title": "Othor AI — 你的情报主管。看清数字背后隐藏的东西 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-        "title_zh": "Othor AI — 你的情报主管。看清数字背后隐藏的东西",
-        "title_en": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-        "title_original": "Othor AI — Your Head of Intelligence. Know what your numbers are hiding",
-        "summary": "Your Head of Intelligence. Know what your numbers are hiding",
+        "id": "413ed3d4eca2a437970ebfd8cbdf2531b49dc89f",
+        "title": "Clam AI — 您的收件箱，与 AI 代理安全共享 / Clam AI — Your inbox, safely shared with AI agents",
+        "title_zh": "Clam AI — 您的收件箱，与 AI 代理安全共享",
+        "title_en": "Clam AI — Your inbox, safely shared with AI agents",
+        "title_original": "Clam AI — Your inbox, safely shared with AI agents",
+        "summary": "Your inbox, safely shared with AI agents",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/othor-ai",
+        "url": "https://www.producthunt.com/products/clam-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1744,26 +1428,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     },
     {
-      "story_id": "story_c1b25f33d161",
-      "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-      "url": "https://www.aibase.com/news/32495",
-      "primary_url": "https://www.aibase.com/news/32495",
+      "story_id": "story_efef0c41283c",
+      "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+      "url": "https://www.aibase.com/news/32491",
+      "primary_url": "https://www.aibase.com/news/32491",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-          "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32495",
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1778,14 +1462,14 @@
       ],
       "items": [
         {
-          "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-          "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-          "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+          "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+          "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "title_en": null,
-          "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+          "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32495",
+          "url": "https://www.aibase.com/news/32491",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1796,33 +1480,32 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8393,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-24T06:45:38.755987Z",
       "latest_at": "2026-11-24T06:45:38.755987Z",
       "primary_item": {
-        "id": "2e622b92a9240c24fb6dbafebe9372c2023ac501",
-        "title": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
-        "title_zh": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+        "id": "666f6bffb407ff15ac15703be62d6ea18439ba20",
+        "title": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
+        "title_zh": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
         "title_en": null,
-        "title_original": "蚂蚁OceanBase发布经营数据：AI与全球化成为新增长点，海外营收同比增长超100%",
+        "title_original": "Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32495",
+        "url": "https://www.aibase.com/news/32491",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1830,7 +1513,512 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-24T06:47:00.486753Z"
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_1d9cf83c99d6",
+      "title": "Tidal 禁止 AI 生成的音乐",
+      "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "primary_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+      "source": "variety.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+          "title": "Tidal 禁止 AI 生成的音乐",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": null,
+          "title_original": "Tidal 禁止 AI 生成的音乐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "variety.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T17:08:49.269000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f748054b744718f7ee80a841df87d8ba1209b5fc",
+          "title": "Tidal 禁止 AI 生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:12:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5477e7875f749753e1ec762070830abe42412303",
+          "title": "Tidal 禁止人工智能生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止人工智能生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630309",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T16:12:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "variety.com"
+      ],
+      "items": [
+        {
+          "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+          "title": "Tidal 禁止 AI 生成的音乐",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": null,
+          "title_original": "Tidal 禁止 AI 生成的音乐",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "variety.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T17:08:49.269000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f748054b744718f7ee80a841df87d8ba1209b5fc",
+          "title": "Tidal 禁止 AI 生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止 AI 生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T16:12:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5477e7875f749753e1ec762070830abe42412303",
+          "title": "Tidal 禁止人工智能生成的音乐 / Tidal bans AI-generated music",
+          "title_zh": "Tidal 禁止人工智能生成的音乐",
+          "title_en": "Tidal bans AI-generated music",
+          "title_original": "Tidal bans AI-generated music",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50630309",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T16:12:38Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5663,
+      "importance": 0.5663,
+      "importance_score": 0.5663,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9751,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T16:12:38Z",
+      "latest_at": "2026-11-24T17:08:49.269000Z",
+      "primary_item": {
+        "id": "62a28667133cd89b70fd2167a7d936d0fef4ee89",
+        "title": "Tidal 禁止 AI 生成的音乐",
+        "title_zh": "Tidal 禁止 AI 生成的音乐",
+        "title_en": null,
+        "title_original": "Tidal 禁止 AI 生成的音乐",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924",
+        "source": "variety.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_8983e0e8d4c6",
+      "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "primary_url": "https://www.producthunt.com/products/claude-code",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+          "title_zh": "Claude Ship — 尽可能快地编写代码",
+          "title_en": "Claude Ship — Ship code as fast as you can write it",
+          "title_original": "Claude Ship — Ship code as fast as you can write it",
+          "summary": "Ship code as fast as you can write it",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude-code",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T21:00:36Z",
+          "updated_at": "2026-11-24T18:48:11Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
+          "title": "Claude Ship",
+          "title_zh": null,
+          "title_en": "Claude Ship",
+          "title_original": "Claude Ship",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude-code",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T18:43:04.491000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+          "title_zh": "Claude Ship — 尽可能快地编写代码",
+          "title_en": "Claude Ship — Ship code as fast as you can write it",
+          "title_original": "Claude Ship — Ship code as fast as you can write it",
+          "summary": "Ship code as fast as you can write it",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude-code",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T21:00:36Z",
+          "updated_at": "2026-11-24T18:48:11Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
+          "title": "Claude Ship",
+          "title_zh": null,
+          "title_en": "Claude Ship",
+          "title_original": "Claude Ship",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/claude-code",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T18:43:04.491000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T18:43:04.491000Z",
+      "latest_at": "2026-11-24T18:48:11Z",
+      "primary_item": {
+        "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+        "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+        "title_zh": "Claude Ship — 尽可能快地编写代码",
+        "title_en": "Claude Ship — Ship code as fast as you can write it",
+        "title_original": "Claude Ship — Ship code as fast as you can write it",
+        "summary": "Ship code as fast as you can write it",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/claude-code",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_dab527c02acf",
+      "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+      "url": "https://www.aibase.com/news/32493",
+      "primary_url": "https://www.aibase.com/news/32493",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_en": null,
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32493",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:45:38.755987Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "31c1600aea349009f25d06633d704b728d86e842",
+          "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "title_en": null,
+          "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32493",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-24T06:45:38.755987Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7387,
+      "importance": 0.7387,
+      "importance_score": 0.7387,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8393,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-24T06:45:38.755987Z",
+      "latest_at": "2026-11-24T06:45:38.755987Z",
+      "primary_item": {
+        "id": "31c1600aea349009f25d06633d704b728d86e842",
+        "title": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "title_zh": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "title_en": null,
+        "title_original": "MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32493",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
+      }
+    },
+    {
+      "story_id": "story_415acf837f45",
+      "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+      "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "primary_url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+      "source": "michaelharley.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3d599aab23e42e2b58a9534a4192d3dc002158d2",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:40:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "michaelharley.net"
+      ],
+      "items": [
+        {
+          "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": null,
+          "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "michaelharley.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T13:40:57.654000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3d599aab23e42e2b58a9534a4192d3dc002158d2",
+          "title": "LLM 代理是为其母公司工作的，而不是为你工作的 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T12:40:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d1fce9ffee8c33ab25b8fedce088dbc2b9074721",
+          "title": "LLM 代理人为他们的母公司工作，而不是为您工作 / LLM agents work for their parent companies, not for you",
+          "title_zh": "LLM 代理人为他们的母公司工作，而不是为您工作",
+          "title_en": "LLM agents work for their parent companies, not for you",
+          "title_original": "LLM agents work for their parent companies, not for you",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50627340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T12:40:15Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5578,
+      "importance": 0.5578,
+      "importance_score": 0.5578,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9276,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T12:40:15Z",
+      "latest_at": "2026-11-24T13:40:57.654000Z",
+      "primary_item": {
+        "id": "2ed3ece3e269bac078bc99a3c37d6afb24cc06c0",
+        "title": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "title_zh": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "title_en": null,
+        "title_original": "LLM 代理是为其母公司工作的，而不是为你工作的",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you",
+        "source": "michaelharley.net",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-24T18:54:39.013374Z"
       }
     }
   ]
