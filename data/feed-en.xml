@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Tue, 24 Nov 2026 18:53:25 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 21:15:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
@@ -32,12 +32,12 @@
 <pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI and Cisco introduce Shirudo</title>
-<link>https://openai.com/index/introducing-shirudo</link>
-<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
-<description>OpenAI and Cisco introduce Shirudo (OpenAI News)</description>
+<title>Searching for distant planets with Astra</title>
+<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
+<description>Searching for distant planets with Astra (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.172.0</title>
@@ -48,12 +48,12 @@
 <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
-<title>How iFood scales coding agents across 15,000 repositories</title>
-<link>https://openai.com/index/ifood</link>
-<guid isPermaLink="true">https://openai.com/index/ifood</guid>
-<description>How iFood scales coding agents across 15,000 repositories (OpenAI News)</description>
+<title>OpenAI and Cisco introduce Shirudo</title>
+<link>https://openai.com/index/introducing-shirudo</link>
+<guid isPermaLink="true">https://openai.com/index/introducing-shirudo</guid>
+<description>OpenAI and Cisco introduce Shirudo (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 21:30:41 +0000</pubDate>
 </item>
 <item>
 <title>腾讯混元发布并开源Hy MT3</title>
@@ -64,12 +64,12 @@
 <pubDate>Tue, 24 Nov 2026 18:03:25 +0000</pubDate>
 </item>
 <item>
-<title>Issue statuses and repository boards are in public preview</title>
-<link>https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview</guid>
-<description>Issue statuses and repository boards are in public preview (GitHub Changelog)</description>
+<title>How Intentful uses dots to make more time for growth</title>
+<link>https://openai.com/business/customer-stories/intentful-dots</link>
+<guid isPermaLink="true">https://openai.com/business/customer-stories/intentful-dots</guid>
+<description>How Intentful uses dots to make more time for growth (OpenAI News)</description>
 <category>Official update</category>
-<pubDate>Mon, 23 Nov 2026 20:37:11 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆</title>
@@ -78,6 +78,14 @@
 <description>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Tue, 24 Nov 2026 17:53:25 +0000</pubDate>
+</item>
+<item>
+<title>How iFood scales coding agents across 15,000 repositories</title>
+<link>https://openai.com/index/ifood</link>
+<guid isPermaLink="true">https://openai.com/index/ifood</guid>
+<description>How iFood scales coding agents across 15,000 repositories (OpenAI News)</description>
+<category>Official update</category>
+<pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>AI 画错了自己改：商汤开源 U1.6，多模态模型学会“回头看”</title>
@@ -112,20 +120,20 @@
 <pubDate>Tue, 24 Nov 2026 15:53:25 +0000</pubDate>
 </item>
 <item>
+<title>Claude Ship — Ship code as fast as you can write it</title>
+<link>https://www.producthunt.com/products/claude-code</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude-code</guid>
+<description>Ship code as fast as you can write it (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 24 Nov 2026 21:15:30 +0000</pubDate>
+</item>
+<item>
 <title>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes</title>
 <link>https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes</guid>
 <description>Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes (TechCrunch AI)</description>
 <category>Worth watching</category>
 <pubDate>Mon, 23 Nov 2026 23:39:44 +0000</pubDate>
-</item>
-<item>
-<title>Clam AI — Your inbox, safely shared with AI agents</title>
-<link>https://www.producthunt.com/products/clam-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/clam-ai</guid>
-<description>Your inbox, safely shared with AI agents (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 24 Nov 2026 18:50:15 +0000</pubDate>
 </item>
 <item>
 <title>Demo 刚公开就被抄上小程序：一款用AI开发独游靠中国玩家扳回两局</title>
@@ -136,36 +144,28 @@
 <pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
 </item>
 <item>
+<title>Declare 是一款专为您和您的 AI 设计的 UI 语言</title>
+<link>https://davidtemkin.github.io/declarelang</link>
+<guid isPermaLink="true">https://davidtemkin.github.io/declarelang</guid>
+<description>Declare 是一款专为您和您的 AI 设计的 UI 语言 (davidtemkin.github.io)</description>
+<category>Multi-source buzz</category>
+<pubDate>Tue, 24 Nov 2026 20:20:41 +0000</pubDate>
+</item>
+<item>
+<title>Clam AI — Your inbox, safely shared with AI agents</title>
+<link>https://www.producthunt.com/products/clam-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/clam-ai</guid>
+<description>Your inbox, safely shared with AI agents (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Tue, 24 Nov 2026 21:09:58 +0000</pubDate>
+</item>
+<item>
 <title>Tidal 禁止 AI 生成的音乐</title>
 <link>https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</link>
 <guid isPermaLink="true">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</guid>
 <description>Tidal 禁止 AI 生成的音乐 (variety.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Tue, 24 Nov 2026 17:08:49 +0000</pubDate>
-</item>
-<item>
-<title>Claude Ship — Ship code as fast as you can write it</title>
-<link>https://www.producthunt.com/products/claude-code</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude-code</guid>
-<description>Ship code as fast as you can write it (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 24 Nov 2026 18:48:11 +0000</pubDate>
-</item>
-<item>
-<title>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次</title>
-<link>https://www.aibase.com/news/32493</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32493</guid>
-<description>MiniMax H3 开源百日交卷：一个模型裂变成 1472 个，下载量突破 1.48 亿次 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Tue, 24 Nov 2026 06:45:38 +0000</pubDate>
-</item>
-<item>
-<title>LLM 代理是为其母公司工作的，而不是为你工作的</title>
-<link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</link>
-<guid isPermaLink="true">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</guid>
-<description>LLM 代理是为其母公司工作的，而不是为你工作的 (michaelharley.net)</description>
-<category>Multi-source buzz</category>
-<pubDate>Tue, 24 Nov 2026 13:40:57 +0000</pubDate>
 </item>
 </channel>
 </rss>
