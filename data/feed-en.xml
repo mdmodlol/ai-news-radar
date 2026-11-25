@@ -5,47 +5,47 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Wed, 25 Nov 2026 09:51:03 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 20:29:33 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-<link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
-<guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
-<description>GPT-6 models demonstrate intrinsic protein-design capabilities (OpenAI News)</description>
+<title>Where scientists draw the line on AI agents</title>
+<link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+<guid isPermaLink="true">https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+<description>Where scientists draw the line on AI agents (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 23:32:43 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
 </item>
 <item>
-<title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-<link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-<description>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton (Hugging Face Blog)</description>
+<title>How to choose the next safe step in application modernization</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization</guid>
+<description>How to choose the next safe step in application modernization (GitHub AI &amp; ML)</description>
 <category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
-<title>How Gemini is changing the game for Golden State's organization and fans.</title>
-<link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</link>
-<guid isPermaLink="true">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state</guid>
-<description>How Gemini is changing the game for Golden State's organization and fans. (Google AI Blog)</description>
+<title>An Indic Voice Agent with CUGA</title>
+<link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+<description>An Indic Voice Agent with CUGA (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 16:00:00 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
 </item>
 <item>
-<title>More predictable notifications on GitHub.com</title>
-<link>https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com</guid>
-<description>More predictable notifications on GitHub.com (GitHub Changelog)</description>
-<category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 16:40:59 +0000</pubDate>
+<title>谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练</title>
+<link>https://www.aibase.com/news/32532</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32532</guid>
+<description>谷歌为 Gemini 新增独立隐私开关：保留聊天记录的同时，可选择退出 AI 训练 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 25 Nov 2026 18:29:33 +0000</pubDate>
 </item>
 <item>
-<title>Searching for distant planets with Astra</title>
-<link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
-<guid isPermaLink="true">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
-<description>Searching for distant planets with Astra (OpenAI News)</description>
+<title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+<link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
+<guid isPermaLink="true">https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
+<description>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000 (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
+<pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI、Anthropic 内部讨论"停训"：前沿模型强到不敢发，员工担忧安全风险失控</title>
@@ -72,12 +72,28 @@
 <pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
 </item>
 <item>
+<title>Character.AI’s plan to auction off users’ private chats challenged by state AGs</title>
+<link>https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats</link>
+<guid isPermaLink="true">https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats</guid>
+<description>Character.AI’s plan to auction off users’ private chats challenged by state AGs (TechCrunch AI)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 25 Nov 2026 17:35:58 +0000</pubDate>
+</item>
+<item>
 <title>小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加</title>
 <link>https://www.aibase.com/news/32528</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32528</guid>
 <description>小米今年 AI 投入 160 亿元：CFO 称稳健落地，MiMo 调用量与 AI 收入持续增加 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
+</item>
+<item>
+<title>Canva MCP — Turn any AI agent into a creative powerhouse</title>
+<link>https://www.producthunt.com/products/canva</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/canva</guid>
+<description>Turn any AI agent into a creative powerhouse (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 25 Nov 2026 20:20:40 +0000</pubDate>
 </item>
 <item>
 <title>小鹏IRON人形机器人计划2027年二季度发布，1月启动硬件量产</title>
@@ -88,34 +104,18 @@
 <pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
 </item>
 <item>
+<title>3way.Social MCP — Ask your AI to find link partners. You approve the deals.</title>
+<link>https://www.producthunt.com/products/3way-social</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/3way-social</guid>
+<description>Ask your AI to find link partners. You approve the deals. (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Wed, 25 Nov 2026 20:09:31 +0000</pubDate>
+</item>
+<item>
 <title>直接管理60人!黄仁勋为何不愿为英伟达制定接班计划</title>
 <link>https://www.aibase.com/news/32525</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32525</guid>
 <description>直接管理60人!黄仁勋为何不愿为英伟达制定接班计划 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
-</item>
-<item>
-<title>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia</title>
-<link>https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race</guid>
-<description>Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia (TechCrunch AI)</description>
-<category>Worth watching</category>
-<pubDate>Tue, 24 Nov 2026 15:51:07 +0000</pubDate>
-</item>
-<item>
-<title>Canva MCP — Turn any AI agent into a creative powerhouse</title>
-<link>https://www.producthunt.com/products/canva</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/canva</guid>
-<description>Turn any AI agent into a creative powerhouse (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 25 Nov 2026 09:51:44 +0000</pubDate>
-</item>
-<item>
-<title>腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉</title>
-<link>https://www.aibase.com/news/32527</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32527</guid>
-<description>腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉 (AIbase)</description>
 <category>Industry news</category>
 <pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
 </item>
@@ -128,28 +128,12 @@
 <pubDate>Wed, 25 Nov 2026 09:23:03 +0000</pubDate>
 </item>
 <item>
-<title>Claude Ship — Ship code as fast as you can write it</title>
-<link>https://www.producthunt.com/products/claude-code</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/claude-code</guid>
-<description>Ship code as fast as you can write it (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Wed, 25 Nov 2026 09:46:02 +0000</pubDate>
-</item>
-<item>
 <title>Gemini 拒绝把《一闪一闪小星星》的歌词给我</title>
 <link>https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</link>
 <guid isPermaLink="true">https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F</guid>
 <description>Gemini 拒绝把《一闪一闪小星星》的歌词给我 (www.comentr.com)</description>
 <category>Multi-source buzz</category>
 <pubDate>Wed, 25 Nov 2026 06:27:43 +0000</pubDate>
-</item>
-<item>
-<title>蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集</title>
-<link>https://www.aibase.com/news/32523</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32523</guid>
-<description>蚂蚁发布医疗AI安全防护模型LingSante MedGuard，开放风险评测数据集 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
 </item>
 <item>
 <title>PenGPT：一种用于手写和草图生成的生成式变压器模型</title>
@@ -160,12 +144,28 @@
 <pubDate>Wed, 25 Nov 2026 03:48:39 +0000</pubDate>
 </item>
 <item>
-<title>Tidal 禁止 AI 生成的音乐</title>
-<link>https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</link>
-<guid isPermaLink="true">https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924</guid>
-<description>Tidal 禁止 AI 生成的音乐 (variety.com)</description>
+<title>腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉</title>
+<link>https://www.aibase.com/news/32527</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32527</guid>
+<description>腾讯混元开源 Hy4 flash GGUF 量化权重：224B 大模型塞进 64GB Mac mini，分数几乎没掉 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Wed, 25 Nov 2026 09:51:03 +0000</pubDate>
+</item>
+<item>
+<title>GPT-6 模型展现出固有的蛋白质设计能力</title>
+<link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+<guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
+<description>GPT-6 模型展现出固有的蛋白质设计能力 (openai.com)</description>
 <category>Multi-source buzz</category>
-<pubDate>Tue, 24 Nov 2026 17:08:49 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 23:32:43 +0000</pubDate>
+</item>
+<item>
+<title>Top open problems in mathematics ranked by LLM-assessed importance</title>
+<link>https://www.proofatlas.ai/open-problems</link>
+<guid isPermaLink="true">https://www.proofatlas.ai/open-problems</guid>
+<description>Top open problems in mathematics ranked by LLM-assessed importance</description>
+<category>Worth watching</category>
+<pubDate>Wed, 25 Nov 2026 03:01:36 +0000</pubDate>
 </item>
 </channel>
 </rss>
