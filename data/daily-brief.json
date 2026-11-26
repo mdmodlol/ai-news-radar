@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T05:07:53.364247Z",
+  "generated_at": "2026-11-26T09:30:40.974597Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_899fac7e23dc",
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
       "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "Hugging Face Blog",
@@ -13,8 +13,8 @@
       "sources": [
         {
           "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": null,
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
           "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "summary": null,
@@ -35,8 +35,8 @@
       "items": [
         {
           "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": null,
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
           "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
           "summary": null,
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8599,
-      "importance": 0.8599,
-      "importance_score": 0.8599,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9994,
+        "recency": 0.9382,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,8 +73,8 @@
       "latest_at": "2026-11-26T05:05:36Z",
       "primary_item": {
         "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-        "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_zh": null,
+        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
         "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
         "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
         "summary": null,
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9061,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8018,
+      "importance": 0.8018,
+      "importance_score": 0.8018,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8154,
+        "recency": 0.7654,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8257,
+      "importance": 0.8257,
+      "importance_score": 0.8257,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8624,
+        "recency": 0.8096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,30 +348,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_9b0d60c572bb",
-      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-      "url": "https://www.aibase.com/news/32547",
-      "primary_url": "https://www.aibase.com/news/32547",
+      "story_id": "story_8d9adf05ae74",
+      "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+      "url": "https://www.aibase.com/news/32549",
+      "primary_url": "https://www.aibase.com/news/32549",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
           "title_en": null,
-          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32547",
+          "url": "https://www.aibase.com/news/32549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -382,18 +382,18 @@
       ],
       "items": [
         {
-          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+          "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+          "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
           "title_en": null,
-          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32547",
+          "url": "https://www.aibase.com/news/32549",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -416,17 +416,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
-        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
-        "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "id": "cf5d8280ef49e72670b31e2f0eaaeb13133b5175",
+        "title": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
+        "title_zh": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
         "title_en": null,
-        "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "title_original": "Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32547",
+        "url": "https://www.aibase.com/news/32549",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -434,7 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -486,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8173,
-      "importance": 0.8173,
-      "importance_score": 0.8173,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7627,
+        "recency": 0.7159,
         "story_heat": 0.0
       },
       "category": "official",
@@ -521,30 +521,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_6d3503548e42",
-      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-      "url": "https://www.aibase.com/news/32537",
-      "primary_url": "https://www.aibase.com/news/32537",
+      "story_id": "story_c75eda73f1b0",
+      "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+      "url": "https://www.aibase.com/news/32554",
+      "primary_url": "https://www.aibase.com/news/32554",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32537",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -555,18 +555,18 @@
       ],
       "items": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+          "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+          "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "title_en": null,
-          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32537",
+          "url": "https://www.aibase.com/news/32554",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -589,17 +589,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-        "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "id": "f72dec07e5d8b47bd36549174a043562dd8adce0",
+        "title": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
+        "title_zh": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "title_en": null,
-        "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "title_original": "MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32537",
+        "url": "https://www.aibase.com/news/32554",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -607,30 +607,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_a5d873d4282d",
-      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-      "url": "https://www.aibase.com/news/32538",
-      "primary_url": "https://www.aibase.com/news/32538",
+      "story_id": "story_03c37be88a43",
+      "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+      "url": "https://www.aibase.com/news/32553",
+      "primary_url": "https://www.aibase.com/news/32553",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
           "title_en": null,
-          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32538",
+          "url": "https://www.aibase.com/news/32553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -641,18 +641,18 @@
       ],
       "items": [
         {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+          "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+          "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
           "title_en": null,
-          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32538",
+          "url": "https://www.aibase.com/news/32553",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -675,17 +675,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-        "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "id": "9e8bd80c052e94a4d364f20bb48dcfe4c5de027c",
+        "title": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
+        "title_zh": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
         "title_en": null,
-        "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "title_original": "SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32538",
+        "url": "https://www.aibase.com/news/32553",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -693,30 +693,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_33f87fded952",
-      "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-      "url": "https://www.aibase.com/news/32541",
-      "primary_url": "https://www.aibase.com/news/32541",
+      "story_id": "story_5fd0e2e1a6ae",
+      "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+      "url": "https://www.aibase.com/news/32551",
+      "primary_url": "https://www.aibase.com/news/32551",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-          "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
           "title_en": null,
-          "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32541",
+          "url": "https://www.aibase.com/news/32551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -727,18 +727,18 @@
       ],
       "items": [
         {
-          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-          "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+          "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+          "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
           "title_en": null,
-          "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32541",
+          "url": "https://www.aibase.com/news/32551",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -761,17 +761,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
-        "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
-        "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+        "id": "3f1eb564699f84070c72d3ba7c984a7d778d8cd6",
+        "title": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
+        "title_zh": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
         "title_en": null,
-        "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+        "title_original": "上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32541",
+        "url": "https://www.aibase.com/news/32551",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -779,30 +779,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_dc46f2fb0453",
-      "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-      "url": "https://www.aibase.com/news/32535",
-      "primary_url": "https://www.aibase.com/news/32535",
+      "story_id": "story_8467615e6b8b",
+      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+      "url": "https://www.aibase.com/news/32555",
+      "primary_url": "https://www.aibase.com/news/32555",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "title_en": null,
-          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32535",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -813,18 +813,18 @@
       ],
       "items": [
         {
-          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "title_en": null,
-          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32535",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -847,17 +847,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-        "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-        "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
         "title_en": null,
-        "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32535",
+        "url": "https://www.aibase.com/news/32555",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -865,7 +865,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
+      }
+    },
+    {
+      "story_id": "story_f056c8e011c8",
+      "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+      "url": "https://www.aibase.com/news/32550",
+      "primary_url": "https://www.aibase.com/news/32550",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
+          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:30:40.974597Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
+          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32550",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T09:30:40.974597Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
+      "primary_item": {
+        "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
+        "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+        "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+        "title_en": null,
+        "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32550",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -950,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6211,
-      "importance": 0.6211,
-      "importance_score": 0.6211,
+      "score": 0.6118,
+      "importance": 0.6118,
+      "importance_score": 0.6118,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8466,
+        "recency": 0.7947,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -983,93 +1069,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_cd1eeccd0c6e",
-      "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-      "url": "https://www.aibase.com/news/32533",
-      "primary_url": "https://www.aibase.com/news/32533",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_c8fc7f4bab1d",
+      "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "primary_url": "https://github.com/mjmirza/app-store-compliance",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
       "sources": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_en": null,
-          "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "summary": null,
+          "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
+          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_zh": null,
+          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "eb5cdcc73397b4a7a5d39a9ff6885e7184d257f3",
+          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_zh": null,
+          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub Trending"
       ],
       "items": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_en": null,
-          "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "summary": null,
+          "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
+          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_zh": null,
+          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32533",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "eb5cdcc73397b4a7a5d39a9ff6885e7184d257f3",
+          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_zh": null,
+          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mjmirza/app-store-compliance",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-25T20:29:33.703277Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-        "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-        "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-        "title_en": null,
-        "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-        "summary": null,
+        "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
+        "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "title_zh": null,
+        "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+        "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32533",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://github.com/mjmirza/app-store-compliance",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -1093,7 +1210,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T04:50:19Z",
+          "updated_at": "2026-11-26T09:13:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1132,7 +1249,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T04:50:19Z",
+          "updated_at": "2026-11-26T09:13:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1170,7 +1287,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-25T09:51:44.820000Z",
-      "latest_at": "2026-11-26T04:50:19Z",
+      "latest_at": "2026-11-26T09:13:01Z",
       "primary_item": {
         "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
         "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
@@ -1187,30 +1304,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_0d7c19b4ef7d",
-      "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-      "url": "https://www.aibase.com/news/32545",
-      "primary_url": "https://www.aibase.com/news/32545",
+      "story_id": "story_a9b43828aa90",
+      "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+      "url": "https://www.aibase.com/news/32548",
+      "primary_url": "https://www.aibase.com/news/32548",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e6ac4d58660e23a7289f9036367823648490d298",
-          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-          "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
           "title_en": null,
-          "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32545",
+          "url": "https://www.aibase.com/news/32548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1221,18 +1338,18 @@
       ],
       "items": [
         {
-          "id": "e6ac4d58660e23a7289f9036367823648490d298",
-          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-          "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
           "title_en": null,
-          "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32545",
+          "url": "https://www.aibase.com/news/32548",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
+          "published_at": "2026-11-26T09:30:40.974597Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1255,17 +1372,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
+      "earliest_at": "2026-11-26T09:30:40.974597Z",
+      "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "e6ac4d58660e23a7289f9036367823648490d298",
-        "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
-        "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+        "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
+        "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+        "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
         "title_en": null,
-        "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+        "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32545",
+        "url": "https://www.aibase.com/news/32548",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1273,7 +1390,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -1297,7 +1414,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T04:19:39Z",
+          "updated_at": "2026-11-26T09:03:38Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1336,7 +1453,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T04:19:39Z",
+          "updated_at": "2026-11-26T09:03:38Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1358,15 +1475,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9885,
+        "recency": 0.9935,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,7 +1491,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-25T20:09:31.207000Z",
-      "latest_at": "2026-11-26T04:19:39Z",
+      "latest_at": "2026-11-26T09:03:38Z",
       "primary_item": {
         "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
         "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
@@ -1391,26 +1508,177 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_804dd01923df",
-      "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-      "url": "https://www.aibase.com/news/32536",
-      "primary_url": "https://www.aibase.com/news/32536",
+      "story_id": "story_a399fd27a4c8",
+      "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "primary_url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_zh": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_en": null,
+          "title_original": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T06:07:38.287000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e143cc2b26c2ed0339452f8d1759476310d1ad4d",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_zh": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-26T03:36:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
+          "title": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_zh": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25%",
+          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50651117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T03:36:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_zh": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_en": null,
+          "title_original": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T06:07:38.287000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e143cc2b26c2ed0339452f8d1759476310d1ad4d",
+          "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_zh": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-26T03:36:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
+          "title": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25% / OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_zh": "OpenAI 减少了 GPT-6.2 的使用：Astra 达到极限的速度加快了 40%，Sol 的速度加快了 25%",
+          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50651117",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T03:36:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5622,
+      "importance": 0.5622,
+      "importance_score": 0.5622,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9523,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T03:36:58Z",
+      "latest_at": "2026-11-26T06:07:38.287000Z",
+      "primary_item": {
+        "id": "fef613b3f69dc9996b2f158b96a0c19f9390d9c4",
+        "title": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+        "title_zh": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+        "title_en": null,
+        "title_original": "OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T09:34:39.918427Z"
+      }
+    },
+    {
+      "story_id": "story_9b0d60c572bb",
+      "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+      "url": "https://www.aibase.com/news/32547",
+      "primary_url": "https://www.aibase.com/news/32547",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
           "title_en": null,
-          "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32536",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1425,14 +1693,14 @@
       ],
       "items": [
         {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+          "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+          "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
           "title_en": null,
-          "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32536",
+          "url": "https://www.aibase.com/news/32547",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1443,15 +1711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1462,14 +1730,14 @@
       "earliest_at": "2026-11-26T05:07:53.364247Z",
       "latest_at": "2026-11-26T05:07:53.364247Z",
       "primary_item": {
-        "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-        "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-        "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+        "id": "98cc17b52058d8857392ccf43b5bae81a4b14440",
+        "title": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
+        "title_zh": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
         "title_en": null,
-        "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+        "title_original": "10档AI综艺来了!浙江卫视引入Seedance2.5参与节目制作",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32536",
+        "url": "https://www.aibase.com/news/32547",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1477,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
@@ -1595,15 +1863,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5554,
-      "importance": 0.5554,
-      "importance_score": 0.5554,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9143,
+        "recency": 0.8583,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1628,46 +1896,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     },
     {
-      "story_id": "story_a399fd27a4c8",
-      "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-      "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-      "primary_url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+      "story_id": "story_3a63c396fb42",
+      "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "e143cc2b26c2ed0339452f8d1759476310d1ad4d",
-          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_zh": null,
-          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "id": "931cdcff8f687bab06bbf07202aed38af6695a8e",
+          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
+          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-26T03:36:58Z",
+          "published_at": "2026-11-25T21:18:02Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
-          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_zh": null,
-          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "id": "240cfdd54a76f2ebf66bd26404ed1e54c677f910",
+          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
+          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50651117",
+          "url": "https://news.ycombinator.com/item?id=50647673",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T03:36:58Z",
+          "published_at": "2026-11-25T21:18:02Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1679,66 +1947,66 @@
       ],
       "items": [
         {
-          "id": "e143cc2b26c2ed0339452f8d1759476310d1ad4d",
-          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_zh": null,
-          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "id": "931cdcff8f687bab06bbf07202aed38af6695a8e",
+          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
+          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-26T03:36:58Z",
+          "published_at": "2026-11-25T21:18:02Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "17a54b6e0ddd3541e51544ad7fe32ef4082951a4",
-          "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_zh": null,
-          "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-          "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+          "id": "240cfdd54a76f2ebf66bd26404ed1e54c677f910",
+          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
+          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50651117",
+          "url": "https://news.ycombinator.com/item?id=50647673",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T03:36:58Z",
+          "published_at": "2026-11-25T21:18:02Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5167,
+      "importance": 0.5167,
+      "importance_score": 0.5167,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.8383,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T03:36:58Z",
-      "latest_at": "2026-11-26T03:36:58Z",
+      "earliest_at": "2026-11-25T21:18:02Z",
+      "latest_at": "2026-11-25T21:18:02Z",
       "primary_item": {
-        "id": "e143cc2b26c2ed0339452f8d1759476310d1ad4d",
-        "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "title_zh": null,
-        "title_en": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-        "title_original": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+        "id": "931cdcff8f687bab06bbf07202aed38af6695a8e",
+        "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
+        "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
+        "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
+        "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -1746,179 +2014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
-      }
-    },
-    {
-      "story_id": "story_40d922122fb0",
-      "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-      "url": "https://www.aibase.com/news/32534",
-      "primary_url": "https://www.aibase.com/news/32534",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_en": null,
-          "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32534",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_en": null,
-          "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32534",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
-      "primary_item": {
-        "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-        "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-        "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-        "title_en": null,
-        "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32534",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
-      }
-    },
-    {
-      "story_id": "story_5e84c9c84406",
-      "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-      "url": "https://www.aibase.com/news/32539",
-      "primary_url": "https://www.aibase.com/news/32539",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_en": null,
-          "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_en": null,
-          "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T05:07:53.364247Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T05:07:53.364247Z",
-      "latest_at": "2026-11-26T05:07:53.364247Z",
-      "primary_item": {
-        "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-        "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "title_en": null,
-        "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32539",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T05:15:48.311645Z"
+        "scored_at": "2026-11-26T09:34:39.918427Z"
       }
     }
   ]
