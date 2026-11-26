@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T20:30:48.263530Z",
+  "generated_at": "2026-11-26T01:02:36.756793Z",
   "date": "2026-11-26",
   "total_items": 4,
   "items": [
@@ -7,29 +7,29 @@
       "id": "project_c6524b3bb676",
       "project_name": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 84 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "summary": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "elementalsouls/Claude-BugHunter 将 84 项技能、15 个斜杠命令与 681 条披露报告模式整合为 Claude Code 漏洞挖掘和红队技能包，方便按需调用。",
-      "recommend_reason_en": "elementalsouls/Claude-BugHunter bundles 84 skills, 15 slash commands, and 681 disclosed-report patterns across 24 vulnerability classes for bug hunting and external red-team work, making it worth opening for structured security workflows.",
+      "recommend_reason_zh": "看看这个开源项目的「A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curat…」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curat...\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T20:29:33.703277Z"
+      "observed_at": "2026-11-26T01:00:38.574825Z"
     },
     {
-      "id": "project_dc4b76687ea2",
-      "project_name": "Hai",
-      "url": "https://www.producthunt.com/products/hai-4",
-      "summary": "Your AI assistant that actually makes the phone call",
+      "id": "project_973622724c22",
+      "project_name": "MyClaw 3.0",
+      "url": "https://www.producthunt.com/products/myclaw-3-0",
+      "summary": "Build an always-on AI team with shared memory",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your AI assistant that actually makes the phone call」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your AI assistant that actually makes the phone call\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-24T11:19:56Z",
-      "updated_at": "2026-11-25T20:29:38Z",
+      "recommend_reason_zh": "体验它主打的「Build an always-on AI team with shared memory」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build an always-on AI team with shared memory\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-24T15:39:09Z",
+      "updated_at": "2026-11-26T01:01:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T20:30:39.385351Z"
+      "observed_at": "2026-11-26T01:02:27.058359Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T20:29:33.703277Z"
+      "observed_at": "2026-11-26T01:00:38.574825Z"
     },
     {
-      "id": "project_bb8d460733ab",
-      "project_name": "Qube",
-      "url": "https://www.producthunt.com/products/qube-6",
-      "summary": "An AI agent for anyone",
+      "id": "project_52053448250e",
+      "project_name": "Airbot",
+      "url": "https://www.producthunt.com/products/airbots",
+      "summary": "The AI chief of staff that texts you first",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「An AI agent for anyone」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"An AI agent for anyone\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-24T17:55:06Z",
-      "updated_at": "2026-11-25T20:27:04Z",
+      "recommend_reason_zh": "体验它主打的「The AI chief of staff that texts you first」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The AI chief of staff that texts you first\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-19T16:45:54Z",
+      "updated_at": "2026-11-26T01:01:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T20:30:39.385351Z"
+      "observed_at": "2026-11-26T01:02:27.058359Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 181,
+      "duration_ms": 400,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 78,
+      "duration_ms": 159,
       "error": null
     }
   ]
