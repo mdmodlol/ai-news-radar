@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T15:25:59.635525Z",
-  "date": "2026-11-26",
+  "generated_at": "2026-11-27T01:06:40.591317Z",
+  "date": "2026-11-27",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-26T15:22:11.604957Z"
+      "observed_at": "2026-11-27T01:02:14.701118Z"
     },
     {
-      "id": "project_701c9b4cd662",
-      "project_name": "Superframes",
-      "url": "https://www.producthunt.com/products/superframes-ai-video-editor",
-      "summary": "Brief an AI Director to edit the whole video",
+      "id": "project_944ed2fbb539",
+      "project_name": "Flurra",
+      "url": "https://www.producthunt.com/products/flurra",
+      "summary": "Ask Claude or ChatGPT to edit your videos",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Brief an AI Director to edit the whole video」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Brief an AI Director to edit the whole video\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-26T05:09:09Z",
-      "updated_at": "2026-11-26T14:51:35Z",
+      "recommend_reason_zh": "体验它主打的「Ask Claude or ChatGPT to edit your videos」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Ask Claude or ChatGPT to edit your videos\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-25T16:34:30Z",
+      "updated_at": "2026-11-27T00:42:29Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-26T15:25:50.376383Z"
+      "observed_at": "2026-11-27T01:06:20.000220Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-26T15:22:11.604957Z"
+      "observed_at": "2026-11-27T01:02:14.701118Z"
     },
     {
-      "id": "project_a9f7fb5eb340",
-      "project_name": "ExtraOrbital",
-      "url": "https://www.producthunt.com/products/extraorbital-deleted-1365752",
-      "summary": "✦ Open bar databases, storage buckets & AI keys for agents",
+      "id": "project_df55b8f39ec7",
+      "project_name": "Claude-Mem Cloud Sync",
+      "url": "https://www.producthunt.com/products/claude-mem",
+      "summary": "Switch devices. Keep your AI agents' memory.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「✦ Open bar databases, storage buckets & AI keys for agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"✦ Open bar databases, storage buckets & AI keys for agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-03T15:25:43Z",
-      "updated_at": "2026-11-26T15:22:41Z",
+      "recommend_reason_zh": "体验它主打的「Switch devices. Keep your AI agents' memory」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Switch devices. Keep your AI agents' memory\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-26T07:58:18Z",
+      "updated_at": "2026-11-26T21:25:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-26T15:25:50.376383Z"
+      "observed_at": "2026-11-27T01:06:20.000220Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1963,
+      "duration_ms": 1970,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 123,
+      "duration_ms": 333,
       "error": null
     }
   ]

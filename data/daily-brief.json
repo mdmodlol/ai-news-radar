@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T15:22:11.604957Z",
+  "generated_at": "2026-11-27T01:02:14.701118Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9473,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_5d02dfd2e5bb",
-      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
-          "title_en": "Copilot code review billing will default to the organization",
-          "title_original": "Copilot code review billing will default to the organization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
-          "title_en": "Copilot code review billing will default to the organization",
-          "title_original": "Copilot code review billing will default to the organization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8127,
-      "importance": 0.8127,
-      "importance_score": 0.8127,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7815,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T22:18:03Z",
-      "latest_at": "2026-11-25T22:18:03Z",
-      "primary_item": {
-        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-        "title_zh": "Copilot 代码审查计费将默认由组织承担",
-        "title_en": "Copilot code review billing will default to the organization",
-        "title_original": "Copilot code review billing will default to the organization",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -226,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8621,
+        "recency": 0.7498,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +174,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
-      "story_id": "story_22833905baff",
-      "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "primary_url": "https://huggingface.co/blog/training-swarms",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1e0690f0af65",
+      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+      "url": "https://www.aibase.com/news/32558",
+      "primary_url": "https://www.aibase.com/news/32558",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
-          "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_en": null,
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/training-swarms",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T00:00:00Z",
+          "url": "https://www.aibase.com/news/32558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:02:14.701118Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-          "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
-          "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-          "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_en": null,
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/training-swarms",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T00:00:00Z",
+          "url": "https://www.aibase.com/news/32558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:02:14.701118Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8302,
-      "importance": 0.8302,
-      "importance_score": 0.8302,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.801,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T00:00:00Z",
-      "latest_at": "2026-11-26T00:00:00Z",
+      "earliest_at": "2026-11-27T01:02:14.701118Z",
+      "latest_at": "2026-11-27T01:02:14.701118Z",
       "primary_item": {
-        "id": "fdca9fe1ee8b7ae7060ed1afe965079fdd90b9ad",
-        "title": "群体、群体、帮派：如何构建、训练和评估多智能体系统 / Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "title_zh": "群体、群体、帮派：如何构建、训练和评估多智能体系统",
-        "title_en": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-        "title_original": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "title_en": null,
+        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/training-swarms",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32558",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_6059b9c8ecf7",
+      "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+      "url": "https://www.aibase.com/news/32557",
+      "primary_url": "https://www.aibase.com/news/32557",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_en": null,
+          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:02:14.701118Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+          "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "title_en": null,
+          "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32557",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T01:02:14.701118Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T01:02:14.701118Z",
+      "latest_at": "2026-11-27T01:02:14.701118Z",
+      "primary_item": {
+        "id": "b48e292eee7d639808d7b9a4e026ce2df170ca61",
+        "title": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "title_zh": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "title_en": null,
+        "title_original": "跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32557",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -400,21 +398,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T15:22:11.604957Z",
       "latest_at": "2026-11-26T15:22:11.604957Z",
@@ -434,94 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_9ef31414a556",
-      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "title_zh": "科学家为人工智能代理划定界限",
-          "title_en": "Where scientists draw the line on AI agents",
-          "title_original": "Where scientists draw the line on AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "title_zh": "科学家为人工智能代理划定界限",
-          "title_en": "Where scientists draw the line on AI agents",
-          "title_original": "Where scientists draw the line on AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7439,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T18:52:55Z",
-      "latest_at": "2026-11-25T18:52:55Z",
-      "primary_item": {
-        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-        "title_zh": "科学家为人工智能代理划定界限",
-        "title_en": "Where scientists draw the line on AI agents",
-        "title_original": "Where scientists draw the line on AI agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -573,21 +483,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:30:40.974597Z",
       "latest_at": "2026-11-26T09:30:40.974597Z",
@@ -607,7 +516,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_538b401561d4",
+      "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "primary_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
+          "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
+          "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-26T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "97155542fae04cbfaea853a67fb42cdc51d11ad9",
+          "title": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德 / As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_zh": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德",
+          "title_en": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_original": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
+          "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
+          "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-26T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "97155542fae04cbfaea853a67fb42cdc51d11ad9",
+          "title": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德 / As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_zh": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德",
+          "title_en": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "title_original": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-26T16:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6267,
+      "importance": 0.6267,
+      "importance_score": 0.6267,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5472,
+        "source_tier": 0.58,
+        "ai_relevance": 0.76,
+        "recency": 0.8777,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T16:00:00Z",
+      "latest_at": "2026-11-26T16:00:00Z",
+      "primary_item": {
+        "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
+        "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
+        "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -659,21 +686,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:30:40.974597Z",
       "latest_at": "2026-11-26T09:30:40.974597Z",
@@ -693,7 +719,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_abf6cd5ba2e3",
+      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+      "url": "https://www.producthunt.com/products/qa-tech",
+      "primary_url": "https://www.producthunt.com/products/qa-tech",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T00:58:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T00:58:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T15:25:48.283000Z",
+      "latest_at": "2026-11-27T00:58:06Z",
+      "primary_item": {
+        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "summary": "Verify every change from your IDE with QA agents",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/qa-tech",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -745,21 +889,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:30:40.974597Z",
       "latest_at": "2026-11-26T09:30:40.974597Z",
@@ -779,7 +922,578 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_62e626ed2c59",
+      "title": "AI 让自主托管重新变得有趣",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
+      "source": "janlukas.blog",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
+          "title": "AI 让自主托管重新变得有趣",
+          "title_zh": "AI 让自主托管重新变得有趣",
+          "title_en": null,
+          "title_original": "AI 让自主托管重新变得有趣",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T23:27:36.973000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
+          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
+          "title_zh": "AI 让自主托管重新变得有趣",
+          "title_en": "AI made self-hosting fun again",
+          "title_original": "AI made self-hosting fun again",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T21:47:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
+          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
+          "title_zh": "人工智能再次让自托管变得有趣",
+          "title_en": "AI made self-hosting fun again",
+          "title_original": "AI made self-hosting fun again",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50660180",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T21:47:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "janlukas.blog"
+      ],
+      "items": [
+        {
+          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
+          "title": "AI 让自主托管重新变得有趣",
+          "title_zh": "AI 让自主托管重新变得有趣",
+          "title_en": null,
+          "title_original": "AI 让自主托管重新变得有趣",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "janlukas.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T23:27:36.973000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
+          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
+          "title_zh": "AI 让自主托管重新变得有趣",
+          "title_en": "AI made self-hosting fun again",
+          "title_original": "AI made self-hosting fun again",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T21:47:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
+          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
+          "title_zh": "人工智能再次让自托管变得有趣",
+          "title_en": "AI made self-hosting fun again",
+          "title_original": "AI made self-hosting fun again",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50660180",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T21:47:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5667,
+      "importance": 0.5667,
+      "importance_score": 0.5667,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9775,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T21:47:45Z",
+      "latest_at": "2026-11-26T23:27:36.973000Z",
+      "primary_item": {
+        "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
+        "title": "AI 让自主托管重新变得有趣",
+        "title_zh": "AI 让自主托管重新变得有趣",
+        "title_en": null,
+        "title_original": "AI 让自主托管重新变得有趣",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://janlukas.blog/posts/ai-self-hosting",
+        "source": "janlukas.blog",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_81480c791b15",
+      "title": "OpenAI 可能已进入成本控制模式",
+      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "primary_url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+      "source": "micjm.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+          "title": "OpenAI 可能已进入成本控制模式",
+          "title_zh": "OpenAI 可能已进入成本控制模式",
+          "title_en": null,
+          "title_original": "OpenAI 可能已进入成本控制模式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "micjm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T21:19:40.867000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
+          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
+          "title_zh": "OpenAI 可能已进入成本控制模式",
+          "title_en": "OpenAI may be in cost control mode",
+          "title_original": "OpenAI may be in cost control mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T07:33:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ce747620b3533da66fbd6209a4708a8d737b2415",
+          "title": "OpenAI可能处于成本控制模式 / OpenAI may be in cost control mode",
+          "title_zh": "OpenAI可能处于成本控制模式",
+          "title_en": "OpenAI may be in cost control mode",
+          "title_original": "OpenAI may be in cost control mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50652527",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T07:33:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "micjm.com"
+      ],
+      "items": [
+        {
+          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+          "title": "OpenAI 可能已进入成本控制模式",
+          "title_zh": "OpenAI 可能已进入成本控制模式",
+          "title_en": null,
+          "title_original": "OpenAI 可能已进入成本控制模式",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "micjm.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T21:19:40.867000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
+          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
+          "title_zh": "OpenAI 可能已进入成本控制模式",
+          "title_en": "OpenAI may be in cost control mode",
+          "title_original": "OpenAI may be in cost control mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T07:33:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ce747620b3533da66fbd6209a4708a8d737b2415",
+          "title": "OpenAI可能处于成本控制模式 / OpenAI may be in cost control mode",
+          "title_zh": "OpenAI可能处于成本控制模式",
+          "title_en": "OpenAI may be in cost control mode",
+          "title_original": "OpenAI may be in cost control mode",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50652527",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T07:33:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5614,
+      "importance": 0.5614,
+      "importance_score": 0.5614,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9478,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T07:33:12Z",
+      "latest_at": "2026-11-26T21:19:40.867000Z",
+      "primary_item": {
+        "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
+        "title": "OpenAI 可能已进入成本控制模式",
+        "title_zh": "OpenAI 可能已进入成本控制模式",
+        "title_en": null,
+        "title_original": "OpenAI 可能已进入成本控制模式",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
+        "source": "micjm.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_15dbdc0196d0",
+      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "primary_url": "https://www.producthunt.com/products/transept-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-26T22:20:37Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
+          "title_zh": null,
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-26T22:20:37Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
+          "title_zh": null,
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5873,
+      "importance": 0.5873,
+      "importance_score": 0.5873,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9618,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T15:25:48.283000Z",
+      "latest_at": "2026-11-26T22:20:37Z",
+      "primary_item": {
+        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+        "summary": "Translate your book in your own voice and prove authorship",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/transept-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_dd12e46887a8",
+      "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "primary_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+      "source": "techstackups.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_en": null,
+          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "techstackups.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T19:27:56.609000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T09:44:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
+          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
+          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50653477",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T09:44:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "techstackups.com"
+      ],
+      "items": [
+        {
+          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_en": null,
+          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "techstackups.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T19:27:56.609000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
+          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T09:44:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
+          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
+          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50653477",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T09:44:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9227,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T09:44:23Z",
+      "latest_at": "2026-11-26T19:27:56.609000Z",
+      "primary_item": {
+        "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
+        "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "title_en": null,
+        "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
+        "source": "techstackups.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -831,21 +1545,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:30:40.974597Z",
       "latest_at": "2026-11-26T09:30:40.974597Z",
@@ -865,650 +1578,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
-      "story_id": "story_8467615e6b8b",
-      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-      "url": "https://www.aibase.com/news/32555",
-      "primary_url": "https://www.aibase.com/news/32555",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_936a6d0d7951",
+      "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+      "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+      "primary_url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:30:40.974597Z",
+          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:44:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:44:31Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-          "title_en": null,
-          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "id": "a055e2013493ba9d410f1bbad34761fdde401991",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32555",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:30:40.974597Z",
+          "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:44:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "806629a613815ea9acd3da67dd878a58d9f30995",
+          "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+          "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+          "title_en": "Top-cited AI scientists at four US companies compared",
+          "title_original": "Top-cited AI scientists at four US companies compared",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658910",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:44:31Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9189,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9264,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-26T09:30:40.974597Z",
-      "latest_at": "2026-11-26T09:30:40.974597Z",
+      "earliest_at": "2026-11-26T19:44:31Z",
+      "latest_at": "2026-11-26T19:44:31Z",
       "primary_item": {
-        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
-        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
-        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "id": "a055e2013493ba9d410f1bbad34761fdde401991",
+        "title": "四家美国公司引用次数最多的人工智能科学家进行比较 / Top-cited AI scientists at four US companies compared",
+        "title_zh": "四家美国公司引用次数最多的人工智能科学家进行比较",
+        "title_en": "Top-cited AI scientists at four US companies compared",
+        "title_original": "Top-cited AI scientists at four US companies compared",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://topcitedscientists.com/figures/ai-at-four-us-companies",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T01:07:50.397405Z"
+      }
+    },
+    {
+      "story_id": "story_94e2d1eb2b4c",
+      "title": "追踪被人工智能治愈的疾病",
+      "url": "https://diseasescuredbyai.com",
+      "primary_url": "https://diseasescuredbyai.com",
+      "source": "diseasescuredbyai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+          "title": "追踪被人工智能治愈的疾病",
+          "title_zh": "追踪被人工智能治愈的疾病",
+          "title_en": null,
+          "title_original": "追踪被人工智能治愈的疾病",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diseasescuredbyai.com",
+          "source": "diseasescuredbyai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T18:23:52.767000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8de14c02114364c7d705878055db44b00d76ead1",
+          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "title_zh": "追踪被人工智能治愈的疾病",
+          "title_en": "Tracking Diseases Cured by AI",
+          "title_original": "Tracking Diseases Cured by AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diseasescuredbyai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T17:16:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "diseasescuredbyai.com"
+      ],
+      "items": [
+        {
+          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+          "title": "追踪被人工智能治愈的疾病",
+          "title_zh": "追踪被人工智能治愈的疾病",
+          "title_en": null,
+          "title_original": "追踪被人工智能治愈的疾病",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diseasescuredbyai.com",
+          "source": "diseasescuredbyai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-26T18:23:52.767000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8de14c02114364c7d705878055db44b00d76ead1",
+          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
+          "title_zh": "追踪被人工智能治愈的疾病",
+          "title_en": "Tracking Diseases Cured by AI",
+          "title_original": "Tracking Diseases Cured by AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://diseasescuredbyai.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T17:16:41Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9086,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T17:16:41Z",
+      "latest_at": "2026-11-26T18:23:52.767000Z",
+      "primary_item": {
+        "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
+        "title": "追踪被人工智能治愈的疾病",
+        "title_zh": "追踪被人工智能治愈的疾病",
         "title_en": null,
-        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_original": "追踪被人工智能治愈的疾病",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32555",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://diseasescuredbyai.com",
+        "source": "diseasescuredbyai.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_9aa3d4029e99",
-      "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-      "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-      "primary_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
-          "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "title_zh": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑",
-          "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
-          "title": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划 / State AGs fight Character AI’s plan to auction off users’ private chats",
-          "title_zh": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划",
-          "title_en": "State AGs fight Character AI’s plan to auction off users’ private chats",
-          "title_original": "State AGs fight Character AI’s plan to auction off users’ private chats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "919f9540e8afc175085ef51fed920d072ff1a375",
-          "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "title_zh": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑",
-          "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4a994ab8782652ca85abc9a1cc8ef4a8bee600ff",
-          "title": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划 / State AGs fight Character AI’s plan to auction off users’ private chats",
-          "title_zh": "国家总检察长反对Character AI拍卖用户私人聊天记录的计划",
-          "title_en": "State AGs fight Character AI’s plan to auction off users’ private chats",
-          "title_original": "State AGs fight Character AI’s plan to auction off users’ private chats",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-25T17:35:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6002,
-      "importance": 0.6002,
-      "importance_score": 0.6002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7302,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T17:35:58Z",
-      "latest_at": "2026-11-25T17:35:58Z",
-      "primary_item": {
-        "id": "919f9540e8afc175085ef51fed920d072ff1a375",
-        "title": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑 / Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-        "title_zh": "Character.AI 拍卖用户私人聊天记录的计划受到国家总检察长的质疑",
-        "title_en": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-        "title_original": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_7fa31242942c",
-      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-      "url": "https://www.producthunt.com/products/qa-tech",
-      "primary_url": "https://www.producthunt.com/products/qa-tech",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-26T15:21:59Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-26T15:21:59Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9999,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T15:21:59Z",
-      "latest_at": "2026-11-26T15:25:48.283000Z",
-      "primary_item": {
-        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "summary": "Verify every change from your IDE with QA agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/qa-tech",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_c8fc7f4bab1d",
-      "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-      "url": "https://github.com/mjmirza/app-store-compliance",
-      "primary_url": "https://github.com/mjmirza/app-store-compliance",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
-          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_zh": null,
-          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mjmirza/app-store-compliance",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "eb5cdcc73397b4a7a5d39a9ff6885e7184d257f3",
-          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_zh": null,
-          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mjmirza/app-store-compliance",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending"
-      ],
-      "items": [
-        {
-          "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
-          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_zh": null,
-          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mjmirza/app-store-compliance",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "eb5cdcc73397b4a7a5d39a9ff6885e7184d257f3",
-          "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_zh": null,
-          "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/mjmirza/app-store-compliance",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5796,
-      "importance": 0.5796,
-      "importance_score": 0.5796,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9189,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T20:29:33.703277Z",
-      "latest_at": "2026-11-26T09:30:40.974597Z",
-      "primary_item": {
-        "id": "ab3785f82f20b9c779a542fd6cf0c69510e00c68",
-        "title": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-        "title_zh": null,
-        "title_en": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-        "title_original": "mjmirza/app-store-compliance — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-        "summary": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/mjmirza/app-store-compliance",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_f056c8e011c8",
-      "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-      "url": "https://www.aibase.com/news/32550",
-      "primary_url": "https://www.aibase.com/news/32550",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:30:40.974597Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-          "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T09:30:40.974597Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9189,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T09:30:40.974597Z",
-      "latest_at": "2026-11-26T09:30:40.974597Z",
-      "primary_item": {
-        "id": "924468d39f7dae9323d8f702cf66b217ba010e8a",
-        "title": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-        "title_zh": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-        "title_en": null,
-        "title_original": "蚂蚁百灵开源 Ling-3.2-air，用 55 亿激活参数击穿复杂工作流落地瓶颈",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32550",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_ddd38ada83be",
-      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "primary_url": "https://www.producthunt.com/products/transept-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-26T15:15:08Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
-          "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-26T15:15:08Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
-          "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9983,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T15:15:08Z",
-      "latest_at": "2026-11-26T15:25:48.283000Z",
-      "primary_item": {
-        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-        "summary": "Translate your book in your own voice and prove authorship",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/transept-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
@@ -1626,15 +1932,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5483,
-      "importance": 0.5483,
-      "importance_score": 0.5483,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8751,
+        "recency": 0.761,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1659,26 +1965,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
-      "story_id": "story_a9b43828aa90",
-      "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-      "url": "https://www.aibase.com/news/32548",
-      "primary_url": "https://www.aibase.com/news/32548",
+      "story_id": "story_8467615e6b8b",
+      "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+      "url": "https://www.aibase.com/news/32555",
+      "primary_url": "https://www.aibase.com/news/32555",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "title_en": null,
-          "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32548",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1693,14 +1999,14 @@
       ],
       "items": [
         {
-          "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-          "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-          "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+          "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+          "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "title_en": null,
-          "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+          "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32548",
+          "url": "https://www.aibase.com/news/32555",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1711,33 +2017,32 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9189,
+        "recency": 0.7992,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-26T09:30:40.974597Z",
       "latest_at": "2026-11-26T09:30:40.974597Z",
       "primary_item": {
-        "id": "78dddfb9e67fd164c561acee1689bf1880abaa95",
-        "title": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
-        "title_zh": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+        "id": "3685dc15c36f97f84c429f4c8f0fac326b58c530",
+        "title": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
+        "title_zh": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
         "title_en": null,
-        "title_original": "谷歌 12 款模型测出一个盲区：AI 听你一面之词，会越聊越像你",
+        "title_original": "不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32548",
+        "url": "https://www.aibase.com/news/32555",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1745,11 +2050,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     },
     {
-      "story_id": "story_a1f895f7d17a",
+      "story_id": "story_2111a340e12b",
       "title": "Moat：您的 OpenRouter 替代方案",
       "url": "https://commandcode.ai/moat",
       "primary_url": "https://commandcode.ai/moat",
@@ -1773,11 +2078,11 @@
           "recency_basis": null
         },
         {
-          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
-          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
+          "id": "2697559e36f4e7e5336ba5f26051b5d8cb5d8383",
+          "title": "Moat：您的 OpenRouter 替代方案 / Moat: OpenRouter replacement",
           "title_zh": "Moat：您的 OpenRouter 替代方案",
-          "title_en": "Moat: Your OpenRouter Replacement",
-          "title_original": "Moat: Your OpenRouter Replacement",
+          "title_en": "Moat: OpenRouter replacement",
+          "title_original": "Moat: OpenRouter replacement",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://commandcode.ai/moat",
@@ -1812,11 +2117,11 @@
           "recency_basis": null
         },
         {
-          "id": "14d0f5f1db53313868fef1700211f34bb4d39b70",
-          "title": "Moat：您的 OpenRouter 替代方案 / Moat: Your OpenRouter Replacement",
+          "id": "2697559e36f4e7e5336ba5f26051b5d8cb5d8383",
+          "title": "Moat：您的 OpenRouter 替代方案 / Moat: OpenRouter replacement",
           "title_zh": "Moat：您的 OpenRouter 替代方案",
-          "title_en": "Moat: Your OpenRouter Replacement",
-          "title_original": "Moat: Your OpenRouter Replacement",
+          "title_en": "Moat: OpenRouter replacement",
+          "title_original": "Moat: OpenRouter replacement",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://commandcode.ai/moat",
@@ -1830,15 +2135,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9561,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1863,158 +2168,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
-      }
-    },
-    {
-      "story_id": "story_3b1d371ffaae",
-      "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-      "url": "https://github.com/lsernau/grh-lean",
-      "primary_url": "https://github.com/lsernau/grh-lean",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_zh": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_en": null,
-          "title_original": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5a378a7800aa7879082998e91ae2ab4a9a007ad6",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "title_zh": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_en": "Much shorter version of GRH Lean verification from Anthropic",
-          "title_original": "Much shorter version of GRH Lean verification from Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:48:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "title_zh": "Anthropic 的 GRH Lean 验证的更短版本",
-          "title_en": "Much shorter version of GRH Lean verification from Anthropic",
-          "title_original": "Much shorter version of GRH Lean verification from Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_zh": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_en": null,
-          "title_original": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T22:55:35.524000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5a378a7800aa7879082998e91ae2ab4a9a007ad6",
-          "title": "Anthropic 发布的 GRH 精益验证的简短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "title_zh": "Anthropic 发布的 GRH 精益验证的简短版本",
-          "title_en": "Much shorter version of GRH Lean verification from Anthropic",
-          "title_original": "Much shorter version of GRH Lean verification from Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/lsernau/grh-lean",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:48:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a504151065ef7ed7fcfaf2446e07757b4346f198",
-          "title": "Anthropic 的 GRH Lean 验证的更短版本 / Much shorter version of GRH Lean verification from Anthropic",
-          "title_zh": "Anthropic 的 GRH Lean 验证的更短版本",
-          "title_en": "Much shorter version of GRH Lean verification from Anthropic",
-          "title_original": "Much shorter version of GRH Lean verification from Anthropic",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50648050",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:48:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7886,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T21:48:10Z",
-      "latest_at": "2026-11-25T22:55:35.524000Z",
-      "primary_item": {
-        "id": "3c2734480629e299fdd51dc49557b9128a9daf4a",
-        "title": "Anthropic 发布的 GRH 精益验证的简短版本",
-        "title_zh": "Anthropic 发布的 GRH 精益验证的简短版本",
-        "title_en": null,
-        "title_original": "Anthropic 发布的 GRH 精益验证的简短版本",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.com/lsernau/grh-lean",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T15:26:08.165717Z"
+        "scored_at": "2026-11-27T01:07:50.397405Z"
       }
     }
   ]
