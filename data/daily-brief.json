@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-27T09:40:17.402742Z",
+  "generated_at": "2026-11-27T15:09:50.382975Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_70e53371dbeb",
-      "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
-      "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "story_id": "story_ea3f87ca002e",
+      "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "primary_url": "https://huggingface.co/blog/video-trainium3",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
-          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "url": "https://huggingface.co/blog/video-trainium3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-26T11:37:17Z",
+          "published_at": "2026-11-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
-          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+          "url": "https://huggingface.co/blog/video-trainium3",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-26T11:37:17Z",
+          "published_at": "2026-11-27T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
+      "score": 0.8246,
+      "importance": 0.8246,
+      "importance_score": 0.8246,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7273,
+        "ai_relevance": 0.95,
+        "recency": 0.8033,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T11:37:17Z",
-      "latest_at": "2026-11-26T11:37:17Z",
+      "earliest_at": "2026-11-27T00:00:00Z",
+      "latest_at": "2026-11-27T00:00:00Z",
       "primary_item": {
-        "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
-        "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
-        "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-        "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
+        "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
+        "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+        "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+        "url": "https://huggingface.co/blog/video-trainium3",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
+      }
+    },
+    {
+      "story_id": "story_f707740900a2",
+      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+      "url": "https://www.aibase.com/news/32580",
+      "primary_url": "https://www.aibase.com/news/32580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T15:09:50.382975Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T15:09:50.382975Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T15:09:50.382975Z",
+      "latest_at": "2026-11-27T15:09:50.382975Z",
+      "primary_item": {
+        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_en": null,
+        "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -139,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -225,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -311,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -397,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -483,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,93 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
-      }
-    },
-    {
-      "story_id": "story_fb9ce3cf48a4",
-      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-      "url": "https://www.aibase.com/news/32572",
-      "primary_url": "https://www.aibase.com/news/32572",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "title_en": null,
-          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "title_en": null,
-          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32572",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T09:40:17.402742Z",
-      "latest_at": "2026-11-27T09:40:17.402742Z",
-      "primary_item": {
-        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
-        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-        "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-        "title_en": null,
-        "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32572",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6082,
-      "importance": 0.6082,
-      "importance_score": 0.6082,
+      "score": 0.5976,
+      "importance": 0.5976,
+      "importance_score": 0.5976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7748,
+        "recency": 0.7157,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,46 +721,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
-      "story_id": "story_15dbdc0196d0",
-      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "primary_url": "https://www.producthunt.com/products/transept-ai",
+      "story_id": "story_09660119eb8f",
+      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "primary_url": "https://www.producthunt.com/products/depost-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T08:35:45Z",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-27T15:06:36Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
           "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
+          "published_at": "2026-11-27T14:59:18.548000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -772,66 +772,66 @@
       ],
       "items": [
         {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T08:35:45Z",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-27T15:06:36Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
           "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
+          "published_at": "2026-11-27T14:59:18.548000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5914,
-      "importance": 0.5914,
-      "importance_score": 0.5914,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9846,
+        "recency": 0.9992,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T15:25:48.283000Z",
-      "latest_at": "2026-11-27T08:35:45Z",
+      "earliest_at": "2026-11-27T14:59:18.548000Z",
+      "latest_at": "2026-11-27T15:06:36Z",
       "primary_item": {
-        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-        "summary": "Translate your book in your own voice and prove authorship",
+        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "summary": "The LinkedIn AI agent that learns what works for your brand",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/transept-ai",
+        "url": "https://www.producthunt.com/products/depost-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -839,26 +839,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
-      "story_id": "story_2c9396790e68",
-      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-      "url": "https://www.aibase.com/news/32570",
-      "primary_url": "https://www.aibase.com/news/32570",
+      "story_id": "story_fb9ce3cf48a4",
+      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+      "url": "https://www.aibase.com/news/32572",
+      "primary_url": "https://www.aibase.com/news/32572",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -873,14 +873,14 @@
       ],
       "items": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32572",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -891,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -910,14 +910,14 @@
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
       "primary_item": {
-        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+        "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
         "title_en": null,
-        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32570",
+        "url": "https://www.aibase.com/news/32572",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -925,7 +925,427 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
+      }
+    },
+    {
+      "story_id": "story_28f590390420",
+      "title": "机器学习中的不确定性导论",
+      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "primary_url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+      "source": "chrhenning.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
+          "title": "机器学习中的不确定性导论",
+          "title_zh": "机器学习中的不确定性导论",
+          "title_en": null,
+          "title_original": "机器学习中的不确定性导论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+          "source": "chrhenning.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T13:19:37.375000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
+          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性导论",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:04:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:04:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "chrhenning.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
+          "title": "机器学习中的不确定性导论",
+          "title_zh": "机器学习中的不确定性导论",
+          "title_en": null,
+          "title_original": "机器学习中的不确定性导论",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+          "source": "chrhenning.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T13:19:37.375000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
+          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性导论",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-26T19:04:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50658498",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T19:04:50Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9738,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T19:04:50Z",
+      "latest_at": "2026-11-27T13:19:37.375000Z",
+      "primary_item": {
+        "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
+        "title": "机器学习中的不确定性导论",
+        "title_zh": "机器学习中的不确定性导论",
+        "title_en": null,
+        "title_original": "机器学习中的不确定性导论",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
+        "source": "chrhenning.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T15:13:37.517613Z"
+      }
+    },
+    {
+      "story_id": "story_4471fcdb7066",
+      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-27T14:50:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-27T14:50:32Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9954,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T14:50:32Z",
+      "latest_at": "2026-11-27T14:59:18.548000Z",
+      "primary_item": {
+        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "summary": "Your company's words, assembled into a book",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T15:13:37.517613Z"
+      }
+    },
+    {
+      "story_id": "story_fb08618e010b",
+      "title": "克劳德破坏SOTA机器学习研究任务",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "twitter.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+          "title": "克劳德破坏SOTA机器学习研究任务",
+          "title_zh": "克劳德破坏SOTA机器学习研究任务",
+          "title_en": null,
+          "title_original": "克劳德破坏SOTA机器学习研究任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T11:11:55.754000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude破坏SOTA机器学习研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "twitter.com"
+      ],
+      "items": [
+        {
+          "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+          "title": "克劳德破坏SOTA机器学习研究任务",
+          "title_zh": "克劳德破坏SOTA机器学习研究任务",
+          "title_en": null,
+          "title_original": "克劳德破坏SOTA机器学习研究任务",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "twitter.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T11:11:55.754000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude破坏SOTA机器学习研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5608,
+      "importance": 0.5608,
+      "importance_score": 0.5608,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9443,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T08:28:08Z",
+      "latest_at": "2026-11-27T11:11:55.754000Z",
+      "primary_item": {
+        "id": "d15548e82cdd78c30561bdfbc0f2b648fba44afd",
+        "title": "克劳德破坏SOTA机器学习研究任务",
+        "title_zh": "克劳德破坏SOTA机器学习研究任务",
+        "title_en": null,
+        "title_original": "克劳德破坏SOTA机器学习研究任务",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "source": "twitter.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -1043,15 +1463,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5679,
-      "importance": 0.5679,
-      "importance_score": 0.5679,
+      "score": 0.5544,
+      "importance": 0.5544,
+      "importance_score": 0.5544,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9837,
+        "recency": 0.9087,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1076,26 +1496,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
-      "story_id": "story_f048a078990c",
-      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-      "url": "https://www.aibase.com/news/32575",
-      "primary_url": "https://www.aibase.com/news/32575",
+      "story_id": "story_2c9396790e68",
+      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+      "url": "https://www.aibase.com/news/32570",
+      "primary_url": "https://www.aibase.com/news/32570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32575",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1110,14 +1530,14 @@
       ],
       "items": [
         {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32575",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1128,15 +1548,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1147,14 +1567,14 @@
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
       "primary_item": {
-        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "title_en": null,
-        "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32575",
+        "url": "https://www.aibase.com/news/32570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1162,125 +1582,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
-      }
-    },
-    {
-      "story_id": "story_abf6cd5ba2e3",
-      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-      "url": "https://www.producthunt.com/products/qa-tech",
-      "primary_url": "https://www.producthunt.com/products/qa-tech",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T04:56:34Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T04:56:34Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5823,
-      "importance": 0.5823,
-      "importance_score": 0.5823,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.934,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T15:25:48.283000Z",
-      "latest_at": "2026-11-27T04:56:34Z",
-      "primary_item": {
-        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "summary": "Verify every change from your IDE with QA agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/qa-tech",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -1398,15 +1700,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8629,
+        "recency": 0.7971,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1431,480 +1733,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
-      "story_id": "story_fb08618e010b",
-      "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_6e62bb28eb33",
+      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
-          "summary": null,
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-27T14:41:03Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z",
+          "published_at": "2026-11-27T14:59:18.548000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
-          "summary": null,
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
           "recommend_reason_zh": null,
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-27T14:41:03Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50664325",
-          "source": "hackernews",
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T08:28:08Z",
+          "published_at": "2026-11-27T14:59:18.548000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5427,
-      "importance": 0.5427,
-      "importance_score": 0.5427,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.32,
+        "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9828,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T08:28:08Z",
-      "latest_at": "2026-11-27T08:28:08Z",
+      "earliest_at": "2026-11-27T14:41:03Z",
+      "latest_at": "2026-11-27T14:59:18.548000Z",
       "primary_item": {
-        "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-        "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-        "title_zh": "Claude 破坏 SOTA ML 研究任务",
-        "title_en": "Claude sabotaging SOTA ML research tasks",
-        "title_original": "Claude sabotaging SOTA ML research tasks",
-        "summary": null,
+        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+        "summary": "AI-native permitting & diligence services for data centers",
         "recommend_reason_zh": null,
-        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
-      }
-    },
-    {
-      "story_id": "story_dd12e46887a8",
-      "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "primary_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "source": "techstackups.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "techstackups.com"
-      ],
-      "items": [
-        {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8145,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T09:44:23Z",
-      "latest_at": "2026-11-26T19:27:56.609000Z",
-      "primary_item": {
-        "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-        "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "title_en": null,
-        "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-        "source": "techstackups.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
-      }
-    },
-    {
-      "story_id": "story_3475832e2cf5",
-      "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-      "url": "https://www.aibase.com/news/32576",
-      "primary_url": "https://www.aibase.com/news/32576",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "title_en": null,
-          "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "title_en": null,
-          "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32576",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T09:40:17.402742Z",
-      "latest_at": "2026-11-27T09:40:17.402742Z",
-      "primary_item": {
-        "id": "8260c480781c8810c8501da8261fdb8f9b860539",
-        "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-        "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-        "title_en": null,
-        "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32576",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
-      }
-    },
-    {
-      "story_id": "story_94e2d1eb2b4c",
-      "title": "追踪被人工智能治愈的疾病",
-      "url": "https://diseasescuredbyai.com",
-      "primary_url": "https://diseasescuredbyai.com",
-      "source": "diseasescuredbyai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-          "title": "追踪被人工智能治愈的疾病",
-          "title_zh": "追踪被人工智能治愈的疾病",
-          "title_en": null,
-          "title_original": "追踪被人工智能治愈的疾病",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diseasescuredbyai.com",
-          "source": "diseasescuredbyai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T18:23:52.767000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8de14c02114364c7d705878055db44b00d76ead1",
-          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "title_zh": "追踪被人工智能治愈的疾病",
-          "title_en": "Tracking Diseases Cured by AI",
-          "title_original": "Tracking Diseases Cured by AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diseasescuredbyai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T17:16:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "diseasescuredbyai.com"
-      ],
-      "items": [
-        {
-          "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-          "title": "追踪被人工智能治愈的疾病",
-          "title_zh": "追踪被人工智能治愈的疾病",
-          "title_en": null,
-          "title_original": "追踪被人工智能治愈的疾病",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diseasescuredbyai.com",
-          "source": "diseasescuredbyai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T18:23:52.767000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "8de14c02114364c7d705878055db44b00d76ead1",
-          "title": "追踪被人工智能治愈的疾病 / Tracking Diseases Cured by AI",
-          "title_zh": "追踪被人工智能治愈的疾病",
-          "title_en": "Tracking Diseases Cured by AI",
-          "title_original": "Tracking Diseases Cured by AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://diseasescuredbyai.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T17:16:41Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5102,
-      "importance": 0.5102,
-      "importance_score": 0.5102,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8021,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T17:16:41Z",
-      "latest_at": "2026-11-26T18:23:52.767000Z",
-      "primary_item": {
-        "id": "fdcabfa31bd4db05a382fced59f883dd394c274a",
-        "title": "追踪被人工智能治愈的疾病",
-        "title_zh": "追踪被人工智能治愈的疾病",
-        "title_en": null,
-        "title_original": "追踪被人工智能治愈的疾病",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://diseasescuredbyai.com",
-        "source": "diseasescuredbyai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
@@ -1989,15 +1936,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5286,
-      "importance": 0.5286,
-      "importance_score": 0.5286,
+      "score": 0.5162,
+      "importance": 0.5162,
+      "importance_score": 0.5162,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9047,
+        "recency": 0.8357,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2022,26 +1969,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     },
     {
-      "story_id": "story_8f35bb437032",
-      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-      "url": "https://www.aibase.com/news/32573",
-      "primary_url": "https://www.aibase.com/news/32573",
+      "story_id": "story_f048a078990c",
+      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+      "url": "https://www.aibase.com/news/32575",
+      "primary_url": "https://www.aibase.com/news/32575",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
           "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
+          "url": "https://www.aibase.com/news/32575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2056,14 +2003,14 @@
       ],
       "items": [
         {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
           "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
+          "url": "https://www.aibase.com/news/32575",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2074,15 +2021,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2093,14 +2040,14 @@
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
       "primary_item": {
-        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
         "title_en": null,
-        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32573",
+        "url": "https://www.aibase.com/news/32575",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2108,7 +2055,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:44:16.218872Z"
+        "scored_at": "2026-11-27T15:13:37.517613Z"
+      }
+    },
+    {
+      "story_id": "story_abf6cd5ba2e3",
+      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+      "url": "https://www.producthunt.com/products/qa-tech",
+      "primary_url": "https://www.producthunt.com/products/qa-tech",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T13:44:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T13:44:28Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T15:25:48.283000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5905,
+      "importance": 0.5905,
+      "importance_score": 0.5905,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9797,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T15:25:48.283000Z",
+      "latest_at": "2026-11-27T13:44:28Z",
+      "primary_item": {
+        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "summary": "Verify every change from your IDE with QA agents",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/qa-tech",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T15:13:37.517613Z"
       }
     }
   ]

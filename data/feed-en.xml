@@ -5,15 +5,23 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 09:40:17 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 15:09:50 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
-<link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
-<description>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon (Hugging Face Blog)</description>
+<title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+<link>https://huggingface.co/blog/video-trainium3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/video-trainium3</guid>
+<description>Taking Trainium3 to the Track: Generating Videos with LTX-2.5 (Hugging Face Blog)</description>
 <category>Official update</category>
-<pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍</title>
+<link>https://www.aibase.com/news/32580</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32580</guid>
+<description>Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 27 Nov 2026 15:09:50 +0000</pubDate>
 </item>
 <item>
 <title>30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”</title>
@@ -56,14 +64,6 @@
 <pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
 </item>
 <item>
-<title>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心</title>
-<link>https://www.aibase.com/news/32572</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32572</guid>
-<description>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
-</item>
-<item>
 <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
 <link>https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue</guid>
@@ -72,12 +72,52 @@
 <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Transept AI — Translate your book in your own voice and prove authorship</title>
-<link>https://www.producthunt.com/products/transept-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/transept-ai</guid>
-<description>Translate your book in your own voice and prove authorship (Product Hunt)</description>
+<title>Depost AI — The LinkedIn AI agent that learns what works for your brand</title>
+<link>https://www.producthunt.com/products/depost-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/depost-ai</guid>
+<description>The LinkedIn AI agent that learns what works for your brand (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 27 Nov 2026 08:35:45 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 15:06:36 +0000</pubDate>
+</item>
+<item>
+<title>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心</title>
+<link>https://www.aibase.com/news/32572</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32572</guid>
+<description>日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
+</item>
+<item>
+<title>机器学习中的不确定性导论</title>
+<link>https://chrhenning.com/blog/2026/introduction-to-uncertainty</link>
+<guid isPermaLink="true">https://chrhenning.com/blog/2026/introduction-to-uncertainty</guid>
+<description>机器学习中的不确定性导论 (chrhenning.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 27 Nov 2026 13:19:37 +0000</pubDate>
+</item>
+<item>
+<title>Prosed AI 2.0 + MCP — Your company's words, assembled into a book</title>
+<link>https://www.producthunt.com/products/prosed-turn-your-content-into-a-book</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/prosed-turn-your-content-into-a-book</guid>
+<description>Your company's words, assembled into a book (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 14:59:18 +0000</pubDate>
+</item>
+<item>
+<title>克劳德破坏SOTA机器学习研究任务</title>
+<link>https://twitter.com/RealAstropulse/status/2126119408997466389</link>
+<guid isPermaLink="true">https://twitter.com/RealAstropulse/status/2126119408997466389</guid>
+<description>克劳德破坏SOTA机器学习研究任务 (twitter.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 27 Nov 2026 11:11:55 +0000</pubDate>
+</item>
+<item>
+<title>那个你的AI在背后议论你的群聊</title>
+<link>https://construct22.com</link>
+<guid isPermaLink="true">https://construct22.com</guid>
+<description>那个你的AI在背后议论你的群聊 (construct22.com)</description>
+<category>Multi-source buzz</category>
+<pubDate>Fri, 27 Nov 2026 08:32:09 +0000</pubDate>
 </item>
 <item>
 <title>月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持</title>
@@ -88,12 +128,28 @@
 <pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
 </item>
 <item>
-<title>那个你的AI在背后议论你的群聊</title>
-<link>https://construct22.com</link>
-<guid isPermaLink="true">https://construct22.com</guid>
-<description>那个你的AI在背后议论你的群聊 (construct22.com)</description>
+<title>AI 让自主托管重新变得有趣</title>
+<link>https://janlukas.blog/posts/ai-self-hosting</link>
+<guid isPermaLink="true">https://janlukas.blog/posts/ai-self-hosting</guid>
+<description>AI 让自主托管重新变得有趣 (janlukas.blog)</description>
 <category>Multi-source buzz</category>
-<pubDate>Fri, 27 Nov 2026 08:32:09 +0000</pubDate>
+<pubDate>Thu, 26 Nov 2026 23:27:36 +0000</pubDate>
+</item>
+<item>
+<title>Spark AI — AI-native permitting &amp; diligence services for data centers</title>
+<link>https://www.producthunt.com/products/spark-ai-7</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/spark-ai-7</guid>
+<description>AI-native permitting &amp; diligence services for data centers (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 14:59:18 +0000</pubDate>
+</item>
+<item>
+<title>New AI research suggests AI bubble bursting and to expect major market collapse</title>
+<link>https://www.london.edu/think/ai-bubble-about-to-burst</link>
+<guid isPermaLink="true">https://www.london.edu/think/ai-bubble-about-to-burst</guid>
+<description>New AI research suggests AI bubble bursting and to expect major market collapse</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 02:44:12 +0000</pubDate>
 </item>
 <item>
 <title>谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB</title>
@@ -109,63 +165,7 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/qa-tech</guid>
 <description>Verify every change from your IDE with QA agents (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 27 Nov 2026 04:56:34 +0000</pubDate>
-</item>
-<item>
-<title>AI 让自主托管重新变得有趣</title>
-<link>https://janlukas.blog/posts/ai-self-hosting</link>
-<guid isPermaLink="true">https://janlukas.blog/posts/ai-self-hosting</guid>
-<description>AI 让自主托管重新变得有趣 (janlukas.blog)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 26 Nov 2026 23:27:36 +0000</pubDate>
-</item>
-<item>
-<title>Claude sabotaging SOTA ML research tasks</title>
-<link>https://twitter.com/RealAstropulse/status/2126119408997466389</link>
-<guid isPermaLink="true">https://twitter.com/RealAstropulse/status/2126119408997466389</guid>
-<description>Claude sabotaging SOTA ML research tasks</description>
-<category>Worth watching</category>
-<pubDate>Fri, 27 Nov 2026 08:28:08 +0000</pubDate>
-</item>
-<item>
-<title>谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件</title>
-<link>https://techstackups.com/articles/google-workspace-ai-agents-mcp</link>
-<guid isPermaLink="true">https://techstackups.com/articles/google-workspace-ai-agents-mcp</guid>
-<description>谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 (techstackups.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 26 Nov 2026 19:27:56 +0000</pubDate>
-</item>
-<item>
-<title>豆包独家接入剪映，用“对话式交互”重塑视频创作工作流</title>
-<link>https://www.aibase.com/news/32576</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32576</guid>
-<description>豆包独家接入剪映，用“对话式交互”重塑视频创作工作流 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
-</item>
-<item>
-<title>追踪被人工智能治愈的疾病</title>
-<link>https://diseasescuredbyai.com</link>
-<guid isPermaLink="true">https://diseasescuredbyai.com</guid>
-<description>追踪被人工智能治愈的疾病 (diseasescuredbyai.com)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 26 Nov 2026 18:23:52 +0000</pubDate>
-</item>
-<item>
-<title>New AI research suggests AI bubble bursting and to expect major market collapse</title>
-<link>https://www.london.edu/think/ai-bubble-about-to-burst</link>
-<guid isPermaLink="true">https://www.london.edu/think/ai-bubble-about-to-burst</guid>
-<description>New AI research suggests AI bubble bursting and to expect major market collapse</description>
-<category>Worth watching</category>
-<pubDate>Fri, 27 Nov 2026 02:44:12 +0000</pubDate>
-</item>
-<item>
-<title>首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带</title>
-<link>https://www.aibase.com/news/32573</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32573</guid>
-<description>首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Fri, 27 Nov 2026 09:40:17 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 13:44:28 +0000</pubDate>
 </item>
 </channel>
 </rss>
