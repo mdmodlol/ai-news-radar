@@ -5,7 +5,7 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Fri, 27 Nov 2026 01:02:14 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:05:48 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
 <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
@@ -16,44 +16,44 @@
 <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
 </item>
 <item>
-<title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
-<link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
-<guid isPermaLink="true">https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
-<description>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference (Hugging Face Blog)</description>
-<category>Official update</category>
-<pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+<title>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手</title>
+<link>https://www.aibase.com/news/32560</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32560</guid>
+<description>AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重</title>
-<link>https://www.aibase.com/news/32558</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32558</guid>
-<description>Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重 (AIbase)</description>
+<title>OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4</title>
+<link>https://www.aibase.com/news/32564</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32564</guid>
+<description>OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 27 Nov 2026 01:02:14 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
-<title>跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前</title>
-<link>https://www.aibase.com/news/32557</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32557</guid>
-<description>跟 AI 聊一句花多少钱？DeepSeek 灰度测试“消耗额度”，把账单摊在你面前 (AIbase)</description>
+<title>OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？</title>
+<link>https://www.aibase.com/news/32567</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32567</guid>
+<description>OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？ (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Fri, 27 Nov 2026 01:02:14 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
-<title>点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭</title>
-<link>https://www.aibase.com/news/32556</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32556</guid>
-<description>点几下就能订，退订却得绕回原路：德国消保机构把 OpenAI 告上法庭 (AIbase)</description>
+<title>Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者</title>
+<link>https://www.aibase.com/news/32561</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32561</guid>
+<description>Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 15:22:11 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号</title>
-<link>https://www.aibase.com/news/32549</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32549</guid>
-<description>Anthropic CEO驳“让渡自由意志”指责：把治理权交给 AI 是坏主意，同行全在喊口号 (AIbase)</description>
+<title>​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%</title>
+<link>https://www.aibase.com/news/32559</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32559</guid>
+<description>​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25% (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 09:30:40 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
 <title>Grand Theft Auto VI proves why efficiency isn’t a virtue</title>
@@ -64,12 +64,12 @@
 <pubDate>Thu, 26 Nov 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考</title>
-<link>https://www.aibase.com/news/32554</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32554</guid>
-<description>MiniMax 旗下 Talkie 因涉黄被下架，AI 陪伴赛道迎来最严监管大考 (AIbase)</description>
+<title>微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”</title>
+<link>https://www.aibase.com/news/32565</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32565</guid>
+<description>微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制” (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 09:30:40 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
 <title>QA.tech MCP — Verify every change from your IDE with QA agents</title>
@@ -77,15 +77,31 @@
 <guid isPermaLink="true">https://www.producthunt.com/products/qa-tech</guid>
 <description>Verify every change from your IDE with QA agents (Product Hunt)</description>
 <category>Worth watching</category>
-<pubDate>Fri, 27 Nov 2026 00:58:06 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 04:56:34 +0000</pubDate>
 </item>
 <item>
-<title>SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数</title>
-<link>https://www.aibase.com/news/32553</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32553</guid>
-<description>SpaceX 算力降价两至三成出租：大客户 Anthropic 的 5 万卡合同续约存变数 (AIbase)</description>
+<title>月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战</title>
+<link>https://www.aibase.com/news/32566</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32566</guid>
+<description>月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战 (AIbase)</description>
 <category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 09:30:40 +0000</pubDate>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
+</item>
+<item>
+<title>Transept AI — Translate your book in your own voice and prove authorship</title>
+<link>https://www.producthunt.com/products/transept-ai</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/transept-ai</guid>
+<description>Translate your book in your own voice and prove authorship (Product Hunt)</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 03:53:55 +0000</pubDate>
+</item>
+<item>
+<title>消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因</title>
+<link>https://www.aibase.com/news/32562</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32562</guid>
+<description>消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
 <title>AI 让自主托管重新变得有趣</title>
@@ -104,14 +120,6 @@
 <pubDate>Thu, 26 Nov 2026 21:19:40 +0000</pubDate>
 </item>
 <item>
-<title>Transept AI — Translate your book in your own voice and prove authorship</title>
-<link>https://www.producthunt.com/products/transept-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/transept-ai</guid>
-<description>Translate your book in your own voice and prove authorship (Product Hunt)</description>
-<category>Worth watching</category>
-<pubDate>Thu, 26 Nov 2026 22:20:37 +0000</pubDate>
-</item>
-<item>
 <title>谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件</title>
 <link>https://techstackups.com/articles/google-workspace-ai-agents-mcp</link>
 <guid isPermaLink="true">https://techstackups.com/articles/google-workspace-ai-agents-mcp</guid>
@@ -120,20 +128,20 @@
 <pubDate>Thu, 26 Nov 2026 19:27:56 +0000</pubDate>
 </item>
 <item>
-<title>上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式</title>
-<link>https://www.aibase.com/news/32551</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32551</guid>
-<description>上海AI Lab开源Sage-Interaction，以1. 29 秒极致延迟重塑全双工交互新范式 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 09:30:40 +0000</pubDate>
+<title>New AI research suggests AI bubble bursting and to expect major market collapse</title>
+<link>https://www.london.edu/think/ai-bubble-about-to-burst</link>
+<guid isPermaLink="true">https://www.london.edu/think/ai-bubble-about-to-burst</guid>
+<description>New AI research suggests AI bubble bursting and to expect major market collapse</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 02:44:12 +0000</pubDate>
 </item>
 <item>
-<title>Top-cited AI scientists at four US companies compared</title>
-<link>https://topcitedscientists.com/figures/ai-at-four-us-companies</link>
-<guid isPermaLink="true">https://topcitedscientists.com/figures/ai-at-four-us-companies</guid>
-<description>Top-cited AI scientists at four US companies compared</description>
-<category>Worth watching</category>
-<pubDate>Thu, 26 Nov 2026 19:44:31 +0000</pubDate>
+<title>路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力</title>
+<link>https://www.aibase.com/news/32563</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32563</guid>
+<description>路透社母公司年底推出 Thomson 1.1：基座选智谱 GLM 和 Google Gemma，看中计算机操作能力 (AIbase)</description>
+<category>Industry news</category>
+<pubDate>Fri, 27 Nov 2026 05:05:48 +0000</pubDate>
 </item>
 <item>
 <title>追踪被人工智能治愈的疾病</title>
@@ -144,28 +152,20 @@
 <pubDate>Thu, 26 Nov 2026 18:23:52 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25%</title>
-<link>https://twitter.com/thsottiaux/status/2125784147889393806</link>
-<guid isPermaLink="true">https://twitter.com/thsottiaux/status/2125784147889393806</guid>
-<description>OpenAI 削减 GPT-6.2 的使用量：Astra 达到使用上限的速度加快了 40%，Sol 加快了 25% (twitter.com)</description>
-<category>Multi-source buzz</category>
-<pubDate>Thu, 26 Nov 2026 06:07:38 +0000</pubDate>
-</item>
-<item>
-<title>不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速</title>
-<link>https://www.aibase.com/news/32555</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32555</guid>
-<description>不换模型也能吐字快 4.2 倍：腾讯混元开源草稿模型 DFly2，专给 Hy4 flash 提速 (AIbase)</description>
-<category>Industry news</category>
-<pubDate>Thu, 26 Nov 2026 09:30:40 +0000</pubDate>
-</item>
-<item>
 <title>Moat：您的 OpenRouter 替代方案</title>
 <link>https://commandcode.ai/moat</link>
 <guid isPermaLink="true">https://commandcode.ai/moat</guid>
 <description>Moat：您的 OpenRouter 替代方案 (commandcode.ai)</description>
 <category>Worth watching</category>
 <pubDate>Thu, 26 Nov 2026 12:15:39 +0000</pubDate>
+</item>
+<item>
+<title>AI agents now control part of DeepMind's compute for Gemini experiments</title>
+<link>https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant</link>
+<guid isPermaLink="true">https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant</guid>
+<description>AI agents now control part of DeepMind's compute for Gemini experiments</description>
+<category>Worth watching</category>
+<pubDate>Fri, 27 Nov 2026 00:03:18 +0000</pubDate>
 </item>
 </channel>
 </rss>
