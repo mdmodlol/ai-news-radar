@@ -1,95 +1,8 @@
 {
-  "generated_at": "2026-11-27T15:09:50.382975Z",
+  "generated_at": "2026-11-28T00:34:38.406220Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_ea3f87ca002e",
-      "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-      "url": "https://huggingface.co/blog/video-trainium3",
-      "primary_url": "https://huggingface.co/blog/video-trainium3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/video-trainium3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-27T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/video-trainium3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-27T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8033,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T00:00:00Z",
-      "latest_at": "2026-11-27T00:00:00Z",
-      "primary_item": {
-        "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-        "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-        "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/video-trainium3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
     {
       "story_id": "story_f707740900a2",
       "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
@@ -139,21 +52,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8729,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T15:09:50.382975Z",
       "latest_at": "2026-11-27T15:09:50.382975Z",
@@ -173,7 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -225,21 +137,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -259,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -311,21 +222,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -345,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -397,21 +307,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -431,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -483,21 +392,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -517,7 +425,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_fd80de8cbc3c",
+      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-27T23:59:51Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-27T23:59:51Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5927,
+      "importance": 0.5927,
+      "importance_score": 0.5927,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9917,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T14:59:18.548000Z",
+      "latest_at": "2026-11-27T23:59:51Z",
+      "primary_item": {
+        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "summary": "Your company's words, assembled into a book",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -569,21 +595,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -603,125 +628,158 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
-      "story_id": "story_538b401561d4",
-      "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-      "primary_url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
+      "story_id": "story_3ff9fe7f4315",
+      "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "primary_url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "www.oag.state.va.us",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
-          "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
-          "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": null,
+          "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-26T16:00:00Z",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "www.oag.state.va.us",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T21:51:48.844000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "97155542fae04cbfaea853a67fb42cdc51d11ad9",
-          "title": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德 / As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_zh": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德",
-          "title_en": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_original": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "id": "df35899451d66535d584052491b2989a5e9cb36a",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T16:00:00Z",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5904bf2bd1f1e77a09fd86ad909bd1197ee424b",
+          "title": "多州起诉SpaceX，要求阻止Grok生成儿童性图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "多州起诉SpaceX，要求阻止Grok生成儿童性图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50670855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T19:42:25Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.oag.state.va.us"
       ],
       "items": [
         {
-          "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
-          "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
-          "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": null,
+          "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-26T16:00:00Z",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "www.oag.state.va.us",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T21:51:48.844000Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "97155542fae04cbfaea853a67fb42cdc51d11ad9",
-          "title": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德 / As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_zh": "作为人性化的 IPO，侠盗猎车手 VI 证明了为什么效率不是一种美德",
-          "title_en": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
-          "title_original": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn’t a virtue",
+          "id": "df35899451d66535d584052491b2989a5e9cb36a",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-26T16:00:00Z",
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5904bf2bd1f1e77a09fd86ad909bd1197ee424b",
+          "title": "多州起诉SpaceX，要求阻止Grok生成儿童性图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "多州起诉SpaceX，要求阻止Grok生成儿童性图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50670855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T19:42:25Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5976,
-      "importance": 0.5976,
-      "importance_score": 0.5976,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7157,
-        "story_heat": 0.25
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9616,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-26T16:00:00Z",
-      "latest_at": "2026-11-26T16:00:00Z",
+      "earliest_at": "2026-11-27T19:42:25Z",
+      "latest_at": "2026-11-27T21:51:48.844000Z",
       "primary_item": {
-        "id": "47df4e28b3a396b0f08e195d3573bb7d311fa834",
-        "title": "Grand Theft Auto VI 证明了为什么效率不是一种美德 / Grand Theft Auto VI proves why efficiency isn’t a virtue",
-        "title_zh": "Grand Theft Auto VI 证明了为什么效率不是一种美德",
-        "title_en": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
-        "title_original": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+        "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+        "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+        "title_en": null,
+        "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "source": "www.oag.state.va.us",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -745,7 +803,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T15:06:36Z",
+          "updated_at": "2026-11-27T23:57:23Z",
           "recency_basis": "updated_at"
         },
         {
@@ -784,7 +842,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T15:06:36Z",
+          "updated_at": "2026-11-27T23:57:23Z",
           "recency_basis": "updated_at"
         },
         {
@@ -806,15 +864,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5941,
-      "importance": 0.5941,
-      "importance_score": 0.5941,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9992,
+        "recency": 0.9911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -822,7 +880,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T14:59:18.548000Z",
-      "latest_at": "2026-11-27T15:06:36Z",
+      "latest_at": "2026-11-27T23:57:23Z",
       "primary_item": {
         "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
         "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
@@ -839,7 +897,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -891,21 +949,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -925,280 +982,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
-      "story_id": "story_28f590390420",
-      "title": "机器学习中的不确定性导论",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-      "primary_url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-      "source": "chrhenning.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-          "title": "机器学习中的不确定性导论",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": null,
-          "title_original": "机器学习中的不确定性导论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "chrhenning.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T13:19:37.375000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
-          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
-          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性简介",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658498",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "chrhenning.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-          "title": "机器学习中的不确定性导论",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": null,
-          "title_original": "机器学习中的不确定性导论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "chrhenning.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T13:19:37.375000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
-          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
-          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性简介",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658498",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9738,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T19:04:50Z",
-      "latest_at": "2026-11-27T13:19:37.375000Z",
-      "primary_item": {
-        "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-        "title": "机器学习中的不确定性导论",
-        "title_zh": "机器学习中的不确定性导论",
-        "title_en": null,
-        "title_original": "机器学习中的不确定性导论",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-        "source": "chrhenning.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
-    {
-      "story_id": "story_4471fcdb7066",
-      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T14:50:32Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T14:50:32Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5934,
-      "importance": 0.5934,
-      "importance_score": 0.5934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9954,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T14:50:32Z",
-      "latest_at": "2026-11-27T14:59:18.548000Z",
-      "primary_item": {
-        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "summary": "Your company's words, assembled into a book",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
-    {
-      "story_id": "story_fb08618e010b",
+      "story_id": "story_341d620abab8",
       "title": "克劳德破坏SOTA机器学习研究任务",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
@@ -1222,11 +1010,11 @@
           "recency_basis": null
         },
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
           "title_zh": "Claude破坏SOTA机器学习研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
@@ -1238,11 +1026,11 @@
           "recency_basis": null
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
+          "title": "Claude破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
+          "title_zh": "Claude破坏机器学习研究任务？",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50664325",
@@ -1278,11 +1066,11 @@
           "recency_basis": null
         },
         {
-          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging SOTA ML research tasks",
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
           "title_zh": "Claude破坏SOTA机器学习研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
@@ -1294,11 +1082,11 @@
           "recency_basis": null
         },
         {
-          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
-          "title_zh": "Claude 破坏 SOTA ML 研究任务",
-          "title_en": "Claude sabotaging SOTA ML research tasks",
-          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
+          "title": "Claude破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
+          "title_zh": "Claude破坏机器学习研究任务？",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50664325",
@@ -1312,15 +1100,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5608,
-      "importance": 0.5608,
-      "importance_score": 0.5608,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9443,
+        "recency": 0.8243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1345,11 +1133,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
-      "story_id": "story_943fc65849cc",
+      "story_id": "story_b0a55c398948",
+      "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+      "url": "https://github.com/skeeto/prospero",
+      "primary_url": "https://github.com/skeeto/prospero",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/skeeto/prospero",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T20:23:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2c1bf4c5a071731b7606bd30365c395c7a0913f8",
+          "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+          "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50671275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T20:23:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9413,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T20:23:14Z",
+      "latest_at": "2026-11-27T20:23:14Z",
+      "primary_item": {
+        "id": "63ec982a6a936d92cf04993b50aec68ad7036d56",
+        "title": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具 / Prospero: Bloat-free, native AI coding harness with ImGui",
+        "title_zh": "Prospero：使用 ImGui 的无膨胀原生 AI 编码工具",
+        "title_en": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "title_original": "Prospero: Bloat-free, native AI coding harness with ImGui",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/skeeto/prospero",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_dd0a9bd26c2a",
       "title": "那个你的AI在背后议论你的群聊",
       "url": "https://construct22.com",
       "primary_url": "https://construct22.com",
@@ -1373,11 +1279,11 @@
           "recency_basis": null
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "title_zh": "那个你的AI在背后议论你的群聊",
-          "title_en": "The group chat where your AI talks behind your back",
-          "title_original": "The group chat where your AI talks behind your back",
+          "title_en": "Group chat where your AI talks behind your back",
+          "title_original": "Group chat where your AI talks behind your back",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://construct22.com",
@@ -1429,11 +1335,11 @@
           "recency_basis": null
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "title_zh": "那个你的AI在背后议论你的群聊",
-          "title_en": "The group chat where your AI talks behind your back",
-          "title_original": "The group chat where your AI talks behind your back",
+          "title_en": "Group chat where your AI talks behind your back",
+          "title_original": "Group chat where your AI talks behind your back",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://construct22.com",
@@ -1463,15 +1369,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9087,
+        "recency": 0.7932,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1496,7 +1402,479 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_f4ebfc0e7002",
+      "title": "我害怕人工智能",
+      "url": "https://thesoapbox.email/archive/3",
+      "primary_url": "https://thesoapbox.email/archive/3",
+      "source": "thesoapbox.email",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "title_zh": "我害怕人工智能",
+          "title_en": null,
+          "title_original": "我害怕人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "title_zh": "我害怕人工智能",
+          "title_en": "I'm Scared of AI",
+          "title_original": "I'm Scared of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "thesoapbox.email"
+      ],
+      "items": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "title_zh": "我害怕人工智能",
+          "title_en": null,
+          "title_original": "我害怕人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "title_zh": "我害怕人工智能",
+          "title_en": "I'm Scared of AI",
+          "title_original": "I'm Scared of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9181,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T17:45:31Z",
+      "latest_at": "2026-11-27T18:39:34.459000Z",
+      "primary_item": {
+        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+        "title": "我害怕人工智能",
+        "title_zh": "我害怕人工智能",
+        "title_en": null,
+        "title_original": "我害怕人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thesoapbox.email/archive/3",
+        "source": "thesoapbox.email",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_d80ddcf74b13",
+      "title": "GPT 6.2 Astra 解开了历史之谜",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "primary_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "generativehistory.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": null,
+          "title_original": "GPT 6.2 Astra 解开了历史之谜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra solves a historical mystery",
+          "title_original": "GPT 6.2 Astra solves a historical mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "generativehistory.substack.com"
+      ],
+      "items": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": null,
+          "title_original": "GPT 6.2 Astra 解开了历史之谜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra solves a historical mystery",
+          "title_original": "GPT 6.2 Astra solves a historical mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9076,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T15:03:17Z",
+      "latest_at": "2026-11-27T17:52:00.183000Z",
+      "primary_item": {
+        "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+        "title": "GPT 6.2 Astra 解开了历史之谜",
+        "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+        "title_en": null,
+        "title_original": "GPT 6.2 Astra 解开了历史之谜",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "source": "generativehistory.substack.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_1ebdcbae904d",
+      "title": "数学家担心，人工智能即将使网络安全形同虚设",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "www.thetimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": null,
+          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.thetimes.com"
+      ],
+      "items": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": null,
+          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5292,
+      "importance": 0.5292,
+      "importance_score": 0.5292,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9076,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T11:09:04Z",
+      "latest_at": "2026-11-27T17:52:00.179000Z",
+      "primary_item": {
+        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+        "title": "数学家担心，人工智能即将使网络安全形同虚设",
+        "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+        "title_en": null,
+        "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "source": "www.thetimes.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
+      }
+    },
+    {
+      "story_id": "story_58ee99362953",
+      "title": "“Kimi for Science”：更多科学构想，化为现实",
+      "url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
+      "source": "www.kimi.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+          "title": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_en": null,
+          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "www.kimi.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T15:43:52.256000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
+          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
+          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_en": "Kimi for Science: More scientific ideas, made possible",
+          "title_original": "Kimi for Science: More scientific ideas, made possible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T12:03:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.kimi.ai"
+      ],
+      "items": [
+        {
+          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+          "title": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_en": null,
+          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "www.kimi.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T15:43:52.256000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc4ac8e73dffc8881009d19b284703ef7ec99cd4",
+          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science: More scientific ideas, made possible",
+          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
+          "title_en": "Kimi for Science: More scientific ideas, made possible",
+          "title_original": "Kimi for Science: More scientific ideas, made possible",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.kimi.ai/news/kimi-for-science-program",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T12:03:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8801,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:03:11Z",
+      "latest_at": "2026-11-27T15:43:52.256000Z",
+      "primary_item": {
+        "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
+        "title": "“Kimi for Science”：更多科学构想，化为现实",
+        "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
+        "title_en": null,
+        "title_original": "“Kimi for Science”：更多科学构想，化为现实",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.kimi.ai/news/kimi-for-science-program",
+        "source": "www.kimi.ai",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
@@ -1548,21 +1926,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.8063,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:40:17.402742Z",
       "latest_at": "2026-11-27T09:40:17.402742Z",
@@ -1582,162 +1959,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
-      "story_id": "story_62e626ed2c59",
-      "title": "AI 让自主托管重新变得有趣",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "janlukas.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": null,
-          "title_original": "AI 让自主托管重新变得有趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "title_zh": "人工智能再次让自托管变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50660180",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "janlukas.blog"
-      ],
-      "items": [
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": null,
-          "title_original": "AI 让自主托管重新变得有趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "title_zh": "人工智能再次让自托管变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50660180",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7971,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T21:47:45Z",
-      "latest_at": "2026-11-26T23:27:36.973000Z",
-      "primary_item": {
-        "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-        "title": "AI 让自主托管重新变得有趣",
-        "title_zh": "AI 让自主托管重新变得有趣",
-        "title_en": null,
-        "title_original": "AI 让自主托管重新变得有趣",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "janlukas.blog",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
-    {
-      "story_id": "story_6e62bb28eb33",
+      "story_id": "story_0d55b14db2af",
       "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
       "url": "https://www.producthunt.com/products/spark-ai-7",
       "primary_url": "https://www.producthunt.com/products/spark-ai-7",
@@ -1757,7 +1983,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T14:41:03Z",
+          "updated_at": "2026-11-27T19:52:06Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1796,7 +2022,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T14:41:03Z",
+          "updated_at": "2026-11-27T19:52:06Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1818,23 +2044,23 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5824,
+      "importance": 0.5824,
+      "importance_score": 0.5824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9343,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T14:41:03Z",
-      "latest_at": "2026-11-27T14:59:18.548000Z",
+      "earliest_at": "2026-11-27T14:59:18.548000Z",
+      "latest_at": "2026-11-27T19:52:06Z",
       "primary_item": {
         "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
         "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
@@ -1851,46 +2077,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     },
     {
-      "story_id": "story_89105021ab8e",
-      "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "primary_url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "story_id": "story_e43ff653ee7d",
+      "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+      "url": "https://news.ycombinator.com/item?id=50665732",
+      "primary_url": "https://news.ycombinator.com/item?id=50665732",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
+          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
+          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
+          "url": "https://news.ycombinator.com/item?id=50665732",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T11:41:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
+          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
+          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
+          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:41:11Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1902,278 +2128,74 @@
       ],
       "items": [
         {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
+          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
+          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
+          "url": "https://news.ycombinator.com/item?id=50665732",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T11:41:11Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
+          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
+          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
+          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:41:11Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8357,
+        "recency": 0.8301,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T02:44:12Z",
-      "latest_at": "2026-11-27T02:44:12Z",
+      "earliest_at": "2026-11-27T11:41:11Z",
+      "latest_at": "2026-11-27T11:41:11Z",
       "primary_item": {
-        "id": "1b65d0df52c68f691605a87eee82368498605aee",
-        "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-        "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+        "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
+        "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
+        "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
+        "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
+        "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "url": "https://news.ycombinator.com/item?id=50665732",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
-    {
-      "story_id": "story_f048a078990c",
-      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-      "url": "https://www.aibase.com/news/32575",
-      "primary_url": "https://www.aibase.com/news/32575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_en": null,
-          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "title_en": null,
-          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T09:40:17.402742Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9237,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T09:40:17.402742Z",
-      "latest_at": "2026-11-27T09:40:17.402742Z",
-      "primary_item": {
-        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
-        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "title_en": null,
-        "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32575",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
-      }
-    },
-    {
-      "story_id": "story_abf6cd5ba2e3",
-      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-      "url": "https://www.producthunt.com/products/qa-tech",
-      "primary_url": "https://www.producthunt.com/products/qa-tech",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T13:44:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T13:44:28Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T15:25:48.283000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5905,
-      "importance": 0.5905,
-      "importance_score": 0.5905,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9797,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T15:25:48.283000Z",
-      "latest_at": "2026-11-27T13:44:28Z",
-      "primary_item": {
-        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "summary": "Verify every change from your IDE with QA agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/qa-tech",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T15:13:37.517613Z"
+        "scored_at": "2026-11-28T00:38:23.405383Z"
       }
     }
   ]
