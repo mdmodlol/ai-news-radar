@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:34:38.406220Z",
+  "generated_at": "2026-11-28T04:45:49.024253Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -85,7 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -137,15 +137,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -170,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -222,15 +222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -255,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -307,15 +307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -340,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -392,15 +392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -425,42 +425,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
-      "story_id": "story_fd80de8cbc3c",
-      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "story_id": "story_09660119eb8f",
+      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "primary_url": "https://www.producthunt.com/products/depost-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T23:59:51Z",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T04:34:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
           "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -476,30 +476,30 @@
       ],
       "items": [
         {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T23:59:51Z",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T04:34:02Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
           "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "url": "https://www.producthunt.com/products/depost-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -510,15 +510,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5927,
-      "importance": 0.5927,
-      "importance_score": 0.5927,
+      "score": 0.5937,
+      "importance": 0.5937,
+      "importance_score": 0.5937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9917,
+        "recency": 0.9972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -526,16 +526,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T14:59:18.548000Z",
-      "latest_at": "2026-11-27T23:59:51Z",
+      "latest_at": "2026-11-28T04:34:02Z",
       "primary_item": {
-        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "summary": "Your company's words, assembled into a book",
+        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "summary": "The LinkedIn AI agent that learns what works for your brand",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+        "url": "https://www.producthunt.com/products/depost-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -543,7 +543,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -595,15 +595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -628,7 +628,276 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
+      }
+    },
+    {
+      "story_id": "story_b4315fb505b4",
+      "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "drmahfouz.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_zh": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_en": null,
+          "title_original": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T04:31:49.729000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "drmahfouz.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_zh": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_en": null,
+          "title_original": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "drmahfouz.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-28T04:31:49.729000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9966,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T01:32:56Z",
+      "latest_at": "2026-11-28T04:31:49.729000Z",
+      "primary_item": {
+        "id": "ae732f2d3e8a2149f230ac3245bd930efb1dff52",
+        "title": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+        "title_zh": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+        "title_en": null,
+        "title_original": "房东的AI助手告诉一名女子她可以推迟交房租，结果该女子被驱逐出境",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "source": "drmahfouz.substack.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:49:30.279157Z"
+      }
+    },
+    {
+      "story_id": "story_0d55b14db2af",
+      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T04:31:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T04:31:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9965,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T14:59:18.548000Z",
+      "latest_at": "2026-11-28T04:31:16Z",
+      "primary_item": {
+        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+        "summary": "AI-native permitting & diligence services for data centers",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -746,15 +1015,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5639,
-      "importance": 0.5639,
-      "importance_score": 0.5639,
+      "score": 0.5537,
+      "importance": 0.5537,
+      "importance_score": 0.5537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9616,
+        "recency": 0.9052,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -779,125 +1048,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
-      }
-    },
-    {
-      "story_id": "story_09660119eb8f",
-      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-      "url": "https://www.producthunt.com/products/depost-ai",
-      "primary_url": "https://www.producthunt.com/products/depost-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T23:57:23Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
-          "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T23:57:23Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
-          "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5926,
-      "importance": 0.5926,
-      "importance_score": 0.5926,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9911,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T14:59:18.548000Z",
-      "latest_at": "2026-11-27T23:57:23Z",
-      "primary_item": {
-        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "summary": "The LinkedIn AI agent that learns what works for your brand",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/depost-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -949,15 +1100,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,7 +1133,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
+      }
+    },
+    {
+      "story_id": "story_fd80de8cbc3c",
+      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T03:33:57Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T03:33:57Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
+          "title_zh": null,
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T14:59:18.548000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5911,
+      "importance": 0.5911,
+      "importance_score": 0.5911,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9829,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T14:59:18.548000Z",
+      "latest_at": "2026-11-28T03:33:57Z",
+      "primary_item": {
+        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "summary": "Your company's words, assembled into a book",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1100,15 +1369,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5305,
+      "importance": 0.5305,
+      "importance_score": 0.5305,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8243,
+        "recency": 0.776,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1133,7 +1402,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1218,15 +1487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5352,
-      "importance": 0.5352,
-      "importance_score": 0.5352,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9413,
+        "recency": 0.8861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1251,7 +1520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1369,15 +1638,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
+      "score": 0.5252,
+      "importance": 0.5252,
+      "importance_score": 0.5252,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7932,
+        "recency": 0.7467,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1402,7 +1671,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1487,15 +1756,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9181,
+        "recency": 0.8642,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,7 +1789,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1605,15 +1874,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9076,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1638,7 +1907,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1723,15 +1992,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9076,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1756,7 +2025,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1841,15 +2110,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
+      "score": 0.5149,
+      "importance": 0.5149,
+      "importance_score": 0.5149,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8801,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1874,7 +2143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     },
     {
@@ -1926,15 +2195,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7327,
-      "importance": 0.7327,
-      "importance_score": 0.7327,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8063,
+        "recency": 0.759,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1959,243 +2228,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
-      }
-    },
-    {
-      "story_id": "story_0d55b14db2af",
-      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T19:52:06Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T19:52:06Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:59:18.548000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5824,
-      "importance": 0.5824,
-      "importance_score": 0.5824,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9343,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T14:59:18.548000Z",
-      "latest_at": "2026-11-27T19:52:06Z",
-      "primary_item": {
-        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-        "summary": "AI-native permitting & diligence services for data centers",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/spark-ai-7",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
-      }
-    },
-    {
-      "story_id": "story_e43ff653ee7d",
-      "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-      "url": "https://news.ycombinator.com/item?id=50665732",
-      "primary_url": "https://news.ycombinator.com/item?id=50665732",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8301,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:41:11Z",
-      "latest_at": "2026-11-27T11:41:11Z",
-      "primary_item": {
-        "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-        "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-        "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50665732",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T00:38:23.405383Z"
+        "scored_at": "2026-11-28T04:49:30.279157Z"
       }
     }
   ]
